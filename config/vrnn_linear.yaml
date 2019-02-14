@@ -1,0 +1,4 @@
+embeddings: data/collobert/embeddings50.txt
+trainset:
+  - data/task1/semeval/MSRpar/MSPar_train.txt
+  - data/task1/semeval/MSRpar/MSPar_train_labels.txt
