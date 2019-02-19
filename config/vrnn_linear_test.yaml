@@ -1,0 +1,4 @@
+embeddings: data/collobert/embeddings50.txt
+trainset:
+  - data/test/train2.txt
+  - data/test/train_labels.txt
