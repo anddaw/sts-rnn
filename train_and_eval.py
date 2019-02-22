@@ -7,6 +7,7 @@ import yaml
 from torch import nn, optim
 
 from data_loading import load_dataset
+from models.pick_model import pick_model
 from models.vrnn_linear import VRNNLinear
 
 from scipy import stats
@@ -55,7 +56,7 @@ if __name__ == '__main__':
     train_sentences, train_labels, train_similarities = load_dataset('trainset', config)
     test_sentences, test_labels, test_similarities = load_dataset('testset', config)
 
-    model = VRNNLinear(hidden_size=50, embedding_size=50, output_size=6, num_layers=config['num_rnn_layers'])
+    model = pick_model(config)
     loss_func = nn.MSELoss()
     optimizer = optim.SGD(model.parameters(), lr=0.1)
 
