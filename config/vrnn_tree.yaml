@@ -3,12 +3,12 @@ embeddings: data/collobert/embeddings50.txt
 
 # Trainset sentence pairs and labels paths
 trainset:
-  - data/task1/semeval/MSRpar/MSPar_train.txt
+  - data/task1/semeval/MSRpar/MSPar_train_tree.txt
   - data/task1/semeval/MSRpar/MSPar_train_labels.txt
 
 # Testset sentence pairs and labels paths
 testset:
-  - data/task1/semeval/MSRpar/MSPar_test.txt
+  - data/task1/semeval/MSRpar/MSPar_test_tree.txt
   - data/task1/semeval/MSRpar/MSPar_test_labels.txt
 
 # Max number of epochs
@@ -23,5 +23,5 @@ label_rounding: approx
 # Model specification:
 
 # Input type (sentence or tree)
-input_type: sentence
-num_rnn_layers: 1
+input_type: tree
+num_rnn_layers: 2

@@ -6,12 +6,12 @@ import matplotlib.pyplot as plt
 import yaml
 from torch import nn, optim
 
-from data_loading import load_embeddings, load_labels, load_sentence_pairs, embed_sentences
+from data_loading import load_dataset
 from models.vrnn_linear import VRNNLinear
 
 from scipy import stats
 
-from random import shuffle, sample
+from random import sample
 
 
 def load_config(config_file_path: str):
@@ -27,6 +27,23 @@ def eval_model(model, corpus, gt_scores):
     return r * 100
 
 
+def plot_scores(train_scores_, test_scores_, losses_):
+    figure, subplots = plt.subplots(2, sharex=True)
+    subplots[0].plot(train_scores_, label='trainset')
+    subplots[0].plot(test_scores_, label='testset')
+
+    for i, score in enumerate(train_scores_):
+        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+    for i, score in enumerate(test_scores_):
+        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+
+    subplots[0].set_title('Scores')
+    subplots[0].legend()
+    subplots[1].plot(losses_)
+    subplots[1].set_title('Loss')
+    figure.show()
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
@@ -35,16 +52,8 @@ if __name__ == '__main__':
 
     config = load_config(args.config)
 
-    print('Loading embeddings')
-    embeddings = load_embeddings(config['embeddings'])
-    print('Loading datasets')
-    train_sentences_path, train_labels_path = config['trainset']
-    train_sentences = embed_sentences(load_sentence_pairs(train_sentences_path), embeddings)
-    train_labels, train_similarities = load_labels(train_labels_path, rounding=config['label_rounding'])
-
-    test_sentences_path, test_labels_path = config['testset']
-    test_sentences = embed_sentences(load_sentence_pairs(test_sentences_path), embeddings)
-    test_labels, test_similarities = load_labels(test_labels_path, rounding=config['label_rounding'])
+    train_sentences, train_labels, train_similarities = load_dataset('trainset', config)
+    test_sentences, test_labels, test_similarities = load_dataset('testset', config)
 
     model = VRNNLinear(hidden_size=50, embedding_size=50, output_size=6, num_layers=config['num_rnn_layers'])
     loss_func = nn.MSELoss()
@@ -79,17 +88,4 @@ if __name__ == '__main__':
         print(f'Score on training set: {train_score}')
         print(f'Score on test set: {test_score}')
 
-    figure, subplots = plt.subplots(2, sharex=True)
-    subplots[0].plot(train_scores, label='trainset')
-    subplots[0].plot(test_scores, label='testset')
-
-    for i, score in enumerate(train_scores):
-        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
-    for i, score in enumerate(test_scores):
-        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
-
-    subplots[0].set_title('Scores')
-    subplots[0].legend()
-    subplots[1].plot(losses)
-    subplots[1].set_title('Loss')
-    figure.show()
+    plot_scores(train_scores, test_scores, losses)

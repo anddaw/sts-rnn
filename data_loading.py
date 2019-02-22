@@ -1,17 +1,21 @@
 import csv
 from typing import Tuple, Dict, List
 
+import functools
+
 import numpy as np
 import torch
 from sacremoses import MosesTokenizer
 
-Embeddings = Tuple[Dict[str, int], np.ndarray]
+from tree import TreeReader
 
-UNKNOWN_TOKEN = '*UNKNOWN*'
+from data_preprocessor import Embeddings, DataPreprocessor
 
 
+@functools.lru_cache()
 def load_embeddings(path: str) -> Embeddings:
 
+    print(f'Loading embeddings from {path}')
     embeddings = []
     dictionary = {}
     with open(path, 'r') as embeddings_file:
@@ -63,43 +67,30 @@ def load_sentence_pairs(path: str) -> List[str]:
         return list(sentences_file)
 
 
+def load_dataset(dataset, config):
+
+    embeddings = load_embeddings(config['embeddings'])
+
+    print(f'Loading {dataset}')
+
+    input_type = config['input_type']
+    sentences_path, labels_path = config[dataset]
+
+    if input_type == 'sentence':
+        sentences = embed_sentences(load_sentence_pairs(sentences_path), embeddings)
+    elif input_type == 'tree':
+        reader = TreeReader(DataPreprocessor(embeddings))
+        sentences = reader.load_from_file(sentences_path)
+    else:
+        raise ValueError(f'Unknown input_type: {input_type}')
+
+    labels, similarities = load_labels(labels_path, rounding=config['label_rounding'])
+    return sentences, labels, similarities
+
+
 def embed_sentences(sentences: List[str], embeddings: Embeddings) -> List[Tuple[torch.Tensor, torch.Tensor]]:
     preprocessor = DataPreprocessor(embeddings)
     embedded = preprocessor.embed_sentence_pairs(sentences)
     print(f'Words: {preprocessor.words}, unknown: {preprocessor.unknown_words}')
     return embedded
-
-
-class DataPreprocessor:
-
-    def __init__(self, embeddings: Embeddings):
-        self.dictionary, self.embedding_vectors = embeddings
-        self.words = 0
-        self.unknown_words = 0
-
-        self.tokenizer = MosesTokenizer()
-
-    def _word_index(self, word):
-        return self.dictionary.get(word, self.dictionary[UNKNOWN_TOKEN])
-
-    def embed_sentence_pairs(self, sentence_pairs: List[str]) -> List[Tuple[torch.Tensor, torch.Tensor]]:
-
-        embedded = []
-
-        def embed_sentence(sentence: str) -> torch.Tensor:
-            words = self.tokenizer.tokenize(sentence.strip())
-            indices = [self._word_index(w) for w in words]
-            self.words += len(indices)
-            self.unknown_words += len([i for i in indices if i == self.dictionary[UNKNOWN_TOKEN]])
-
-            return torch.FloatTensor([self.embedding_vectors[i] for i in indices])
-
-        for sentence_pair in sentence_pairs:
-
-            sentence1, sentence2 = sentence_pair.strip().split('\t')
-
-            embedded.append((embed_sentence(sentence1), embed_sentence(sentence2)))
-
-        return embedded
-
 
