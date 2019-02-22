@@ -18,17 +18,13 @@ class TreeNode(AnyNode):
     def __str__(self):
         return str(RenderTree(self))
 
-
-ParseTree = AnyNode
-
-
 class TreeReader:
 
     def __init__(self, preprocessor: DataPreprocessor):
 
         self.preprocessor = preprocessor
 
-    def _tree_from_string(self, tree_string: str) -> ParseTree:
+    def _tree_from_string(self, tree_string: str) -> TreeNode:
 
         def to_anytree(nltk_tree, parent=None):
 
@@ -55,7 +51,7 @@ class TreeReader:
     def _split_contents(contents: str) -> List[str]:
         return contents.split('\n\n')
 
-    def load_from_file(self, file_path: str) -> List[Tuple[ParseTree, ParseTree]]:
+    def load_from_file(self, file_path: str) -> List[Tuple[TreeNode, TreeNode]]:
 
         with open(file_path, 'r') as tree_file:
             tree_strings = self._split_contents(tree_file.read())

@@ -42,4 +42,4 @@ class DataPreprocessor:
         return embedded
 
     def embed(self, word: str) -> torch.Tensor:
-        return self.embedding_vectors[self._word_index(word)]
+        return torch.FloatTensor(self.embedding_vectors[self._word_index(word)])

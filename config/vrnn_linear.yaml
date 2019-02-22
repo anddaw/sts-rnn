@@ -24,4 +24,4 @@ label_rounding: approx
 
 # Input type (sentence or tree)
 input_type: sentence
-num_rnn_layers: 1
+num_rnn_layers: 2

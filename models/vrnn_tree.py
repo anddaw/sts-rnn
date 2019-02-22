@@ -6,11 +6,13 @@ from torch.nn.modules.rnn import RNN
 
 from models.base import BaseModel
 
+from tree import TreeNode
 
-class VRNNLinear(BaseModel):
+
+class VRNNTree(BaseModel):
 
     def __init__(self, hidden_size: int, embedding_size: int, output_size: int, num_layers: int = 1):
-        super(VRNNLinear, self).__init__()
+        super(VRNNTree, self).__init__()
 
         self.hidden_size = hidden_size
         self.output_size = output_size
@@ -33,14 +35,24 @@ class VRNNLinear(BaseModel):
         # output layer
         self.output = nn.Linear(hidden_size, output_size)
 
-    def forward(self, sentence_pair: Tuple[torch.Tensor, torch.Tensor]) -> torch.Tensor:
-        sentence_l, sentence_r = sentence_pair
+    def _forward_node(self, node: TreeNode, rnn: RNN) -> torch.Tensor:
 
-        _, hidden_l = self.rnn_l(sentence_l.view((-1, 1, 50)))
+        if node.children:
+            prev_hidden = sum([self._forward_node(c, rnn) for c in node.children])
+            _, hidden = rnn(torch.zeros(1, 1, 50), prev_hidden)
+        else:
+            _, hidden = rnn(node.embedding.view((1, 1, 50)))
+
+        return hidden
+
+    def forward(self, sentence_pair: Tuple[TreeNode, TreeNode]) -> torch.Tensor:
+        tree_l, tree_r = sentence_pair
+
+        hidden_l = self._forward_node(tree_l, self.rnn_l)
         linear_l_out = self.linear_l(hidden_l[-1])
 
-        _, hidden_r = self.rnn_r(sentence_r.view((-1, 1, 50)))
-        linear_r_out = self.linear_r(hidden_r[1])
+        hidden_r = self._forward_node(tree_r, self.rnn_r)
+        linear_r_out = self.linear_r(hidden_r[-1])
 
         return torch.tanh(self.output(linear_l_out + linear_r_out))
 

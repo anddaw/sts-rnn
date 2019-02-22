@@ -12,7 +12,7 @@ testset:
   - data/task1/semeval/MSRpar/MSPar_test_labels.txt
 
 # Max number of epochs
-epochs: 10
+epochs: 15
 
 # Word labels type:
 #  - int - labels are one-hot (rounded to closest integer)
