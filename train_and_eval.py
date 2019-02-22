@@ -11,6 +11,8 @@ from models.vrnn_linear import VRNNLinear
 
 from scipy import stats
 
+from random import shuffle, sample
+
 
 def load_config(config_file_path: str):
     with open(config_file_path, 'r') as config_file:
@@ -38,24 +40,24 @@ if __name__ == '__main__':
     print('Loading datasets')
     train_sentences_path, train_labels_path = config['trainset']
     train_sentences = embed_sentences(load_sentence_pairs(train_sentences_path), embeddings)
-    train_labels, train_similarities = load_labels(train_labels_path)
+    train_labels, train_similarities = load_labels(train_labels_path, rounding=config['label_rounding'])
 
     test_sentences_path, test_labels_path = config['testset']
     test_sentences = embed_sentences(load_sentence_pairs(test_sentences_path), embeddings)
-    test_labels, test_similarities = load_labels(test_labels_path)
+    test_labels, test_similarities = load_labels(test_labels_path, rounding=config['label_rounding'])
 
-    model = VRNNLinear(hidden_size=50, embedding_size=50, output_size=6)
+    model = VRNNLinear(hidden_size=50, embedding_size=50, output_size=6, num_layers=config['num_rnn_layers'])
     loss_func = nn.MSELoss()
     optimizer = optim.SGD(model.parameters(), lr=0.1)
 
     train_scores = []
     test_scores = []
     losses = []
-    for epoch in range(50):
+    for epoch in range(config['epochs']):
         print(f'Epoch {epoch}')
         running_loss = 0
         i = 0
-        for train, label in zip(train_sentences, train_labels):
+        for train, label in sample(list(zip(train_sentences, train_labels)), len(train_sentences)):
             model.zero_grad()
             output = model.forward(train)
             loss = loss_func(output.view(1, -1), label.view(1, -1))
@@ -77,11 +79,17 @@ if __name__ == '__main__':
         print(f'Score on training set: {train_score}')
         print(f'Score on test set: {test_score}')
 
-        figure, subplots = plt.subplots(2, sharex=True)
-        subplots[0].plot(train_scores, label='trainset')
-        subplots[0].plot(test_scores, label='testset')
-        subplots[0].set_title('Scores')
-        subplots[0].legend()
-        subplots[1].plot(losses)
-        subplots[1].set_title('Loss')
-        figure.show()
+    figure, subplots = plt.subplots(2, sharex=True)
+    subplots[0].plot(train_scores, label='trainset')
+    subplots[0].plot(test_scores, label='testset')
+
+    for i, score in enumerate(train_scores):
+        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+    for i, score in enumerate(test_scores):
+        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+
+    subplots[0].set_title('Scores')
+    subplots[0].legend()
+    subplots[1].plot(losses)
+    subplots[1].set_title('Loss')
+    figure.show()

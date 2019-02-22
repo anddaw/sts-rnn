@@ -24,17 +24,35 @@ def load_embeddings(path: str) -> Embeddings:
     return dictionary, np.asarray(embeddings)
 
 
-def load_labels(path: str) -> Tuple[List[torch.Tensor], List[float]]:
+def _get_label(s: float, approximate_distribution: bool = False, labels_size: int = 6):
+    """Convert float to labels probabilities vector"""
 
-    def get_label(s: float):
-        t = torch.zeros(6)
+    t = torch.zeros(labels_size)
+    if approximate_distribution:
+        if s >= labels_size - 1:
+            t[-1] = 1
+        else:
+            t[int(s) + 1] = s - int(s)
+            t[int(s)] = 1 - t[int(s) + 1]
+    else:
         t[int(round(s))] = 1
-        return t
+    return t
+
+
+def load_labels(path: str, rounding: str = 'int') -> Tuple[List[torch.Tensor], List[float]]:
+    """Load scores and labels from file"""
+
+    if rounding == 'int':
+        approx = False
+    elif rounding == 'approx':
+        approx = True
+    else:
+        raise ValueError('Unknown rounding type')
 
     with open(path, 'r') as labels_file:
         scores = [float(s.strip()) for s in labels_file]
 
-    labels = [get_label(s) for s in scores]
+    labels = [_get_label(s, approximate_distribution=approx) for s in scores]
 
     return labels, scores
 

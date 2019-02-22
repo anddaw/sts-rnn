@@ -1,8 +1,25 @@
+# Path to word embeddings
 embeddings: data/collobert/embeddings50.txt
+
+# Trainset sentence pairs and labels paths
 trainset:
   - data/task1/semeval/MSRpar/MSPar_train.txt
   - data/task1/semeval/MSRpar/MSPar_train_labels.txt
 
+# Testset sentence pairs and labels paths
 testset:
   - data/task1/semeval/MSRpar/MSPar_test.txt
   - data/task1/semeval/MSRpar/MSPar_test_labels.txt
+
+# Max number of epochs
+epochs: 10
+
+# Word labels type:
+#  - int - labels are one-hot (rounded to closest integer)
+#  - approx - labels are approximated between two closest integers
+
+label_rounding: approx
+
+# Model specification:
+model_type: vrnn_linear # TODO
+num_rnn_layers: 2
