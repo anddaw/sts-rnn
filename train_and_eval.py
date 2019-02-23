@@ -33,10 +33,14 @@ def plot_scores(train_scores_, test_scores_, losses_):
     subplots[0].plot(train_scores_, label='trainset')
     subplots[0].plot(test_scores_, label='testset')
 
+    max_train = max(train_scores)
     for i, score in enumerate(train_scores_):
-        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+        if score == max_train:
+            subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+    max_test = max(test_scores)
     for i, score in enumerate(test_scores_):
-        subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
+        if score == max_test:
+            subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
 
     subplots[0].set_title('Scores')
     subplots[0].legend()
@@ -67,7 +71,7 @@ if __name__ == '__main__':
         print(f'Epoch {epoch}')
         running_loss = 0
         i = 0
-        for train, label in zip(train_sentences, train_labels):
+        for train, label in sample(list(zip(train_sentences, train_labels)), len(train_sentences)):
             model.zero_grad()
             output = model.forward(train)
             loss = loss_func(output.view(1, -1), label.view(1, -1))
