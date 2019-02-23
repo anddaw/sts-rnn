@@ -53,12 +53,12 @@ if __name__ == '__main__':
 
     config = load_config(args.config)
 
-    train_sentences, train_labels, train_similarities = load_dataset('trainset', config)
-    test_sentences, test_labels, test_similarities = load_dataset('testset', config)
+    train_sentences, train_labels, train_similarities = load_dataset('train', config)
+    test_sentences, test_labels, test_similarities = load_dataset('test', config)
 
     model = pick_model(config)
     loss_func = nn.MSELoss()
-    optimizer = optim.SGD(model.parameters(), lr=0.1)
+    optimizer = optim.Adagrad(model.parameters())
 
     train_scores = []
     test_scores = []
@@ -67,7 +67,7 @@ if __name__ == '__main__':
         print(f'Epoch {epoch}')
         running_loss = 0
         i = 0
-        for train, label in sample(list(zip(train_sentences, train_labels)), len(train_sentences)):
+        for train, label in zip(train_sentences, train_labels):
             model.zero_grad()
             output = model.forward(train)
             loss = loss_func(output.view(1, -1), label.view(1, -1))

@@ -1,4 +1,5 @@
 import csv
+from pathlib import Path
 from typing import Tuple, Dict, List
 
 import functools
@@ -69,12 +70,18 @@ def load_sentence_pairs(path: str) -> List[str]:
 
 def load_dataset(dataset, config):
 
+    if dataset not in ['train', 'test']:
+        raise ValueError(f'Unknown dataset {dataset}')
+
     embeddings = load_embeddings(config['embeddings'])
 
-    print(f'Loading {dataset}')
+    print(f'Loading {dataset} data')
 
     input_type = config['input_type']
-    sentences_path, labels_path = config[dataset]
+    dataset_path = Path(config['dataset'])
+    labels_path = dataset_path / f'{dataset}_labels.txt'
+    tree_suffix = '_tree' if config['input_type'] == 'tree' else ''
+    sentences_path = dataset_path / f'{dataset}{tree_suffix}.txt'
 
     if input_type == 'sentence':
         sentences = embed_sentences(load_sentence_pairs(sentences_path), embeddings)
