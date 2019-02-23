@@ -3,6 +3,7 @@ from typing import Tuple
 import torch
 from torch import nn
 from torch.nn.modules.rnn import RNN
+import torch.nn.functional as F
 
 from models.base import BaseModel
 
@@ -54,6 +55,6 @@ class VRNNTree(BaseModel):
         hidden_r = self._forward_node(tree_r, self.rnn_r)
         linear_r_out = self.linear_r(hidden_r[-1])
 
-        return torch.tanh(self.output(linear_l_out + linear_r_out))
+        return F.softmax(self.output(torch.tanh(linear_l_out + linear_r_out)), dim=1)
 
 

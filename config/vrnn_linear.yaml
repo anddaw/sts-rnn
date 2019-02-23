@@ -5,7 +5,7 @@ embeddings: data/collobert/embeddings50.txt
 dataset: data/task2/images
 
 # Max number of epochs
-epochs: 10
+epochs: 15
 
 # Word labels type:
 #  - int - labels are one-hot (rounded to closest integer)
@@ -17,4 +17,4 @@ label_rounding: approx
 
 # Input type (sentence or tree)
 input_type: sentence
-num_rnn_layers: 1
+num_rnn_layers: 2

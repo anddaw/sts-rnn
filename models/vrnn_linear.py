@@ -43,6 +43,6 @@ class VRNNLinear(BaseModel):
         _, hidden_r = self.rnn_r(sentence_r.view((-1, 1, 50)))
         linear_r_out = self.linear_r(hidden_r[-1])
 
-        return F.softmax(self.output(F.tanh(linear_l_out + linear_r_out)))
+        return F.softmax(self.output(torch.tanh(linear_l_out + linear_r_out)), dim=1)
 
 
