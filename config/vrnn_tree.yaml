@@ -2,7 +2,7 @@
 embeddings: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
-dataset: data/task2/images
+dataset: data/task1/MSRpar
 
 # Max number of epochs
 epochs: 15
@@ -14,7 +14,8 @@ epochs: 15
 label_rounding: approx
 
 # Model specification:
+model: vrnn
 
 # Input type (sentence or tree)
 input_type: tree
-num_rnn_layers: 1
+num_rnn_layers: 2
