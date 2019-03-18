@@ -8,9 +8,7 @@ from models.base import BaseModel
 class CNN1d(BaseModel):
 
     def __init__(self, embedding_size: int, output_size: int, sentence_length: int = 30):
-        super(CNN1d, self).__init__()
-
-        self.output_size = output_size
+        super(CNN1d, self).__init__(output_size)
 
         self.sentence_length = sentence_length
         self.cnn_l = nn.Conv1d(1, embedding_size, embedding_size, stride=embedding_size)

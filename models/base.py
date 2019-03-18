@@ -7,8 +7,9 @@ from torch.nn.modules.rnn import RNN
 
 class BaseModel(nn.Module):
 
-    def __init__(self):
+    def __init__(self, output_size):
         super(BaseModel, self).__init__()
+        self.output_size = output_size
 
     def forward(self, sentence_pair: Tuple[Any, Any]) -> torch.Tensor:
         raise NotImplementedError()

@@ -11,10 +11,9 @@ from models.base import BaseModel
 class VRNNLinear(BaseModel):
 
     def __init__(self, hidden_size: int, embedding_size: int, output_size: int, num_layers: int = 1):
-        super(VRNNLinear, self).__init__()
+        super(VRNNLinear, self).__init__(output_size)
 
         self.hidden_size = hidden_size
-        self.output_size = output_size
 
         # left side
         self.rnn_l = RNN(input_size=embedding_size,

@@ -13,10 +13,9 @@ from tree import TreeNode
 class VRNNTree(BaseModel):
 
     def __init__(self, hidden_size: int, embedding_size: int, output_size: int, num_layers: int = 1):
-        super(VRNNTree, self).__init__()
+        super(VRNNTree, self).__init__(output_size)
 
         self.hidden_size = hidden_size
-        self.output_size = output_size
 
         # left side
         self.rnn_l = RNN(input_size=embedding_size,
