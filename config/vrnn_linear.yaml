@@ -5,7 +5,7 @@ embeddings: data/collobert/embeddings50.txt
 dataset: data/task1/MSRpar
 
 # Max number of epochs
-epochs: 10
+epochs: 20
 
 # Word labels type:
 #  - int - labels are one-hot (rounded to closest integer)
@@ -14,7 +14,7 @@ epochs: 10
 label_rounding: approx
 
 # Model specification:
-model: vrnn1
+model: vrnn
 
 # Input type (sentence or tree)
 input_type: sentence

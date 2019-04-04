@@ -2,7 +2,7 @@
 embeddings: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
-dataset: data/task2/images
+dataset: data/task1/MSRpar
 
 # Max number of epochs
 epochs: 25
@@ -15,6 +15,6 @@ label_rounding: approx
 
 # Model specification:
 model: cnn_1d
-sentence_length: 4
+sentence_length: 30
 
 input_type: sentence

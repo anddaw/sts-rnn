@@ -33,11 +33,11 @@ def plot_scores(train_scores_, test_scores_, losses_):
     subplots[0].plot(train_scores_, label='trainset')
     subplots[0].plot(test_scores_, label='testset')
 
-    max_train = max(train_scores)
+    max_train = max(train_scores_)
     for i, score in enumerate(train_scores_):
         if score == max_train:
             subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
-    max_test = max(test_scores)
+    max_test = max(test_scores_)
     for i, score in enumerate(test_scores_):
         if score == max_test:
             subplots[0].annotate(f'{score:.2f}', (i, score), textcoords='data')
@@ -49,6 +49,60 @@ def plot_scores(train_scores_, test_scores_, losses_):
     figure.show()
 
 
+def train_epoch(model, train_sentences, train_labels, loss_func, optimizer):
+    i = 0
+    loss_value = 0
+    for train, label in sample(list(zip(train_sentences, train_labels)), len(train_sentences)):
+        model.zero_grad()
+        output = model.forward(train)
+        loss = loss_func(output.view(1, -1), label.view(1, -1))
+        loss.backward()
+        optimizer.step()
+        loss_value += loss.item()
+
+        i += 1
+        if i % 50 == 0:
+            print(f'{i}/{len(train_labels)}')
+
+    return loss_value / len(train_labels)
+
+
+def stopping_criterion(scores, patience):
+    return len(scores) > patience and max(scores[-patience:]) < scores[-patience-1]
+
+
+def train_model(model, train_corpus, test_corpus, epochs, patience=3):
+
+    train_sentences, train_labels, train_similarities = train_corpus
+    test_sentences, test_labels, test_similarities = test_corpus
+    loss_func = nn.MSELoss()
+    optimizer = optim.Adagrad(model.parameters())
+
+    train_scores = []
+    test_scores = []
+    losses = []
+
+    for epoch in range(epochs):
+        print(f'Epoch {epoch}')
+
+        loss = train_epoch(model, train_sentences, train_labels, loss_func, optimizer)
+
+        train_score = eval_model(model, train_sentences, train_similarities)
+        test_score = eval_model(model, test_sentences, test_similarities)
+
+        print(f'Loss after epoch {epoch}: {loss}')
+        print(f'Score on training set: {train_score}')
+        print(f'Score on test set: {test_score}')
+
+        train_scores.append(train_score)
+        test_scores.append(test_score)
+        losses.append(loss)
+
+        if stopping_criterion(test_scores, patience):
+            break
+
+    return train_scores, test_scores, losses
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
@@ -57,40 +111,9 @@ if __name__ == '__main__':
 
     config = load_config(args.config)
 
-    train_sentences, train_labels, train_similarities = load_dataset('train', config)
-    test_sentences, test_labels, test_similarities = load_dataset('test', config)
+    trainset = load_dataset('train', config)
+    testset = load_dataset('test', config)
 
-    model = pick_model(config)
-    loss_func = nn.MSELoss()
-    optimizer = optim.Adagrad(model.parameters())
+    scores = train_model(pick_model(config), trainset, testset, config['epochs'])
 
-    train_scores = []
-    test_scores = []
-    losses = []
-    for epoch in range(config['epochs']):
-        print(f'Epoch {epoch}')
-        running_loss = 0
-        i = 0
-        for train, label in sample(list(zip(train_sentences, train_labels)), len(train_sentences)):
-            model.zero_grad()
-            output = model.forward(train)
-            loss = loss_func(output.view(1, -1), label.view(1, -1))
-            loss.backward()
-            optimizer.step()
-
-            running_loss += loss.item()
-            i += 1
-            if i % 50 == 0:
-                print(f'{i}/{len(train_labels)}')
-
-        train_score = eval_model(model, train_sentences, train_similarities)
-        train_scores.append(train_score)
-        test_score = eval_model(model, test_sentences, test_similarities)
-        test_scores.append(test_score)
-        avg_loss = running_loss/len(train_labels)
-        losses.append(avg_loss)
-        print(f'Loss after epoch {epoch}: {avg_loss}')
-        print(f'Score on training set: {train_score}')
-        print(f'Score on test set: {test_score}')
-
-    plot_scores(train_scores, test_scores, losses)
+    plot_scores(*scores)
