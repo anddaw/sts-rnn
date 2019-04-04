@@ -1,4 +1,5 @@
 import argparse
+import re
 
 import matplotlib.pyplot as plt
 
@@ -8,7 +9,6 @@ from torch import nn, optim
 
 from data_loading import load_dataset
 from models.pick_model import pick_model
-from models.vrnn_linear import VRNNLinear
 
 from scipy import stats
 
@@ -103,13 +103,23 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
 
     return train_scores, test_scores, losses
 
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-c', '--config', required=True, help='Path to config file')
-    args = parser.parse_args()
+    parser.add_argument('-o', '--option', nargs=2, action='append')
 
+    args = parser.parse_args()
     config = load_config(args.config)
+
+    options = args.option
+    options = [] if not options else options
+    for option in options:
+        value = option[1]
+        if re.match(r'-?[0-9]+\.?[0-9]*$', value):
+            value = float(value) if '.' in value else int(value)
+        config[option[0]] = value
 
     trainset = load_dataset('train', config)
     testset = load_dataset('test', config)
