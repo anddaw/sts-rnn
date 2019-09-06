@@ -2,7 +2,7 @@ import argparse
 import re
 
 import matplotlib.pyplot as plt
-
+import numpy
 
 import yaml
 from torch import nn, optim
@@ -13,6 +13,8 @@ from models.pick_model import pick_model
 from scipy import stats
 
 from random import sample
+
+from utils import log
 
 
 def load_config(config_file_path: str):
@@ -62,7 +64,7 @@ def train_epoch(model, train_sentences, train_labels, loss_func, optimizer):
 
         i += 1
         if i % 50 == 0:
-            print(f'{i}/{len(train_labels)}')
+            log(f'{i}/{len(train_labels)}')
 
     return loss_value / len(train_labels)
 
@@ -83,16 +85,16 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
     losses = []
 
     for epoch in range(epochs):
-        print(f'Epoch {epoch}')
+        log(f'Epoch {epoch}')
 
         loss = train_epoch(model, train_sentences, train_labels, loss_func, optimizer)
 
         train_score = eval_model(model, train_sentences, train_similarities)
         test_score = eval_model(model, test_sentences, test_similarities)
 
-        print(f'Loss after epoch {epoch}: {loss}')
-        print(f'Score on training set: {train_score}')
-        print(f'Score on test set: {test_score}')
+        log(f'Loss after epoch {epoch}: {loss}')
+        log(f'Score on training set: {train_score}')
+        log(f'Score on test set: {test_score}')
 
         train_scores.append(train_score)
         test_scores.append(test_score)
@@ -102,6 +104,16 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
             break
 
     return train_scores, test_scores, losses
+
+
+def scores_to_tsv(scores_):
+
+    ret_strs = ['\t'.join(('epoch', 'train', 'test', 'loss'))]
+
+    for i, row in enumerate(numpy.array(scores_).T.tolist()):
+        ret_strs.append('\t'.join(str(x) for x in (i, *row)))
+
+    return '\n'.join(ret_strs)
 
 
 if __name__ == '__main__':
@@ -126,4 +138,8 @@ if __name__ == '__main__':
 
     scores = train_model(pick_model(config), trainset, testset, config['epochs'])
 
-    plot_scores(*scores)
+    #plot_scores(*scores)
+
+    print(scores_to_tsv(scores))
+
+

@@ -1,22 +1,22 @@
 import csv
 from pathlib import Path
-from typing import Tuple, Dict, List
+from typing import Tuple, List
 
 import functools
 
 import numpy as np
 import torch
-from sacremoses import MosesTokenizer
 
 from tree import TreeReader
 
 from data_preprocessor import Embeddings, DataPreprocessor
+from utils import log
 
 
 @functools.lru_cache()
 def load_embeddings(path: str) -> Embeddings:
 
-    print(f'Loading embeddings from {path}')
+    log(f'Loading embeddings from {path}')
     embeddings = []
     dictionary = {}
     with open(path, 'r') as embeddings_file:
@@ -75,7 +75,7 @@ def load_dataset(dataset, config):
 
     embeddings = load_embeddings(config['embeddings'])
 
-    print(f'Loading {dataset} data')
+    log(f'Loading {dataset} data')
 
     input_type = config['input_type']
     dataset_path = Path(config['dataset'])
@@ -98,6 +98,6 @@ def load_dataset(dataset, config):
 def embed_sentences(sentences: List[str], embeddings: Embeddings) -> List[Tuple[torch.Tensor, torch.Tensor]]:
     preprocessor = DataPreprocessor(embeddings)
     embedded = preprocessor.embed_sentence_pairs(sentences)
-    print(f'Words: {preprocessor.words}, unknown: {preprocessor.unknown_words}')
+    log(f'Words: {preprocessor.words}, unknown: {preprocessor.unknown_words}')
     return embedded
 
