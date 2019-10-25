@@ -1,32 +1,12 @@
-import csv
 from pathlib import Path
 from typing import Tuple, List
 
-import functools
-
-import numpy as np
 import torch
 
 from tree import TreeReader
 
-from data_preprocessor import Embeddings, DataPreprocessor
+from data_preprocessor import DataPreprocessor
 from utils import log
-
-
-@functools.lru_cache()
-def load_embeddings(path: str) -> Embeddings:
-
-    log(f'Loading embeddings from {path}')
-    embeddings = []
-    dictionary = {}
-    with open(path, 'r') as embeddings_file:
-        reader = csv.reader(embeddings_file, delimiter=' ', quoting=csv.QUOTE_NONE)
-
-        for i, row in enumerate(reader):
-            dictionary[row[0]] = i
-            embeddings.append([float(s) for s in row[1:]])
-
-    return dictionary, np.asarray(embeddings)
 
 
 def _get_label(s: float, approximate_distribution: bool = False, labels_size: int = 6):
@@ -73,8 +53,6 @@ def load_dataset(dataset, config):
     if dataset not in ['train', 'test']:
         raise ValueError(f'Unknown dataset {dataset}')
 
-    embeddings = load_embeddings(config['embeddings'])
-
     log(f'Loading {dataset} data')
 
     input_type = config['input_type']
@@ -84,9 +62,10 @@ def load_dataset(dataset, config):
     sentences_path = dataset_path / f'{dataset}{tree_suffix}.txt'
 
     if input_type == 'sentence':
-        sentences = embed_sentences(load_sentence_pairs(sentences_path), embeddings)
+        preprocessor = DataPreprocessor()
+        sentences = preprocessor.preprocess_sentence_pairs(load_sentence_pairs(sentences_path))
     elif input_type == 'tree':
-        reader = TreeReader(DataPreprocessor(embeddings))
+        reader = TreeReader(DataPreprocessor())
         sentences = reader.load_from_file(sentences_path)
     else:
         raise ValueError(f'Unknown input_type: {input_type}')
@@ -94,10 +73,4 @@ def load_dataset(dataset, config):
     labels, similarities = load_labels(labels_path, rounding=config['label_rounding'])
     return sentences, labels, similarities
 
-
-def embed_sentences(sentences: List[str], embeddings: Embeddings) -> List[Tuple[torch.Tensor, torch.Tensor]]:
-    preprocessor = DataPreprocessor(embeddings)
-    embedded = preprocessor.embed_sentence_pairs(sentences)
-    log(f'Words: {preprocessor.words}, unknown: {preprocessor.unknown_words}')
-    return embedded
 

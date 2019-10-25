@@ -8,9 +8,9 @@ import yaml
 from torch import nn, optim
 
 from data_loading import load_dataset
+from metrics import pearson_r
 from models.pick_model import pick_model
 
-from scipy import stats
 
 from random import sample
 
@@ -24,10 +24,13 @@ def load_config(config_file_path: str):
     return config
 
 
-def eval_model(model, corpus, gt_scores):
-    pred_scores = [model.predict_score(s) for s in corpus]
-    r, _ = stats.pearsonr(pred_scores, gt_scores)
-    return r * 100
+def eval_model(model, corpus, gt, metrics=None):
+    if metrics is None:
+        metrics = [pearson_r]
+
+    predictions = [model.predict_score(s) for s in corpus]
+
+    return [metric(predictions, gt) for metric in metrics]
 
 
 def plot_scores(train_scores_, test_scores_, losses_):
@@ -89,8 +92,8 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
 
         loss = train_epoch(model, train_sentences, train_labels, loss_func, optimizer)
 
-        train_score = eval_model(model, train_sentences, train_similarities)
-        test_score = eval_model(model, test_sentences, test_similarities)
+        train_score = eval_model(model, train_sentences, train_similarities)[0]
+        test_score = eval_model(model, test_sentences, test_similarities)[0]
 
         log(f'Loss after epoch {epoch}: {loss}')
         log(f'Score on training set: {train_score}')

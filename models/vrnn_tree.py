@@ -5,6 +5,7 @@ from torch import nn
 from torch.nn.modules.rnn import RNN
 import torch.nn.functional as F
 
+from embeddings.base import Embeddings
 from models.base import BaseModel
 
 from tree import TreeNode
@@ -12,13 +13,14 @@ from tree import TreeNode
 
 class VRNNTree(BaseModel):
 
-    def __init__(self, hidden_size: int, embedding_size: int, output_size: int, num_layers: int = 1):
+    def __init__(self, hidden_size: int, embeddings: Embeddings, output_size: int, num_layers: int = 1):
         super(VRNNTree, self).__init__(output_size)
 
         self.hidden_size = hidden_size
+        self.embeddings = embeddings
 
         # left side
-        self.rnn_l = RNN(input_size=embedding_size,
+        self.rnn_l = RNN(input_size=embeddings.embedding_size,
                          hidden_size=hidden_size,
                          bias=False,
                          num_layers=num_layers)
@@ -26,7 +28,7 @@ class VRNNTree(BaseModel):
         self.linear_l = nn.Linear(hidden_size, hidden_size)
 
         # right side
-        self.rnn_r = RNN(input_size=embedding_size,
+        self.rnn_r = RNN(input_size=embeddings.embedding_size,
                          hidden_size=hidden_size,
                          bias=False,
                          num_layers=num_layers)
@@ -36,12 +38,12 @@ class VRNNTree(BaseModel):
         self.output = nn.Linear(hidden_size, output_size)
 
     def _forward_node(self, node: TreeNode, rnn: RNN) -> torch.Tensor:
-
+        embedding = self.embeddings.embed(node.word)
         if node.children:
             prev_hidden = sum([self._forward_node(c, rnn) for c in node.children])
-            _, hidden = rnn(torch.zeros(1, 1, 50), prev_hidden)
+            _, hidden = rnn(torch.zeros(1, 1, self.embeddings.embedding_size), prev_hidden)
         else:
-            _, hidden = rnn(node.embedding.view((1, 1, 50)))
+            _, hidden = rnn(embedding.view((1, 1, self.embeddings.embedding_size)))
 
         return hidden
 

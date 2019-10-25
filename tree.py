@@ -9,11 +9,10 @@ from data_preprocessor import DataPreprocessor
 
 
 class TreeNode(AnyNode):
-    def __init__(self, parent=None, word: str = '', embedding: torch.Tensor() = None, **kwargs):
+    def __init__(self, parent=None, word: str = '', **kwargs):
 
         super().__init__(parent, **kwargs)
         self.word = word
-        self.embedding = embedding
 
     def __str__(self):
         return str(RenderTree(self))
@@ -31,7 +30,6 @@ class TreeReader:
             node = TreeNode()
             if isinstance(nltk_tree, str):
                 node.word = nltk_tree
-                node.embedding = self.preprocessor.embed(nltk_tree)
                 node.parent = parent
             else:
                 subtrees = list(nltk_tree)

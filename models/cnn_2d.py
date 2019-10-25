@@ -1,21 +1,25 @@
-from typing import Tuple, Any
+from typing import Tuple, List
 from torch import nn
 import torch
 import torch.nn.functional as F
+
+from embeddings.base import Embeddings
 from models.base import BaseModel
 
 
 class CNN2d(BaseModel):
 
-    def __init__(self, embedding_size: int, output_size: int, sentence_length: int = 32):
+    def __init__(self, embeddings: Embeddings, output_size: int, sentence_length: int = 32):
         super(CNN2d, self).__init__(output_size)
+
+        self.embeddings = embeddings
 
         self.sentence_length = sentence_length
 
         self.out_channels_layer_1 = 100
         self.out_channels_layer_2 = 100
 
-        self.cnn_1 = nn.Conv2d(in_channels=embedding_size*2, out_channels=self.out_channels_layer_1,
+        self.cnn_1 = nn.Conv2d(in_channels=embeddings.embedding_size*2, out_channels=self.out_channels_layer_1,
                                padding=1, kernel_size=3)
         self.max_pool_1 = nn.MaxPool2d(kernel_size=4)
 
@@ -24,8 +28,11 @@ class CNN2d(BaseModel):
 
         self.classifier = nn.Linear(in_features=self.out_channels_layer_2, out_features=output_size)
 
-    def forward(self, sentence_pair: Tuple[Any, Any]) -> torch.Tensor:
+    def forward(self, sentence_pair: Tuple[List[str], List[str]]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
+
+        sentence_l = self.embeddings.embed_sentence(sentence_l)
+        sentence_r = self.embeddings.embed_sentence(sentence_r)
 
         sentence_l = F.pad(sentence_l, (0, 0, 0, self.sentence_length-sentence_l.shape[0]))
         sentence_l = sentence_l.t()

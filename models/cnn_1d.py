@@ -2,13 +2,18 @@ from typing import Tuple, Any
 from torch import nn
 import torch
 import torch.nn.functional as F
+
+from embeddings.base import Embeddings
 from models.base import BaseModel
 
 
 class CNN1d(BaseModel):
 
-    def __init__(self, embedding_size: int, output_size: int, sentence_length: int = 30):
+    def __init__(self, embeddings: Embeddings, output_size: int, sentence_length: int = 30):
         super(CNN1d, self).__init__(output_size)
+
+        self.embeddings = embeddings
+        embedding_size = embeddings.embedding_size
 
         self.sentence_length = sentence_length
         self.cnn_l = nn.Conv1d(1, embedding_size, embedding_size, stride=embedding_size)
@@ -20,6 +25,9 @@ class CNN1d(BaseModel):
 
     def forward(self, sentence_pair: Tuple[Any, Any]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
+
+        sentence_l = self.embeddings.embed_sentence(sentence_l)
+        sentence_r = self.embeddings.embed_sentence(sentence_r)
 
         sentence_l = F.pad(sentence_l, (0, 0, 0, self.sentence_length-sentence_l.shape[0]))
         sentence_l = sentence_l.view(1, 1, -1)
