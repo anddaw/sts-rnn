@@ -3,6 +3,7 @@ import re
 
 import matplotlib.pyplot as plt
 import numpy
+import torch
 
 import yaml
 from torch import nn, optim
@@ -87,6 +88,8 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
     test_scores = []
     losses = []
 
+    best_test_score = 0
+
     for epoch in range(epochs):
         log(f'Epoch {epoch}')
 
@@ -98,6 +101,11 @@ def train_model(model, train_corpus, test_corpus, epochs, patience=3):
         log(f'Loss after epoch {epoch}: {loss}')
         log(f'Score on training set: {train_score}')
         log(f'Score on test set: {test_score}')
+
+        if test_score > best_test_score:
+            best_test_score = test_score
+            log('Saving model...')
+            torch.save(model, 'best_model.pkl')
 
         train_scores.append(train_score)
         test_scores.append(test_score)
