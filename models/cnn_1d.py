@@ -26,8 +26,8 @@ class CNN1d(BaseModel):
     def forward(self, sentence_pair: Tuple[Any, Any]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
 
-        sentence_l = self.embeddings.embed_sentence(sentence_l)
-        sentence_r = self.embeddings.embed_sentence(sentence_r)
+        sentence_l = self.embeddings(sentence_l)
+        sentence_r = self.embeddings(sentence_r)
 
         sentence_l = F.pad(sentence_l, (0, 0, 0, self.sentence_length-sentence_l.shape[0]))
         sentence_l = sentence_l.view(1, 1, -1)

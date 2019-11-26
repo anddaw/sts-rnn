@@ -2,10 +2,10 @@
 embeddings: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
-dataset: data/task1/MSRpar
+dataset: data/task1/MSRvid
 
 # Max number of epochs
-epochs: 25
+epochs: 40
 
 # Word labels type:
 #  - int - labels are one-hot (rounded to closest integer)

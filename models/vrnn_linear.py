@@ -38,8 +38,8 @@ class VRNNLinear(BaseModel):
     def forward(self, sentence_pair: Tuple[List[str], List[str]]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
 
-        sentence_l = self.embeddings.embed_sentence(sentence_l)
-        sentence_r = self.embeddings.embed_sentence(sentence_r)
+        sentence_l = self.embeddings(sentence_l)
+        sentence_r = self.embeddings(sentence_r)
 
         _, hidden_l = self.rnn_l(sentence_l.view((-1, 1, self.embeddings.embedding_size)))
         linear_l_out = self.linear_l(hidden_l[-1])

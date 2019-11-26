@@ -3,12 +3,12 @@ from typing import Dict, Tuple
 
 import numpy as np
 import torch
+from sacremoses import MosesTokenizer
 
 from embeddings.base import Embeddings
 from utils import log
 
 UNKNOWN_TOKEN = '*UNKNOWN*'
-EmbeddingsDict = Tuple[Dict[str, int], np.ndarray]
 
 
 class DictEmbeddings(Embeddings):
@@ -17,7 +17,8 @@ class DictEmbeddings(Embeddings):
         return self.dictionary.get(word, self.dictionary[UNKNOWN_TOKEN])
 
     def __init__(self, path: str):
-
+        super().__init__()
+        self.tokenizer = MosesTokenizer('en')
         log(f'Loading embeddings from {path}')
         embeddings = []
         dictionary = {}
@@ -36,4 +37,10 @@ class DictEmbeddings(Embeddings):
     def embed(self, word: str) -> torch.Tensor:
         return self.embedding_vectors[self._word_index(word)]
 
+    def forward(self, sentence: str):
+        tokens = self.tokenizer.tokenize(sentence)
+        s = tuple(self.embed(token) for token in tokens)
+        if not s:
+            s = (torch.zeros(self.embedding_size),)
+        return torch.stack(s)
 

@@ -7,18 +7,14 @@ from sacremoses import MosesTokenizer
 class DataPreprocessor:
 
     def __init__(self):
+        ...
 
-        self.words = 0
-        self.unknown_words = 0
-
-        self.tokenizer = MosesTokenizer()
-
-    def preprocess_sentence_pairs(self, sentence_pairs: List[str]) -> List[Tuple[List[str], List[str]]]:
+    def preprocess_sentence_pairs(self, sentence_pairs: List[str]) -> List[Tuple[str, str]]:
 
         preprocessed = []
 
-        def preprocess_sentence(sentence: str) -> List[str]:
-            return self.tokenizer.tokenize(sentence.strip())
+        def preprocess_sentence(sentence: str) -> str:
+            return sentence.strip()
 
         for sentence_pair in sentence_pairs:
 

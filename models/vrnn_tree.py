@@ -38,7 +38,7 @@ class VRNNTree(BaseModel):
         self.output = nn.Linear(hidden_size, output_size)
 
     def _forward_node(self, node: TreeNode, rnn: RNN) -> torch.Tensor:
-        embedding = self.embeddings.embed(node.word)
+        embedding = self.embeddings(node.word)
         if node.children:
             prev_hidden = sum([self._forward_node(c, rnn) for c in node.children])
             _, hidden = rnn(torch.zeros(1, 1, self.embeddings.embedding_size), prev_hidden)

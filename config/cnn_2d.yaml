@@ -2,7 +2,7 @@
 embeddings: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
-dataset: data/task1/MSRpar
+dataset: data/task1/MSRvid
 
 # Max number of epochs
 epochs: 15
