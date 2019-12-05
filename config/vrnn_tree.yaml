@@ -1,5 +1,8 @@
+# Embeddings type
+embeddings: dict
+
 # Path to word embeddings
-embeddings: data/collobert/embeddings50.txt
+embeddings_path: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
 dataset: data/task1/MSRvid

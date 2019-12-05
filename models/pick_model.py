@@ -1,5 +1,7 @@
 from typing import Optional
 
+from embeddings.bert_embeddings import BertEmbeddings
+from embeddings.cached_embeddings import CachedEmbeddings
 from embeddings.dict_embeddings import DictEmbeddings
 from models.base import BaseModel
 from models.cnn_1d import CNN1d
@@ -11,7 +13,14 @@ from models.vrnn_tree import VRNNTree
 def pick_model(config, output_size=6) -> Optional[BaseModel]:
     num_layers = config['num_rnn_layers'] if 'num_rnn_layers' in config else 1
 
-    embeddings = DictEmbeddings(config['embeddings'])
+    if config['embeddings'] == 'dict':
+        embeddings = DictEmbeddings(config['embeddings_path'])
+    elif config['embeddings'] == 'bert':
+        embeddings = BertEmbeddings()
+    else:
+        raise ValueError('Embeddings type not specified')
+
+    embeddings = CachedEmbeddings(embeddings)
 
     if config['model'] == 'vrnn':
         if config['input_type'] == 'sentence':
