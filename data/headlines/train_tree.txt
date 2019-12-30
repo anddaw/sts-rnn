@@ -1,0 +1,4537 @@
+(ROOT
+  (NP
+    (NP (JJ Former) (JJ Nazi) (NN death))
+    (NP (NN camp) (NN guard))
+    (NP (NNP Demjanjuk))))
+
+(ROOT
+  (VP (VBN convicted) (NP (JJ Nazi) (NN death) (NN camp) (NN guard))))
+
+(ROOT (PP (IN at) (NP (CD 91))))
+
+(ROOT (ADJP (JJ aged) (NP-TMP (CD 91))))
+
+(ROOT (ADJP (JJ dead)))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (NP (NNS women)))
+
+(ROOT (NP (JJ Saudi) (NNS Women)))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB compete))))))
+
+(ROOT (FRAG (S (VP (TO To) (VP (VB Compete))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB permit))))))
+
+(ROOT (S (VP (VBN Allowed))))
+
+(ROOT (PP (IN in) (NP (NNPS Olympics))))
+
+(ROOT (PP (IN At) (NP (NNPS Olympics))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (X (NP (CD 5) (NNS militants))))
+
+(ROOT
+  (SINV (NP (CD four)) (VP (VBN suspected) (NP (NNS militants)))))
+
+(ROOT (NP (NP (NNP US)) (NP (NN drone) (NN strike))))
+
+(ROOT (S (VP (VB Drone) (NP (NN strike)))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT
+  (NP (NP (NNP Syria)) (NP (NN peace) (NN plan) (NNS conditions))))
+
+(ROOT (NP (NP (NNP Syria)) (NP (NN peace))))
+
+(ROOT (NP (JJ Syrian) (NN regime)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (PP (IN in) (NP (NNP Houla) (NN massacre))))
+
+(ROOT (PP (IN for) (NP (NNP Houla) (NN massacre))))
+
+(ROOT (ADJP (JJ mixed)))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (NP (NNP Friday)))
+
+(ROOT (NP (NP (NN midday)) (NP (NNP Friday))))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (NP (JJ Chinese) (NNS stocks)))
+
+(ROOT (S (VP (VBN used))))
+
+(ROOT (S (VP (VBN used))))
+
+(ROOT (NP (NN Mall) (NNS attackers)))
+
+(ROOT (NP (NNS attackers)))
+
+(ROOT
+  (NP
+    (S
+      (`` `)
+      (NP (JJR less))
+      (VP
+        (VBZ is)
+        (ADVP (RBR more))
+        (VP ('' ') (NP-TMP (NN strategy)))))))
+
+(ROOT
+  (NP
+    (S
+      (`` `)
+      (NP (JJR less))
+      (VP
+        (VBZ is)
+        (ADVP (RBR more))
+        (VP ('' ') (NP-TMP (NN strategy)))))))
+
+(ROOT (FRAG (NP (NP (NNS strikes)) (ADVP (IN off)))))
+
+(ROOT (FRAG (NP (NP (NNS strikes)) (ADVP (IN off)))))
+
+(ROOT (NP (CD 6.8) (NN quake)))
+
+(ROOT (NP (NP (NN Magnitude)) (NP (CD 6.3) (NN quake))))
+
+(ROOT (NP (NNP Solomon) (NNPS Islands)))
+
+(ROOT (NP (NNP Solomon) (NNPS Islands)))
+
+(ROOT (NP (NN opposition) (NN coalition)))
+
+(ROOT (NP (NN opposition)))
+
+(ROOT (NP (NNS Friends)))
+
+(ROOT (NP (NNS Friends)))
+
+(ROOT (FRAG (VP (VBZ recognizes))))
+
+(ROOT (S (VP (VB recognize))))
+
+(ROOT (PP (IN as) (NP (JJ legitimate) (NN representative))))
+
+(ROOT (PP (IN as) (NP (JJ sole) (NN representative))))
+
+(ROOT (PP (IN of) (NP (NNP Syria))))
+
+(ROOT (PP (IN of) (NP (NNP Syria))))
+
+(ROOT (FRAG (NP (CD 7))))
+
+(ROOT (FRAG (NP (CD 7))))
+
+(ROOT (S (VP (VBN detained))))
+
+(ROOT (NP (NNS detains)))
+
+(ROOT
+  (FRAG
+    (PP (IN for) (NP (`` `) (NN house) (NN sister) ('' ')))
+    (NP (NN scandal))))
+
+(ROOT
+  (FRAG
+    (PP (IN for) (NP (`` ``) (NN house) (NN sister) ('' '')))
+    (NP (NN scandal))))
+
+(ROOT (SINV (VP (VBZ takes)) (NP (DT a) (NN beating))))
+
+(ROOT (FRAG (VP (VBZ tumbles))))
+
+(ROOT (NP (NP (NNP Boeing) (CD 787)) (NP (NNP Dreamliner))))
+
+(ROOT (FRAG (PP (IN on) (NP (CD 787))) (NP (NNP Dreamliner))))
+
+(ROOT (NP (NN stock)))
+
+(ROOT (NP (NP (NNP Boeing)) (NP (NN stock))))
+
+(ROOT (NP (NP (NNS catches)) (NP (NN fire))))
+
+(ROOT (PP (IN after) (NP (NN fire))))
+
+(ROOT (S (VP (VB abduct))))
+
+(ROOT (S (VP (VBN kidnapped))))
+
+(ROOT (PP (IN in) (NP (NNP Nigeria))))
+
+(ROOT (PP (IN in) (NP (NNP Nigeria))))
+
+(ROOT (NP (NP (CD seven)) (NP (JJ foreign) (NNS workers))))
+
+(ROOT (NP (NP (CD Seven)) (NP (JJ foreign) (NNS workers))))
+
+(ROOT
+  (PP
+    (IN in)
+    (NP (NP (NNP West) (NNP Bank)) (, ,) (NP (NNP Jerusalem)))))
+
+(ROOT (PP (IN in) (NP (NNP W.) (NNP Bank))))
+
+(ROOT (FRAG (NP (NN clash)) (PP (IN with))))
+
+(ROOT (FRAG (NP (NN clash)) (PP (IN with))))
+
+(ROOT (NP (NNPS Palestinians)))
+
+(ROOT (NP (NNPS Palestinians)))
+
+(ROOT (NP (JJ Israeli) (NNS forces)))
+
+(ROOT (NP (NN security) (NNS forces)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP NW) (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NN bus) (NN accident))))
+
+(ROOT (PP (IN in) (NP (NN road) (NN accident))))
+
+(ROOT (FRAG (NP (CD 12))))
+
+(ROOT (FRAG (NP (CD 10))))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (FRAG (VP (VBZ Postpones))))
+
+(ROOT (NP (NNS postpones)))
+
+(ROOT (NP (NNP Family) (NNPS Reunions)))
+
+(ROOT (NP (NN family) (NNS unions)))
+
+(ROOT (PP (IN with) (NP (NNP South))))
+
+(ROOT (PP (IN with) (NP (NNP South) (NNP Korea))))
+
+(ROOT (NP (NNP David) (NNP Beckham)))
+
+(ROOT (NP (NNP David) (NNP Beckham)))
+
+(ROOT (NP (NNP Retirement)))
+
+(ROOT (FRAG (VP (VBZ retires))))
+
+(ROOT (PP (IN From) (NP (NNP Soccer))))
+
+(ROOT (PP (IN from) (NP (NN football))))
+
+(ROOT (NP (NN Man)))
+
+(ROOT (NP (NN Man)))
+
+(ROOT (PP (IN on) (NP (NNP National) (NN Mall))))
+
+(ROOT (PP (IN on) (NP (NNP National) (NN Mall))))
+
+(ROOT (FRAG (VP (VBZ Dies))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VP (VB Set) (NP (PRP Himself)) (PP (IN on) (NP (NN Fire)))))))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ (VP (VBD set) (NP (NP (PRP himself)) (PP (IN ablaze)))))))
+
+(ROOT (NP (POS 's) (NNP Prime) (NNP Minister)))
+
+(ROOT (S (VP (POS 's) (NP (JJ prime) (NN minister)))))
+
+(ROOT (NP (NNP Shinzo) (NNP Abe)))
+
+(ROOT (NP (NNP Shinzo) (NNP Abe)))
+
+(ROOT (PP (IN as) (NP (NNP Japan))))
+
+(ROOT (NP (NNP Japan)))
+
+(ROOT (S (VP (VBN Selected))))
+
+(ROOT (FRAG (VP (VBZ is))))
+
+(ROOT (PP (IN in) (NP (DT a) (NN coma))))
+
+(ROOT (PP (IN in) (NP (DT a) (NN coma))))
+
+(ROOT (NP (NNP Schumacher)))
+
+(ROOT (NP (NNP Michael) (NNP Schumacher)))
+
+(ROOT (PP (IN after) (NP (NN ski) (NN accident))))
+
+(ROOT (NP (NN skiing) (NN accident)))
+
+(ROOT
+  (NP
+    (NP (NP (NNP Bradley) (NNP Cooper)) (CC and) (NP (NN JJ)))
+    (NP (NNP Abrams))))
+
+(ROOT (NP (NNP Bradley) (NNP Cooper)))
+
+(ROOT (PP (IN in) (NP (NNS talks))))
+
+(ROOT (PP (IN in) (NP (NNS talks))))
+
+(ROOT (NP (NP (DT a) (NNP Lance) (NNP Armstrong)) (NP (NN biopic))))
+
+(ROOT (NP (NNP Lance) (NNP Armstrong)))
+
+(ROOT (PP (IN about) (S (VP (VBG filming)))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB play))))))
+
+(ROOT (NP (NN horsemeat) (NN scandal)))
+
+(ROOT (PP (IN over) (NP (NN horse) (NN meat) (NN scandal))))
+
+(ROOT (NP (NNP EU) (NNS ministers)))
+
+(ROOT (NP (NNP EU) (NNS ministers)))
+
+(ROOT (NP (NP (NNP Thai)) (NP (NN opposition) (NN party))))
+
+(ROOT (NP (NP (NNP Thai)) (NP (NN opposition))))
+
+(ROOT (NP (JJ general) (NN election)))
+
+(ROOT (NP (NN election) (NN boycott)))
+
+(ROOT (PP (IN in) (NP (NNP Seemandhra))))
+
+(ROOT (PP (IN in) (NP (NNP Seemandhra))))
+
+(ROOT (PP (TO to) (NP (NN hospital))))
+
+(ROOT (PP (IN in) (NP (NN hospital))))
+
+(ROOT (NP (NNP Jagan) (NNP Reddy)))
+
+(ROOT (NP (NNP Jagan)))
+
+(ROOT (FRAG (VP (VBZ continues))))
+
+(ROOT (FRAG (VP (VBZ continues))))
+
+(ROOT (NP (NN power) (NN crisis)))
+
+(ROOT (NP (NN blackout)))
+
+(ROOT (SBAR (IN as) (S (NP (NNP Maracana)) (VP (VBZ re-opens)))))
+
+(ROOT (SBAR (IN as) (S (NP (NNP Maracana)) (VP (VBZ re-opens)))))
+
+(ROOT (PP (IN by) (NP (NNP England))))
+
+(ROOT (PP (IN by) (NP (NNP England))))
+
+(ROOT (S (VP (VBN tied))))
+
+(ROOT (ADJP (VBN held)))
+
+(ROOT (FRAG (NP (CD 2-2))))
+
+(ROOT (FRAG (NP (CD 2-2))))
+
+(ROOT (NP (NNP Brazil)))
+
+(ROOT (NP (NNP Brazil)))
+
+(ROOT (FRAG (VP (VBZ warns) (PP (IN against)))))
+
+(ROOT (FRAG (VP (VBZ weighs) (PP (IN into)))))
+
+(ROOT (NP (NNP George) (NNP W.) (NNP Bush)))
+
+(ROOT (NP (NNP George) (NNP W) (NNP Bush)))
+
+(ROOT (FRAG (NP (JJ bitter) (NN immigration) (NN debate))))
+
+(ROOT (NP (NN immigration) (NN debate)))
+
+(ROOT (NP (NNS Hundreds)))
+
+(ROOT (NP (NNS Hundreds)))
+
+(ROOT
+  (FRAG
+    (PP (IN of) (NP (NNP Bangladesh) (NNS clothes)))
+    (NP (NN factory) (NNS workers))))
+
+(ROOT (PP (IN in) (NP (NNP Bangladesh) (NN factory))))
+
+(ROOT (ADJP (RB ill)))
+
+(ROOT (ADJP (JJ sick)))
+
+(ROOT (FRAG (VP (VBZ conducts))))
+
+(ROOT (NP (NNS launches)))
+
+(ROOT (PP (IN on) (NP (NNP Syria))))
+
+(ROOT (PP (IN against) (NP (NNP Syria))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NN airstrike)))
+
+(ROOT (NP (JJ new) (NN airstrike)))
+
+(ROOT
+  (PP
+    (IN Around)
+    (NP (NP (CD 100)) (ADJP (JJ dead) (CC or) (JJ injured)))))
+
+(ROOT
+  (FRAG
+    (NP (NP (NNS Hundreds)) (ADJP (JJ dead) (CC or) (JJ injured)))))
+
+(ROOT (PP (IN after) (NP (NNP China) (NN earthquake))))
+
+(ROOT (PP (IN in) (NP (NNP China) (NN quake))))
+
+(ROOT (NP (NP (CD 2)) (NP (JJ French) (NNS Journalists))))
+
+(ROOT (NP (NP (CD Two)) (NP (JJ French) (NNS journalists))))
+
+(ROOT (S (VP (VBN Killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNP Mali))))
+
+(ROOT (PP (IN in) (NP (NNP Mali))))
+
+(ROOT (PP (IN in) (NP (VBN collapsed) (NNP Japan) (NN tunnel))))
+
+(ROOT (PP (IN from) (NP (NNP Japan) (NN tunnel))))
+
+(ROOT (PP (IN ablaze)))
+
+(ROOT (FRAG (S (ADVP (RB left)) (VP (VBG burning)))))
+
+(ROOT (NP (NNPS Vehicles)))
+
+(ROOT (NP (NNPS Vehicles)))
+
+(ROOT (NP (NN attack)))
+
+(ROOT (NP (NN attack)))
+
+(ROOT (NP (NNPS Islamists)))
+
+(ROOT (NP (NNPS Islamists)))
+
+(ROOT (FRAG (ADVP (RB north) (NP (NNP Mali))) (NP (NN city))))
+
+(ROOT (PP (IN in) (NP (NNP Gao))))
+
+(ROOT (FRAG (NP (JJ fiscal) (NN cliff) (NN deal))))
+
+(ROOT (NP (NP (IN on)) (NP (`` ``) (JJ fiscal) (NN cliff) ('' ''))))
+
+(ROOT (FRAG (VP (VBZ approves))))
+
+(ROOT (S (VP (VBN reached))))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (S (VP (VBN convicted))))
+
+(ROOT (S (VP (VBN Fined))))
+
+(ROOT (PP (IN of) (NP (NN tax) (NN evasion))))
+
+(ROOT (PP (IN in) (NP (JJ Italian) (NN Tax) (NN Case))))
+
+(ROOT (NP (NP (NNP Dolce)) (CC and) (NP (NNP Gabbana))))
+
+(ROOT (NP (NP (NNP Dolce)) (CC and) (NP (NNP Gabbana))))
+
+(ROOT (PP (IN on) (NP (JJ Syrian) (NN chemical) (NNS arms))))
+
+(ROOT (PP (IN over) (NP (NNP Syria) (NN chemical) (NNS claims))))
+
+(ROOT (NP (NP (NNP UK)) (NP (NN alert))))
+
+(ROOT (NP (NNP West)))
+
+(ROOT (PP (IN in) (NP (NN plane) (NN crash))))
+
+(ROOT (PP (IN in) (NP (NN plane) (NN crash))))
+
+(ROOT
+  (NP (NP (JJ Mexican) (NN singer)) (NP (NNP Jenni) (NNP Rivera))))
+
+(ROOT (NP (NNP Jenni) (NNP Rivera)))
+
+(ROOT (VP (VBN believed) (S (VP (VBN killed)))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (FRAG (VP (VBZ climbs))))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (PP (IN in) (NP (NNP Indonesia) (NN boat) (NN sinking))))
+
+(ROOT
+  (SBAR (IN in) (S (NP (NNP Indonesia) (NN boat)) (VP (VB capsize)))))
+
+(ROOT (PP (TO to) (NP (CD 15))))
+
+(ROOT (PP (TO to) (NP (CD 11))))
+
+(ROOT (NP (JJ preliminary) (NNS results)))
+
+(ROOT (PP (IN in) (NP (JJ initial) (NNP Iran) (NN count))))
+
+(ROOT (NP (NNP Rouhani)))
+
+(ROOT (NP (NNP Rouhani)))
+
+(ROOT (NP (NNS leads)))
+
+(ROOT (NP (NNS leads)))
+
+(ROOT (PP (IN before) (NP (JJ pro-Morsi) (NNS protests))))
+
+(ROOT (PP (IN for) (NP (JJ massive) (NNS protests))))
+
+(ROOT (NP (NN security)))
+
+(ROOT (S (VP (VBG bracing))))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (FRAG (VP (VBZ climbs))))
+
+(ROOT (NP (NN death) (NN toll)))
+
+(ROOT (NP (NN death) (NN toll)))
+
+(ROOT (FRAG (NP (JJ Bangladesh) (NN building) (NN collapse))))
+
+(ROOT (NP (NP (NNP Bangladesh)) (NP (JJ building-collapse))))
+
+(ROOT (FRAG (NP (CD 362))))
+
+(ROOT (PP (TO to) (NP (CD 580))))
+
+(ROOT (ADJP (NP (CD 2)) (JJ dead)))
+
+(ROOT (ADJP (NP (CD 2)) (JJ dead)))
+
+(ROOT (NP (NP (CD 2)) (NP (JJ injured))))
+
+(ROOT (NP (CD 2) (NN hurt)))
+
+(ROOT
+  (PP
+    (IN in)
+    (NP (NNP Nevada) (JJ middle) (NN school) (NN shooting))))
+
+(ROOT (PP (IN in) (NP (JJ middle) (NN school) (NN shooting))))
+
+(ROOT (NP (NP (JJ mixed) (NN sex) (NNS schools)) (NP (NN ban))))
+
+(ROOT
+  (PP (IN in) (NP (JJ mixed-sex) (NN school) (`` `) (NN ban) ('' '))))
+
+(ROOT (NP (NNP Hamas)))
+
+(ROOT (NP (NNP Hamas)))
+
+(ROOT (NP (NNP Russia)))
+
+(ROOT (NP (NNP Russia)))
+
+(ROOT (FRAG (VP (VBZ gives))))
+
+(ROOT (FRAG (VP (VBZ gives))))
+
+(ROOT (PP (TO to) (NP (JJ American) (NN adoption) (NN ban))))
+
+(ROOT (PP (TO to) (NP (NN adoption) (NN ban))))
+
+(ROOT (ADJP (NP (JJ initial)) (JJ OK)))
+
+(ROOT (NP (JJ initial) (NN approval)))
+
+(ROOT (PP (IN Among) (NP (CD 7) (JJ Dead))))
+
+(ROOT (PP (IN among) (NP (CD 7) (JJ dead))))
+
+(ROOT
+  (PP (IN After) (NP (NNP Florida) (NNP Apartment) (NN Shooting))))
+
+(ROOT (PP (IN after) (NP (NNP Fla.) (NN apartment) (NN shootout))))
+
+(ROOT (NP (NN Gunman)))
+
+(ROOT (NP (NN Gunman)))
+
+(ROOT (FRAG (NP (DT the) (NNS deaths))))
+
+(ROOT (FRAG (NP (DT The) (NNS deaths))))
+
+(ROOT (PP (TO to) (NP (DT the) (NN police))))
+
+(ROOT (PP (IN by) (NP (NNS police))))
+
+(ROOT (NP (NP (NNP New)) (NP (NN information))))
+
+(ROOT
+  (SBAR
+    (IN after)
+    (S (NP (PRP they)) (VP (VBD received) (NP (NN information))))))
+
+(ROOT
+  (PP
+    (IN of)
+    (NP (NNP Princess) (NNP Diana) (CC and) (NNP Dodi) (NNP Fayed))))
+
+(ROOT
+  (PP
+    (IN of)
+    (NP
+      (NP (NNP Princess) (NNP Diana))
+      (CC and)
+      (NP (NNP Dodi) (NNP Al) (NNP Fayed)))))
+
+(ROOT (NP (POS 's) (NN death)))
+
+(ROOT
+  (NP
+    (NP (NNP Diana) (CC and) (NNP Fayed))
+    (NP (NN death) (NN info))))
+
+(ROOT (PP (IN against) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN against) (NP (NNP Pakistan))))
+
+(ROOT (NP (NNS pledges)))
+
+(ROOT (NP (NNS promises)))
+
+(ROOT (NP (NNP Narendra) (NNP Modi)))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Modi))))
+
+(ROOT (NP (JJ tough) (NN stand)))
+
+(ROOT (NP (JJ tough) (NN stance)))
+
+(ROOT (NP (NN Boy) (NNS Scouts)))
+
+(ROOT (NP (NN Boy) (NNS Scouts)))
+
+(ROOT (NP (NN decision)))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (NP (NN delay)))
+
+(ROOT (NP (NNS delays)))
+
+(ROOT (NP (NNS gays)))
+
+(ROOT (PP (IN on) (NP (NNS gays))))
+
+(ROOT (PP (IN on) (S (VP (VBG admitting)))))
+
+(ROOT (PP (IN on) (NP (NN lifting))))
+
+(ROOT (NP (CD 0.26) (NN pc)))
+
+(ROOT (FRAG (NP (CD 1.53) (NN %))))
+
+(ROOT (NP (NNP Tokyo) (NNS stocks)))
+
+(ROOT (NP (NNP Tokyo) (NNS stocks)))
+
+(ROOT (ADVP (RB close) (IN down)))
+
+(ROOT (ADVP (RB close) (IN down)))
+
+(ROOT (NP (NNP USA)))
+
+(ROOT (NP (NNP U.S.)))
+
+(ROOT (FRAG (VP (VBZ expels))))
+
+(ROOT (FRAG (VP (VBZ expels))))
+
+(ROOT (NP (NNP Venezuela) (NNS diplomats)))
+
+(ROOT (NP (JJ Venezuelan) (NNS diplomats)))
+
+(ROOT (FRAG (VP (VBZ warns))))
+
+(ROOT (FRAG (VP (VBZ warns))))
+
+(ROOT (NP (NN record) (NNS profits)))
+
+(ROOT (NP (NP (CD 13) (NN %)) (NP (NN rise))))
+
+(ROOT (NP (NNP Ryanair)))
+
+(ROOT (NP (NNP Ryanair)))
+
+(ROOT (NP (NNS reports)))
+
+(ROOT (NP (NNS reports)))
+
+(ROOT (FRAG (NP (DT this) (NN year))))
+
+(ROOT (FRAG (NP (DT this) (NN year))))
+
+(ROOT (NP (NN growth)))
+
+(ROOT (PP (IN of) (NP (JJR slower) (NN growth))))
+
+(ROOT (NP (NN Opposition) (NNS leaders)))
+
+(ROOT (NP (NP (NNP Cambodia)) (NP (NN opposition) (NNS leaders))))
+
+(ROOT (NP (NP (NNP Commonwealth)) (NP (NN summit))))
+
+(ROOT (NP (NP (NNP Commonwealth)) (NP (NN summit))))
+
+(ROOT (NP (JJ Indian) (NNS media)))
+
+(ROOT (NP (JJ Indian) (NN PM)))
+
+(ROOT (FRAG (NP (JJ gay) (NN marriage) (NN bill))))
+
+(ROOT (NP (JJ gay) (NN marriage)))
+
+(ROOT (NP (NNS backs)))
+
+(ROOT (NP (NNS backs)))
+
+(ROOT (NP (NNP Yvette) (NNP Cooper)))
+
+(ROOT (NP (NNP White) (NNP House)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (ADJP (NP (CD 9)) (JJ Dead)))
+
+(ROOT
+  (PP (IN in) (NP (JJ new) (NNP Darfur) (JJ tribal) (NNS clashes))))
+
+(ROOT
+  (PP (IN in) (NP (NNP New) (NNP Darfur) (NNP Tribal) (NNP Clash))))
+
+(ROOT
+  (PP
+    (IN after)
+    (NP (JJ deadly) (JJ Bangladesh) (NN building) (NN collapse))))
+
+(ROOT (PP (IN as) (NP (NNP Bangladesh) (NN building) (NN toll))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (FRAG (NP (CD 8))))
+
+(ROOT (FRAG (NP (CD Four))))
+
+(ROOT (NP (NNS Afghans)))
+
+(ROOT (NP (NNP Afghan) (NNP District) (NNP Governor)))
+
+(ROOT (NP (NNP Taliban)))
+
+(ROOT (PP (TO To) (NP (NNP Taliban))))
+
+(ROOT (ADJP (VBN divided)))
+
+(ROOT (ADJP (VBN divided)))
+
+(ROOT (PP (IN in) (NP (NNP Afghanistan))))
+
+(ROOT (PP (IN in) (NP (NNP Afghanistan))))
+
+(ROOT (X (NP (CD 17) (NNS civilians))))
+
+(ROOT (X (NP (CD 10) (NNS police))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NNP Taliban) (NNS attacks)))
+
+(ROOT (NP (NP (NNP Series)) (PP (IN of) (NP (NNS attacks)))))
+
+(ROOT (NP (NNP Texas) (NNS residents)))
+
+(ROOT (NP (NNS Residents)))
+
+(ROOT (PP (IN after) (NP (JJ deadly) (NN blast))))
+
+(ROOT (PP (TO to) (NP (NNP Texas) (NN blast) (NN site))))
+
+(ROOT (NP (NNS Mali)))
+
+(ROOT (NP (NNS Mali)))
+
+(ROOT (PP (IN for) (NP (NN president))))
+
+(ROOT (PP (IN After) (NP (NNP Presidential) (NNP Runoff))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB vote))))))
+
+(ROOT (NP (NNS Votes)))
+
+(ROOT
+  (NP
+    (NP (JJ Central) (JJ African) (NN Republic))
+    (NP (NN president))))
+
+(ROOT
+  (NP
+    (NP (JJ Central))
+    (NP (JJ African) (NNP Republic) (NNP President))))
+
+(ROOT (S (VP (VBN overthrown))))
+
+(ROOT (S (VP (VBG stepping) (PRT (RP down)))))
+
+(ROOT
+  (FRAG (NP (ADJP (JJ North) (JJ Korean)) (JJ nuclear) (NN test))))
+
+(ROOT
+  (FRAG
+    (NP (ADJP (JJ controversial) (JJ third)) (JJ nuclear) (NN test))))
+
+(ROOT (PP (IN in) (NP (JJ Russian) (NN coal) (NN mine) (NN blast))))
+
+(ROOT
+  (FRAG
+    (PP (IN in) (NP (NNP Russia) (NN coal) (NN mine)))
+    (NP (NN blast))))
+
+(ROOT (FRAG (NP (CD 18))))
+
+(ROOT (FRAG (NP (CD Ten))))
+
+(ROOT (ADJP (VBN trapped)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (NP (NNP Blizzard) (NNS hammers)))
+
+(ROOT (NP (NNP Blizzard) (NNS wallops)))
+
+(ROOT (NP (NNP U.S.) (NNP Northeast)))
+
+(ROOT (NP (NNP US) (NNP Northeast)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (FRAG (VP (VBZ shakes))))
+
+(ROOT (NP (NP (CD 6.9) (NN magnitude)) (NP (NN earthquake))))
+
+(ROOT (NP (NP (CD 5.6) (NN magnitude)) (NP (NN earthquake))))
+
+(ROOT (NP (NNP New) (NNP Zealand)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NP (NNP Daily) (NNP Press)) (NP (NN Briefing))))
+
+(ROOT (NP (NP (NNP Daily) (NNP Press)) (NP (NN Briefing))))
+
+(ROOT (NP (NNP South) (NNP Sudan)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (JJ French) (NN parliament)))
+
+(ROOT (NP (JJ Russian) (NN parliament)))
+
+(ROOT (NP (NNP Manning)))
+
+(ROOT (NP (NNP Ariel) (NNP Castro)))
+
+(ROOT (PP (IN in) (NP (NN prison))))
+
+(ROOT (PP (IN in) (NP (NN prison))))
+
+(ROOT (S (VP (VBN sentenced))))
+
+(ROOT (S (VP (VBN sentenced))))
+
+(ROOT (PP (TO to) (NP (CD 35) (NNS years))))
+
+(ROOT (PP (TO to) (NP (CD 1,000) (NNS years))))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (PP (IN on) (NP (NNP Friday))))
+
+(ROOT (PP (IN on) (NP (NNP Wednesday))))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT
+  (FRAG
+    (PP (IN in) (NP (NNP Texas) (NN fertilizer) (NN plant)))
+    (NP (NN blast))))
+
+(ROOT
+  (FRAG
+    (PP (IN of) (NP (NNP Texas) (NN fertiliser) (NN plant)))
+    (NP (NN blast))))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (DT the) (NNP U.S.)))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NN chemical) (NNS weapons)))
+
+(ROOT (NP (NN chemical) (NNS weapons)))
+
+(ROOT (FRAG (VP (VBZ reiterates))))
+
+(ROOT (NP (NNS announces)))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB phase) (PRT (RP out)))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB change))))))
+
+(ROOT (NP (NN plan)))
+
+(ROOT (NP (NNS plans)))
+
+(ROOT (NP (NN polymer) (NNS notes)))
+
+(ROOT (NP (NP (NNP polymer) (NNP Naira)) (NP (NNS notes))))
+
+(ROOT (NP (NP (NNP India)) (NP (JJ gang-rape) (NN victim))))
+
+(ROOT (FRAG (NP (JJ Indian) (NN rape) (NN victim))))
+
+(ROOT (NP (NNP Yacimovich)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB approve))))))
+
+(ROOT (FRAG (VP (VBZ agrees))))
+
+(ROOT (NP (JJ Palestinian) (NNS prisoners)))
+
+(ROOT (NP (NP (CD 104)) (NP (JJ Palestinian) (NNS prisoners))))
+
+(ROOT (NP (NN release)))
+
+(ROOT (PP (TO to) (ADJP (JJ free))))
+
+(ROOT (PP (IN over) (NP (NN settlement) (NNS plans))))
+
+(ROOT (PP (IN over) (NP (NNS settlements))))
+
+(ROOT (NP (JJ Israeli) (NNS envoys)))
+
+(ROOT (NP (JJ Israeli) (NN envoy)))
+
+(ROOT (S (VP (VBN summoned))))
+
+(ROOT (NP (NN summons)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (PP (IN in) (NP (NNP Obama))))
+
+(ROOT
+  (PP
+    (IN in)
+    (NP (NP (NN State)) (PP (IN of) (NP (DT the) (NNP Union))))))
+
+(ROOT
+  (NP
+    (NP (POS 's) (NN State))
+    (PP (IN of) (NP (DT the) (NNP Union) (NN speech)))))
+
+(ROOT (S (VP (VBN convicted))))
+
+(ROOT (NP (NN jail) (NN time)))
+
+(ROOT
+  (FRAG
+    (PP (IN in) (NP (NNP Kosovo) (NN organ) (NN trafficking)))
+    (NP (NN case))))
+
+(ROOT (PP (IN in) (NP (NN organ) (NN trafficking) (NN case))))
+
+(ROOT (FRAG (NP (CD Five))))
+
+(ROOT (FRAG (NP (CD 3))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (PP (IN in) (NP (NNP Iraq))))
+
+(ROOT (PP (IN in) (NP (NNP Iraq))))
+
+(ROOT (PP (IN of) (NP (NNS bombings))))
+
+(ROOT (NP (NN Car) (NNS bombs)))
+
+(ROOT (FRAG (NP (CD 15))))
+
+(ROOT (FRAG (NP (CD 49))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (X (NP (CD nine) (NNS people))))
+
+(ROOT (X (NP (CD 6) (NNS soldiers))))
+
+(ROOT (FRAG (ADVP (IN in) (RB northwest)) (NP (NNP Pakistan))))
+
+(ROOT (FRAG (ADVP (IN in) (RB northwest)) (NP (NNP Pakistan))))
+
+(ROOT (NP (NNS Gunmen)))
+
+(ROOT (NP (NNPS Militants)))
+
+(ROOT
+  (PP
+    (IN after)
+    (NP (JJ deadly) (JJ Bangladesh) (NN building) (NN collapse))))
+
+(ROOT
+  (PP (IN after) (NP (NNP Bangladesh) (NN building) (NN collapse))))
+
+(ROOT (NP (NNP Snowden)))
+
+(ROOT (NP (NNP Snowden)))
+
+(ROOT (PP (IN against) (NP (NNS protesters))))
+
+(ROOT (PP (IN about) (NP (NNS protests))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (PP (IN in) (NP (JJ southern) (NNP Iraq))))
+
+(ROOT (PP (IN in) (NP (JJ northern) (NNP Iraq))))
+
+(ROOT (FRAG (NP (CD 8))))
+
+(ROOT (FRAG (NP (CD 14))))
+
+(ROOT (NP (NP (CD 2) (NN car)) (NP (NNS bombs))))
+
+(ROOT (NP (NN Car) (NN bombing)))
+
+(ROOT (NP (NP (CD 7)) (NP (NNP August) (CD 2013))))
+
+(ROOT (NP (NP (CD 11)) (NP (NNP April) (CD 2013))))
+
+(ROOT (NP (NP (NNS Pictures)) (PP (IN of) (NP (DT the) (NN day)))))
+
+(ROOT (NP (NP (NNS Pictures)) (PP (IN of) (NP (DT the) (NN day)))))
+
+(ROOT (NP (NP (NNP Red)) (NP (NN panda))))
+
+(ROOT (S (VP (VBG Missing) (NP (JJ red) (NN panda)))))
+
+(ROOT (PP (IN from) (NP (NNP National) (NNP Zoo))))
+
+(ROOT (PP (TO to) (NP (NNP National) (NNP Zoo))))
+
+(ROOT (FRAG (VP (VBZ vanishes))))
+
+(ROOT (S (VP (VBN returned))))
+
+(ROOT (NP (NNP Taiwan)))
+
+(ROOT (NP (NNP SW) (NNP Pakistan)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (JJ 6.3-magnitude) (NN earthquake)))
+
+(ROOT (NP (JJ 7.7-magnitude) (NN earthquake)))
+
+(ROOT (FRAG (VP (VBZ Heats) (PRT (RP Up)))))
+
+(ROOT (S (VP (VB soar))))
+
+(ROOT
+  (NP
+    (NP (NNP Google) (CC and) (NNP IBM) (NNP Post))
+    (NP (JJ Strong) (NNS Earnings))))
+
+(ROOT (PP (IN on) (NP (JJ strong) (NNS earnings))))
+
+(ROOT (NP (NNP Tech) (NNP Sector)))
+
+(ROOT (NP (NNP Google) (NNS shares)))
+
+(ROOT (S (VP (POS 's) (NP (JJ presidential) (NNS candidates)))))
+
+(ROOT (PP (IN as) (NP (JJ presidential) (NN candidate))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN Car) (NN bombing)))
+
+(ROOT (NP (NN Car) (NNS bombings)))
+
+(ROOT (PP (IN in) (NP (NNP Damascus))))
+
+(ROOT (PP (IN in) (NP (JJ Iraqi) (NN capital))))
+
+(ROOT (FRAG (NP (CD 53))))
+
+(ROOT (X (NP (CD 13) (NNS civilians))))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (NNP Iraq)))
+
+(ROOT (NP (NNS protests)))
+
+(ROOT (PP (IN at) (NP (NNS protesters))))
+
+(ROOT (PP (IN in) (NP (NNP Istanbul))))
+
+(ROOT (PP (IN in) (NP (NNP Istanbul))))
+
+(ROOT (NP (JJ Turkish) (NN PM)))
+
+(ROOT (NP (JJ Turkish) (NNS police)))
+
+(ROOT (NP (NNP Start)))
+
+(ROOT (NP (NNS starts)))
+
+(ROOT
+  (PP
+    (IN of)
+    (NP (NNP San) (NNP Fermin) (JJ bull-running) (NN festival))))
+
+(ROOT
+  (NP
+    (NP (NNP San) (NNP Fermin))
+    (NP (JJ bull-running) (NN festival))))
+
+(ROOT (FRAG (NP (JJ Former) (NN LAPD) (NN officer))))
+
+(ROOT (NP (NP (JJ Former) (NNP CIA)) (NP (NN officer))))
+
+(ROOT (NP (NP (NNP Pakistan)) (NP (NN court))))
+
+(ROOT (NP (NN Pakistan-UN) (NN report)))
+
+(ROOT (NP (JJ 50th) (NN anniversary)))
+
+(ROOT (PP (IN On) (NP (JJ 50th) (NN anniversary))))
+
+(ROOT (NP (POS 's) (NN death)))
+
+(ROOT (PP (IN of) (NP (NNP JFK) (NN death))))
+
+(ROOT (FRAG (JJ remembered)))
+
+(ROOT (FRAG (NP (PRP$ its) (JJ first) (NN memorial))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NP (NNP Gov) (POS ')) (NN t) (NN committee)))
+
+(ROOT (FRAG (VP (VBZ frees))))
+
+(ROOT (NP (NN release)))
+
+(ROOT (NP (JJ Palestinian) (NNS prisoners)))
+
+(ROOT (PP (IN of) (NP (CD 26) (JJ Palestinian) (NNS prisoners))))
+
+(ROOT (PP (IN with) (NP (NNP Mandela) (NN family))))
+
+(ROOT (PP (TO to) (NP (NNP Mandela))))
+
+(ROOT (FRAG (VP (VBZ meets))))
+
+(ROOT (FRAG (VP (VBZ meets))))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (POS 's) (NN leader)))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (NN president))))
+
+(ROOT (NP (NN state)))
+
+(ROOT (NP (NN state)))
+
+(ROOT (FRAG (VP (VBZ imposes))))
+
+(ROOT (FRAG (VP (VBZ declares))))
+
+(ROOT (PP (IN of) (NP (NN emergency))))
+
+(ROOT (PP (IN of) (NP (NN emergency))))
+
+(ROOT (PP (IN in) (NP (CD 3) (NNS cities))))
+
+(ROOT (PP (IN in) (NP (CD three) (NNS cities))))
+
+(ROOT (NP (NNP Nobel) (NNP Peace) (NNP Prize)))
+
+(ROOT (NP (NP (CD 2012)) (NP (NNP Nobel) (NNP Peace) (NNP Prize))))
+
+(ROOT (FRAG (VP (VBZ receives))))
+
+(ROOT (FRAG (VP (VBZ Receives))))
+
+(ROOT (NP (NNP EU)))
+
+(ROOT (NP (NNP EU)))
+
+(ROOT (PP (TO to) (NP (NNP Death))))
+
+(ROOT (PP (TO to) (NP (NNP Death))))
+
+(ROOT (PP (IN for) (NP (NNP War) (NNP Crimes))))
+
+(ROOT (PP (IN by) (NP (NNP War) (NNP Crimes) (NNP Tribunal))))
+
+(ROOT (S (VP (VBN Sentenced))))
+
+(ROOT (S (VP (VBN Sentenced))))
+
+(ROOT (PP (IN at) (NP (NNP Swedish) (NN consulate))))
+
+(ROOT (NP (NNP Swedish) (NNP Consulate)))
+
+(ROOT (NP (NN Car) (NN bomb)))
+
+(ROOT (NP (NN Car) (NN Bomb)))
+
+(ROOT (FRAG (NP (DT no) (NNS casualties))))
+
+(ROOT (NP (NN None) (NN Hurt)))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Benghazi))))
+
+(ROOT (PP (IN in) (NP (NNP Benghazi))))
+
+(ROOT (NP (NN roadmap)))
+
+(ROOT (NP (JJ High) (NNS Hopes)))
+
+(ROOT (FRAG (VP (MD will) (VP (VB yield)))))
+
+(ROOT (S (VP (VB Spur))))
+
+(ROOT (NP (JJ nuclear) (NNS talks)))
+
+(ROOT (NP (NP (NNP Iran) (NNP Nuclear)) (NP (NNS Talks))))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (FRAG (VP (VBZ conducts))))
+
+(ROOT (FRAG (VP (VBZ Confirms))))
+
+(ROOT (FRAG (NP (JJ third) (JJ nuclear) (NN test))))
+
+(ROOT (FRAG (NP (JJ Third) (JJ Nuclear) (NN Test))))
+
+(ROOT (NP (NNS Hits)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (PP (IN in) (NP (CD 2012))))
+
+(ROOT (PP (IN in) (NP (CD 2012))))
+
+(ROOT (S (VP (VB Record) (NP (ADJP ($ $) (CD 38)) (NN bn)))))
+
+(ROOT (NP (NP (NN record)) (NP ($ US$) (CD 38b))))
+
+(ROOT (NP (NP (NNP Macau) (NNP Gambling)) (NP (NN Revenue))))
+
+(ROOT (NP (NP (NNP Macau)) (NP (NN gambling) (NN revenue))))
+
+(ROOT
+  (PP (IN for) (NP (NNP Same-Sex) (NNP Marriages) (NNP Hearing))))
+
+(ROOT (PP (IN for) (NP (JJ same-sex) (NN marriage))))
+
+(ROOT (FRAG (VP (VBZ Prepares))))
+
+(ROOT (S (VP (VB pave) (NP (DT the) (NN way)))))
+
+(ROOT (NP (NNP NM) (NNP County)))
+
+(ROOT (NP (NP (DT Some) (NN county)) (NP (NNS officials))))
+
+(ROOT (PP (TO to) (NP (NN host))))
+
+(ROOT (PP (TO to) (NP (NN host))))
+
+(ROOT (NP (NP (CD 2020)) (NP (NNP Olympic) (NNPS Games))))
+
+(ROOT (NP (NP (CD 2020)) (NP (NNPS Olympics))))
+
+(ROOT (NP (NNP Tokyo)))
+
+(ROOT (NP (NNP Tokyo)))
+
+(ROOT (PP (IN in) (NP (NNP Mumbai) (NN rape) (NN case))))
+
+(ROOT (PP (IN in) (NP (JJ gang-rape) (NN case))))
+
+(ROOT (NP (JJ Indian) (NNS police)))
+
+(ROOT (NP (NNP Mumbai) (NNS police)))
+
+(ROOT (NP (NP (DT all)) (NP (CD five) (NNS suspects))))
+
+(ROOT (NP (JJ fifth) (NN suspect)))
+
+(ROOT (ADVP (RB round) (IN up)))
+
+(ROOT (NP (NN arrest)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (PP (IN about) (NP (NNP Syria))))
+
+(ROOT (PP (IN on) (NP (NN chemical) (NNS weapons))))
+
+(ROOT (NP (POS 's) (NN chemical) (NNS weapons)))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NNP U.S.) (NNS concerns)))
+
+(ROOT (FRAG (VP (VBZ strengthens))))
+
+(ROOT (FRAG (VP (VBZ weakens))))
+
+(ROOT (NP (NP (NNP China)) (NP (NN yuan))))
+
+(ROOT (NP (JJ Chinese) (NN yuan)))
+
+(ROOT (PP (TO to) (NP (CD 6.2689))))
+
+(ROOT (PP (TO to) (NP (CD 6.2816))))
+
+(ROOT (PP (IN against) (NP (NNP USD))))
+
+(ROOT (PP (IN against) (NP (NNP USD))))
+
+(ROOT (PP (IN in) (NP (JJ new) (NN constitution))))
+
+(ROOT (PP (IN On) (NP (NNP New) (NNP Constitution))))
+
+(ROOT (NP (NNS votes)))
+
+(ROOT (S (VP (VB Vote))))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNP Egyptians)))
+
+(ROOT (PP (IN in) (NP (NNP Benghazi))))
+
+(ROOT (PP (IN in) (NP (NNP Benghazi))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (NN Car) (NN bomb)))
+
+(ROOT (NP (NN Car) (NN bomb)))
+
+(ROOT (NP (JJ French-led) (NNS troops)))
+
+(ROOT (NP (JJ French-led) (NNS troops)))
+
+(ROOT (PP (IN on) (NP (NNP Timbuktu))))
+
+(ROOT (PP (TO to) (NP (NNP Timbuktu))))
+
+(ROOT (PP (IN at) (NP (JJ joint) (JJ industrial) (NN zone))))
+
+(ROOT (PP (TO to) (NP (JJ joint) (JJ industrial) (NN zone))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB halt))))))
+
+(ROOT (NP (NNS blocks)))
+
+(ROOT (NP (NNP N) (NNP Korea)))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NN work)))
+
+(ROOT (NP (NN access)))
+
+(ROOT (NP (NNP Egyptians)))
+
+(ROOT (NP (NNP Egyptians)))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (PP (IN on) (NP (JJ divisive) (NN constitution))))
+
+(ROOT (PP (IN on) (NP (NN constitution) (NN change))))
+
+(ROOT
+  (NP (NP (JJ final) (JJ big) (NN immigration)) (NP (NNS decisions))))
+
+(ROOT (NP (NP (JJ final)) (NP (JJ big) (NNS decisions))))
+
+(ROOT (FRAG (VP (VBZ nears))))
+
+(ROOT (S (VP (VBG nearing))))
+
+(ROOT (NP (NNP Committee)))
+
+(ROOT (NP (NNP Senate) (NNP Judiciary) (NNP Committee)))
+
+(ROOT (PP (IN for) (NP (NNP Boston) (NN bomb) (NNS victims))))
+
+(ROOT (PP (IN for) (NP (NNP Boston) (NNS victims))))
+
+(ROOT (FRAG (VP (VBZ observes))))
+
+(ROOT (FRAG (VP (VBZ observes))))
+
+(ROOT (NP (NNP London) (NNP Marathon)))
+
+(ROOT (NP (NNP London) (NNP Marathon)))
+
+(ROOT (NP (NN silence)))
+
+(ROOT (NP (NN silence)))
+
+(ROOT (FRAG (NP (CD 40))))
+
+(ROOT (FRAG (NP (CD 40))))
+
+(ROOT (PP (IN in) (NP (NNP Canada) (NN train) (NN disaster))))
+
+(ROOT (PP (IN in) (NP (JJ Canadian) (NN train) (NN wreck))))
+
+(ROOT (ADJP (VBG missing)))
+
+(ROOT (ADJP (VBG missing)))
+
+(ROOT (NP (NNP UN) (NNS presses)))
+
+(ROOT (NP (NP (NNP UN)) (NP (NN chief) (NNS presses))))
+
+(ROOT (PP (IN for) (NP (JJ major) (NN boost))))
+
+(ROOT (PP (IN for) (NP (JJ major) (NN boost))))
+
+(ROOT (PP (IN in) (NP (JJ Syrian) (NN aid))))
+
+(ROOT (PP (IN in) (NP (JJ Syrian) (NN aid))))
+
+(ROOT (NP (NNP N) (NNP Korea)))
+
+(ROOT (NP (NNP N.) (NNP Korea)))
+
+(ROOT (FRAG (NP (JJ controversial) (NN rocket) (NN launch))))
+
+(ROOT (FRAG (NP (JJ controversial) (NN rocket) (NN launch))))
+
+(ROOT (FRAG (VP (MD may) (VP (VB delay)))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB delay))))))
+
+(ROOT (NP (NNS rocks)))
+
+(ROOT (NP (NNS rocks)))
+
+(ROOT (NP (NP (JJ Critical) (NNP Gates)) (NP (NN memoir))))
+
+(ROOT (NP (NP (NNP Gates)) (NP (NN blast))))
+
+(ROOT (NP (NP (NNP Obama)) (NP (NN administration))))
+
+(ROOT (NP (NP (NNP Obama)) (NP (NN administration))))
+
+(ROOT (PP (TO to) (NP (NN hacking) (NNS charges))))
+
+(ROOT (PP (IN at) (NP (NN phone) (NN hacking) (NN hearing))))
+
+(ROOT (NP (NNP Brooks)))
+
+(ROOT (NP (NNP Brooks)))
+
+(ROOT (FRAG (RB not) (ADJP (JJ guilty))))
+
+(ROOT (FRAG (RB not) (ADJP (JJ guilty))))
+
+(ROOT (NP (NNS pleads)))
+
+(ROOT (NP (NNS pleads)))
+
+(ROOT (FRAG (VP (VBZ is) (VP (VBG working)))))
+
+(ROOT (NP (NN work)))
+
+(ROOT (NP (NP (NN health)) (NP (NN care) (NN law))))
+
+(ROOT (NP (NP (JJ new) (NN health)) (NP (NN care) (NN law))))
+
+(ROOT (FRAG (VP (VBZ declares))))
+
+(ROOT (NP (NNS pledges)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NN protest)))
+
+(ROOT (NP (NN protest)))
+
+(ROOT (NP (NNS Thousands)))
+
+(ROOT (NP (NNS Thousands)))
+
+(ROOT (NP (JJ gay) (NN marriage)))
+
+(ROOT (NP (JJ gay) (NN marriage)))
+
+(ROOT (S (VP (VB paralyse))))
+
+(ROOT (S (VP (VB besiege))))
+
+(ROOT (NP (NP (NNP Thai)) (NP (JJ political) (NNS protests))))
+
+(ROOT (NP (NNP Thai) (NNS protesters)))
+
+(ROOT (NP (NP (RBR more)) (NP (NNS ministries))))
+
+(ROOT (NP (NP (RBR more)) (NP (NNS ministries))))
+
+(ROOT (NP (NN Exclusive-UPDATE)))
+
+(ROOT (NP (NN EXCLUSIVE-UPDATE)))
+
+(ROOT
+  (NP
+    (NP (JJ 2-Egypt) (JJ pro-Mursi) (NN alliance) (NNS signals))
+    (NP (NN flexibility))))
+
+(ROOT
+  (NP
+    (NP (JJ 1-Egypt) (JJ pro-Mursi) (NN alliance) (NNS signals))
+    (NP (NN flexibility))))
+
+(ROOT (PP (IN in) (NP (NNS talks))))
+
+(ROOT (PP (IN in) (NP (NNS talks))))
+
+(ROOT (NP (NNS Deaths)))
+
+(ROOT
+  (FRAG (S (ADJP (NP (QP (IN at) (JJS least) (CD one))) (JJ dead)))))
+
+(ROOT (S (VP (VBN confirmed))))
+
+(ROOT (INTJ (VB say)))
+
+(ROOT (PP (IN after) (NP (NN helicopter))))
+
+(ROOT (PP (IN after) (NP (NN helicopter))))
+
+(ROOT (PP (IN into) (NP (JJ Scottish) (NN pub))))
+
+(ROOT (PP (IN into) (NP (NN pub))))
+
+(ROOT (NP (NNS crashes)))
+
+(ROOT (NP (NNS crashes)))
+
+(ROOT (NP (NP (NNP Pakistan)) (NP (NN jailbreak))))
+
+(ROOT (NP (NP (NNP Taliban)) (NP (NN prison) (NN break))))
+
+(ROOT (NP (NNPS Militants)))
+
+(ROOT (X (NP (CD 250) (NNS militants))))
+
+(ROOT (NP (NN stage)))
+
+(ROOT (NP (NN escape)))
+
+(ROOT (FRAG (VP (VBZ brings))))
+
+(ROOT (NP (NNS wallops)))
+
+(ROOT (NP (NNP Blizzard)))
+
+(ROOT (NP (NNP Blizzard)))
+
+(ROOT (NP (NP (NNP US)) (NP (NN northeast))))
+
+(ROOT (NP (NNP US) (NNP Northeast)))
+
+(ROOT (NP (NN bomb)))
+
+(ROOT (NP (NN bomb) (NN attack)))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (JJ interior) (NN minister))))
+
+(ROOT (S (NP (POS 's)) (VP (JJ interior) (NP (NN minister)))))
+
+(ROOT (FRAG (VP (VBZ survives))))
+
+(ROOT (FRAG (VP (VBZ survives))))
+
+(ROOT (NP (POS 's) (NN security) (NNS restrictions)))
+
+(ROOT (NP (POS 's) (NN security) (NN decree)))
+
+(ROOT (NP (NNS Critics)))
+
+(ROOT (PP (IN of) (NP (NNS critics))))
+
+(ROOT (NP (NNP Putin)))
+
+(ROOT (NP (NNP Putin)))
+
+(ROOT (FRAG (NP (NP (NNS cracks)) (ADVP (IN down)))))
+
+(ROOT (FRAG (NP (NP (NNS cracks)) (ADVP (IN down)))))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (NN army))))
+
+(ROOT (S (NP (POS 's)) (VP (NN military))))
+
+(ROOT (PP (IN on) (NP (NNP Brotherhood))))
+
+(ROOT (PP (IN on) (NP (JJ Muslim) (NNP Brotherhood))))
+
+(ROOT (PP (IN for) (NP (NN calm))))
+
+(ROOT (PP (IN for) (NP (NN calm))))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNS prays)))
+
+(ROOT (NP (NNS prays)))
+
+(ROOT (NP (NNS braces)))
+
+(ROOT (NP (NNS braces)))
+
+(ROOT (PP (IN for) (NP (JJR more) (NNS protests))))
+
+(ROOT (PP (IN for) (NP (JJR more) (NNS protests))))
+
+(ROOT
+  (PP
+    (IN between)
+    (NP
+      (NP (NNP Raffles) (NNP Place))
+      (, ,)
+      (NP (NNP Marina) (NNP Bay)))))
+
+(ROOT
+  (PP
+    (IN between)
+    (NP
+      (NP (NNP Raffles) (NNP Place))
+      (CC and)
+      (NP (NNP Marina) (NNP Bay)))))
+
+(ROOT (FRAG (VP (VBZ disrupts))))
+
+(ROOT (S (VP (VBN disrupted))))
+
+(ROOT (NP (NN train) (NN service)))
+
+(ROOT (NP (NN Train) (NN service)))
+
+(ROOT (NP (JJ Defiant) (NNP Mugabe)))
+
+(ROOT (NP (NNP Mugabe)))
+
+(ROOT (VP (VBN sworn) (PP (IN in))))
+
+(ROOT (VP (VBN sworn) (PP (IN in))))
+
+(ROOT (PP (IN for) (NP (JJ seventh) (NN term))))
+
+(ROOT (PP (IN for) (NP (DT another) (NN term))))
+
+(ROOT (NP (NNP Lance) (NNP Armstrong)))
+
+(ROOT (NP (NNP Lance) (NNP Armstrong)))
+
+(ROOT (PP (TO to) (NP (NNP Oprah))))
+
+(ROOT (PP (IN in) (NP (NNP Oprah) (NN interview))))
+
+(ROOT (FRAG (NP (DT all))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VBG doping))))))
+
+(ROOT (FRAG (VP (VBZ confesses))))
+
+(ROOT (FRAG (VP (VBZ confesses))))
+
+(ROOT (PP (IN after) (NP (JJ wild) (NN party))))
+
+(ROOT (PP (IN after) (NP (VBN alleged) (NN embassy) (NN orgy))))
+
+(ROOT (ADJP (VBN sacked)))
+
+(ROOT (NP (NNS resigns)))
+
+(ROOT (NP (JJ Honduran) (NN ambassador)))
+
+(ROOT (NP (NP (NNP Honduras)) (NP (NN ambassador))))
+
+(ROOT
+  (PP (IN on) (NP (JJ upbeat) (NNP US) (JJ economic) (NNS data))))
+
+(ROOT
+  (PP
+    (IN by)
+    (NP
+      (ADJP
+        (JJ positive)
+        (NP-TMP (NP (NNP US)) (, ,) (NP (NNP China))))
+      (NNS data))))
+
+(ROOT (NP (JJ Asian) (NNS markets)))
+
+(ROOT (NP (JJ Asian) (NNS markets)))
+
+(ROOT (NP (NN gain)))
+
+(ROOT (S (VP (VBN lifted))))
+
+(ROOT (NP (NP (CD six)) (NP (JJ global) (NNS powers))))
+
+(ROOT (NP (NN world) (NNS powers)))
+
+(ROOT (NP (NP (NN landmark)) (NP (JJ nuclear) (NN deal))))
+
+(ROOT (NP (JJ nuclear) (NN deal)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NN sign)))
+
+(ROOT (S (VP (VB agree))))
+
+(ROOT (NP (NNS Dozens)))
+
+(ROOT (NP (NNS Dozens)))
+
+(ROOT (PP (IN in) (NP (NN air) (NN strike))))
+
+(ROOT (PP (IN in) (NP (JJ Syrian) (NN air) (NN strike))))
+
+(ROOT (PP (IN on) (NP (NN bakery))))
+
+(ROOT (PP (IN on) (NP (NN bakery))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (S (NP (NNP Mandela)) (VP (`` `) (NNP Inspiration) ('' '))))
+
+(ROOT (S (NP (POS 's)) (VP (NN inspiration) (NP (NN effect)))))
+
+(ROOT (FRAG (VP (VBZ Praises))))
+
+(ROOT (FRAG (VP (VBZ hails))))
+
+(ROOT (FRAG (ADJP (JJ 3-wk)) (ADJP (JJ high))))
+
+(ROOT (NP (JJ three-week) (NNS highs)))
+
+(ROOT (NP (JJ Asian) (NNS markets)))
+
+(ROOT (NP (JJ Asian) (NNS stocks)))
+
+(ROOT (PP (IN on) (NP (NNS hopes))))
+
+(ROOT (PP (IN on) (NP (NNS hopes))))
+
+(ROOT (PP (IN of) (NP (NNP US) (NN debt) (NN deal))))
+
+(ROOT (PP (IN of) (NP (NNP U.S.) (NN debt) (NN deal))))
+
+(ROOT (NP (NN hit)))
+
+(ROOT (NP (NN hit)))
+
+(ROOT (NP (NP (NN Patriot)) (NP (NN missile) (NN battery))))
+
+(ROOT (NP (NP (NN Patriot)) (NP (NN missile) (NNS batteries))))
+
+(ROOT (NP (NNP NATO)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (PP (IN on) (NP (JJ Syrian) (NN border))))
+
+(ROOT (PP (IN near) (NP (JJ Syrian) (NN border))))
+
+(ROOT (NP (NNP Guinea)))
+
+(ROOT (NP (NNS Equatoguineans)))
+
+(ROOT (NP (NNS votes)))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (PP (IN in) (NP (JJ long-delayed) (JJ legislative) (NN poll))))
+
+(ROOT (PP (IN in) (NP (JJ legislative) (NNS polls))))
+
+(ROOT (PP (IN on) (NP (NNP Sinai) (NNPS Militants))))
+
+(ROOT (PP (IN against) (NP (NNP Sinai) (NNS militants))))
+
+(ROOT (NP (NNP Egypt) (NNP Army)))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNP New) (NNP Air) (NNP Raids)))
+
+(ROOT (NP (JJ new) (NN assault)))
+
+(ROOT (NP (NNS Launches)))
+
+(ROOT (NP (NNS launches)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VB die))))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (NP (NN polling) (NNS stations)))
+
+(ROOT (NP (NNP Thai) (NNS protesters)))
+
+(ROOT (NP (NNP Thai) (NNS protesters)))
+
+(ROOT (S (VP (VB obstruct))))
+
+(ROOT (NP (NN block)))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NP (NNP North) (NNP Korea)) (NP (JJ nuclear) (NN test))))
+
+(ROOT
+  (FRAG (NP (NNP Nelson) (NNP Mandela) (NN memorial) (NN service))))
+
+(ROOT (NP (NNP Nelson) (NNP Mandela)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NN bus) (NN crash))))
+
+(ROOT (PP (IN in) (NP (NN bus) (NN accident))))
+
+(ROOT (PP (IN in) (NP (NNP Italy))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (FRAG (NP (CD 37))))
+
+(ROOT (FRAG (NP (CD 12))))
+
+(ROOT (NP (JJ Syrian) (NN opposition)))
+
+(ROOT (NP (JJ Syrian) (NN opposition)))
+
+(ROOT (NP (NP (NNP Delhi)) (NP (NN Gang) (NN Rape) (NN Suspect))))
+
+(ROOT (NP (NP (NNP Delhi)) (NP (NN gang-rape) (NN verdict))))
+
+(ROOT (FRAG (NP (DT the) (NNPS Philippines))))
+
+(ROOT (NP (NNPS Philippines)))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (NNS Hits)))
+
+(ROOT (NP (NP (JJS Most)) (NP (JJ powerful) (NN typhoon))))
+
+(ROOT (NP (NN Typhoon) (NN Utor)))
+
+(ROOT (PP (IN for) (NP (JJR more) (NNP Egypt) (NNS protests))))
+
+(ROOT (PP (IN from) (NP (NNP Egypt) (NNS protests))))
+
+(ROOT (NP (CD 11) (NN hurt)))
+
+(ROOT (NP (CD 33) (NN hurt)))
+
+(ROOT (ADJP (NP (CD One)) (JJ dead)))
+
+(ROOT (ADJP (NP (CD 6)) (JJ dead)))
+
+(ROOT (NP (NNP Suicide) (NNP Bomber)))
+
+(ROOT (NP (NNP Suicide) (NNP Bomber)))
+
+(ROOT (PP (IN at) (NP (NNP Afghan) (NNP Province) (NNP Council))))
+
+(ROOT (PP (IN in) (NP (NNP Afghanistan))))
+
+(ROOT (FRAG (NP (CD 14))))
+
+(ROOT (FRAG (NP (CD 11))))
+
+(ROOT (FRAG (VP (VBZ Kills))))
+
+(ROOT (FRAG (VP (VBZ Kills))))
+
+(ROOT (PP (IN of) (NP (NN manslaughter))))
+
+(ROOT (PP (IN of) (NP (NN murder))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (PP (IN on) (NP (NN suspicion))))
+
+(ROOT (PP (IN on) (NP (NN suspicion))))
+
+(ROOT (PP (IN on) (NP (NNP Wall) (NNP St) (NN lead))))
+
+(ROOT (PP (IN on) (NP (NNP Wall) (NNP Street))))
+
+(ROOT (NP (NNS Stocks)))
+
+(ROOT (NP (NNS Stocks)))
+
+(ROOT (S (VP (VB soar))))
+
+(ROOT (NP (NN slump)))
+
+(ROOT (PP (IN in) (NP (JJ northern) (NNP Iraq))))
+
+(ROOT (PP (IN in) (NP (JJ northern) (NNP Lebanon))))
+
+(ROOT (FRAG (NP (CD 17))))
+
+(ROOT (FRAG (NP (CD 2))))
+
+(ROOT (PP (IN in) (NP (NN bomb) (NNS attacks))))
+
+(ROOT (PP (IN in) (NP (NNS clashes))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN wounded))))
+
+(ROOT (S (VP (VBN wounded))))
+
+(ROOT (FRAG (NP (CD 133))))
+
+(ROOT (FRAG (NP (CD 6))))
+
+(ROOT (NP (POS 's) (NN death)))
+
+(ROOT (NP (POS 's) (NN death)))
+
+(ROOT (PP (IN over) (NP (NN nurse))))
+
+(ROOT (PP (IN over) (NP (NN nurse))))
+
+(ROOT (S (VP (VBG ailing) (NP (NNP Mandela)))))
+
+(ROOT
+  (FRAG
+    (POS 's)
+    (NP (JJ former) (NNP PM) (NNP Nelson) (NNP Mandela))))
+
+(ROOT (NP (NNP South) (NNPS Africans)))
+
+(ROOT (NP (NNP South) (NNP Africa)))
+
+(ROOT (NP (NP (NNP December) (CD 6)) (, ,) (NP (CD 2013))))
+
+(ROOT (NP (NP (NNP July) (CD 12)) (, ,) (NP (CD 2013))))
+
+(ROOT (S (NP (POS 's)) (VP (NNPS Must-Reads))))
+
+(ROOT (S (NP (POS 's)) (VP (NNPS Must-Reads))))
+
+(ROOT (FRAG (NP (DT The) (NN Note))))
+
+(ROOT (FRAG (NP (DT The) (NN Note))))
+
+(ROOT (PP (IN for) (NP (NNP Friday))))
+
+(ROOT (PP (IN for) (NP (NNP Friday))))
+
+(ROOT (PP (TO to) (NP (JJ Central) (JJ African) (NN Republic))))
+
+(ROOT (PP (IN in) (NP (JJ Central) (JJ African) (NN capital))))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (NNS jolts)))
+
+(ROOT (NP (JJ 6.0-magnitude) (NN quake)))
+
+(ROOT (NP (JJ 5.0-magnitude) (NN quake)))
+
+(ROOT (NP (NNP Greece)))
+
+(ROOT (NP (NNP Japan)))
+
+(ROOT (NP (NNP North) (NNP Korea) (NNP Nuclear) (NNP Test)))
+
+(ROOT (NP (NP (NNP North) (NNP Korea)) (NP (JJ nuclear) (NN test))))
+
+(ROOT (NP (NN Credibility)))
+
+(ROOT (NP (NN world) (NN credibility)))
+
+(ROOT (PP (IN on) (NP (DT the) (NN line))))
+
+(ROOT (PP (IN on) (NP (NN line))))
+
+(ROOT (PP (TO to) (NP (CD 6.2767))))
+
+(ROOT (PP (TO to) (NP (CD 6.1818))))
+
+(ROOT (S (NP (POS 's)) (VP (NN yuan))))
+
+(ROOT (NP (NP (NNP China)) (NP (NN yuan))))
+
+(ROOT (PP (IN against) (NP (NNP USD) (NNP Thursday))))
+
+(ROOT (PP (IN against) (NP (NNP USD) (NNP Tuesday))))
+
+(ROOT (FRAG (VP (VBZ weakens))))
+
+(ROOT (FRAG (VP (VBZ weakens))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (S (VP (VB Kill))))
+
+(ROOT (NP (NN Suicide) (NN bomber)))
+
+(ROOT (NP (NN Suicide) (NNS Bombers)))
+
+(ROOT (NP (NN policeman)))
+
+(ROOT (X (NP (CD 3) (NNS Soldiers))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB be) (VP (VBN sentenced)))))))
+
+(ROOT (S (VP (VBN Sentenced))))
+
+(ROOT (PP (IN for) (NP (NN terror) (NNS convictions))))
+
+(ROOT (PP (IN for) (NP (NNP Corruption))))
+
+(ROOT (NP (NNS Stocks)))
+
+(ROOT (NP (NNP US) (NNS stocks)))
+
+(ROOT (NP (NN rise)))
+
+(ROOT (NP (NN ease)))
+
+(ROOT (PP (IN in) (NP (JJ early) (NN trading))))
+
+(ROOT (PP (IN in) (NP (JJ choppy) (NN trading))))
+
+(ROOT (PP (TO to) (NP (NN helicopter) (NN crash))))
+
+(ROOT (PP (IN over) (NP (NN crash))))
+
+(ROOT (NP (NNP UK) (NNS police)))
+
+(ROOT (NP (NNP China) (NNS police)))
+
+(ROOT (FRAG (NP (CD 41))))
+
+(ROOT (FRAG (NP (CD 15))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNP Iraq))))
+
+(ROOT (PP (IN in) (NP (NNP Iraq))))
+
+(ROOT (S (VP (VBN wounded))))
+
+(ROOT (S (VP (VBN wounded))))
+
+(ROOT (PP (IN in) (NP (JJ violent) (NNS attacks))))
+
+(ROOT (PP (IN in) (NP (JJ fresh) (NNS attacks))))
+
+(ROOT (FRAG (NP (CD 22))))
+
+(ROOT (FRAG (NP (CD 90))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB visit))))))
+
+(ROOT (NP (NN visit)))
+
+(ROOT (NP (NNP Kerry)))
+
+(ROOT (NP (NNP Kerry)))
+
+(ROOT (NP (NNP Jordan)))
+
+(ROOT (PP (TO to) (NP (NNP Israel))))
+
+(ROOT (PP (IN on) (NP (NN agenda))))
+
+(ROOT (NP (NNS postpones)))
+
+(ROOT (PP (IN for) (NP (NNP Obamacare))))
+
+(ROOT (PP (IN for) (NP (NNP Obamacare))))
+
+(ROOT (FRAG (NP (NP (NNS signs)) (ADVP (IN up)))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB sign) (PRT (RP up)))))))
+
+(ROOT (NP (NNP US) (NNP State) (NNP Department)))
+
+(ROOT (FRAG (NP (NNP State) (NNP Dept) (NN security) (NN chief))))
+
+(ROOT (S (VP (VBN faulted))))
+
+(ROOT (NP (NNS resigns)))
+
+(ROOT (PP (IN over) (NP (NNP Benghazi))))
+
+(ROOT (PP (IN after) (NP (NNP Benghazi))))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (NNP Libya)))
+
+(ROOT (S (VP (VBN Hit))))
+
+(ROOT (NP (NN hit)))
+
+(ROOT (S (VP (VB Kill))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (FRAG (NP (CD 6))))
+
+(ROOT (FRAG (NP (CD 4))))
+
+(ROOT (NP (NNP Egypt) (NNP Military)))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (JJ military))))
+
+(ROOT (NP (NNP Suicide) (NNS Bombs)))
+
+(ROOT (NP (NN Suicide) (NNS bombs)))
+
+(ROOT (PP (IN in) (NP (NNP Sinai))))
+
+(ROOT (PP (IN in) (NP (NNP Sinai))))
+
+(ROOT (PP (IN in) (NP (NNP Egypt) (NNS clashes))))
+
+(ROOT (NP (NN clash)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (NP (NP (CD Four)) (NP (NNP Morsi)) (NP (NNS supporters))))
+
+(ROOT (PP (IN as) (NP (NNP Morsi) (NNS supporters))))
+
+(ROOT (NP (NP (NNP Pistorius)) (NP (NN officer))))
+
+(ROOT (NP (NP (NNP Pistorius)) (NP (NN officer))))
+
+(ROOT (PP (IN from) (NP (NN case))))
+
+(ROOT (PP (IN on) (NP (VBN attempted) (NN murder) (NNS charges))))
+
+(ROOT
+  (NP
+    (NP (NNP Pakistani) (NNP Taliban))
+    (NP (NN chief))
+    (NP (NNP Hakimullah) (NNP Mehsud))))
+
+(ROOT (NP (NNP Hakimullah)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (NP (POS 's)) (VP (NN killing))))
+
+(ROOT (PP (IN in) (NP (NN drone) (NN strike))))
+
+(ROOT (PP (IN in) (NP (NN bloodshed))))
+
+(ROOT (NP (NN suspect)))
+
+(ROOT (NP (NN suspect)))
+
+(ROOT (FRAG (VP (VBD was) (VP (VBN captured)))))
+
+(ROOT (S (VP (VBN captured))))
+
+(ROOT (NP (NN Flooding)))
+
+(ROOT (NP (NP (NNP California)) (NP (NN wildfire))))
+
+(ROOT (NP (NN evacuation)))
+
+(ROOT (NP (NN evacuation)))
+
+(ROOT (NP (NNS forces)))
+
+(ROOT (NP (NNS forces)))
+
+(ROOT (PP (IN of) (NP (DT another) (NN city))))
+
+(ROOT (PP (IN of) (NP (NP (NNS homes)) (, ,) (NP (NN university)))))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (PP (TO to) (NP (CD 30))))
+
+(ROOT (PP (TO to) (NP (CD six))))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (PP (IN in) (NP (NNP Nigeria) (NN police) (NN attack))))
+
+(ROOT (PP (IN in) (NP (NNP Kenya) (NN bus) (NN attack))))
+
+(ROOT (NP (NNP Australia)))
+
+(ROOT (NP (JJ Australian) (NN PM)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (PP (IN in) (NP (JJ nuclear) (NNS talks))))
+
+(ROOT
+  (X
+    (NP
+      (ADJP (`` ``) (JJ peaceful) ('' '') (JJ nuclear))
+      (NN program))))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Darfur))))
+
+(ROOT (PP (IN in) (NP (NNP Abyei) (NN clash))))
+
+(ROOT (X (NP (CD Seven) (NNS peacekeepers))))
+
+(ROOT (NP (NNP Peacekeeper)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN on) (NP (NNP Syria))))
+
+(ROOT (PP (IN at) (NP (NNP Syria))))
+
+(ROOT (PP (IN over) (NP (JJ Israeli) (NNS strikes))))
+
+(ROOT (FRAG (NP (JJ second) (NN air) (NN strike))))
+
+(ROOT (NP (NNS voices)))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (NP (NN fire)))
+
+(ROOT (S (VP (VBN Fired))))
+
+(ROOT (S (VP (VB tear) (NP (NN gas)))))
+
+(ROOT (NP (NNP Tear) (NNP Gas)))
+
+(ROOT (PP (IN at) (NP (NNP Brotherhood) (NNS protesters))))
+
+(ROOT (PP (IN At) (NP (NN Gang) (NN Rape) (NNS Protesters))))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNP House)))
+
+(ROOT (PP (IN on) (NP (JJ fiscal) (NN cliff) (NN deal))))
+
+(ROOT (PP (IN on) (NP (JJ fiscal) (NN cliff) (NN deal))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB vote))))))
+
+(ROOT (NP (NN vote)))
+
+(ROOT (PP (IN in) (NP (NNP Colorado) (NN avalanche))))
+
+(ROOT (PP (IN in) (NP (NNP Colorado) (NN avalanche))))
+
+(ROOT (S (VP (VBN buried))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (X (NP (CD 5) (NNS people))))
+
+(ROOT (X (NP (CD 5) (NNS snowboarders))))
+
+(ROOT (PP (TO to) (NP (NNP US) (NN defense) (NN budget))))
+
+(ROOT (PP (IN in) (NP (NN defense) (NN spending))))
+
+(ROOT (FRAG (ADJP (`` ``) (JJ political) ('' '')) (NNS changes)))
+
+(ROOT (VP (VBN proposed) (NP (NNS cuts))))
+
+(ROOT (NP (NNP Hagel)))
+
+(ROOT (NP (NNP Hagel)))
+
+(ROOT (S (VP (VB approve))))
+
+(ROOT (FRAG (VP (VBZ approves))))
+
+(ROOT (NP (NNP Afghan) (NNS legislators)))
+
+(ROOT (NP (NP (NNP Afghan)) (NP (NN president))))
+
+(ROOT (FRAG (NP (JJ new) (NN election) (NN law))))
+
+(ROOT (FRAG (NP (JJ new) (NN election) (NN law))))
+
+(ROOT (S (VP (VB die))))
+
+(ROOT (S (VP (VB die))))
+
+(ROOT (PP (IN in) (NP (NN fire))))
+
+(ROOT (PP (IN in) (NP (JJ electrical) (NN fire))))
+
+(ROOT (NP (NP (NNP Myanmar)) (NP (NN mosque) (NN fire))))
+
+(ROOT (PP (IN at) (NP (NN mosque))))
+
+(ROOT (X (NP (CD 13) (NNS children))))
+
+(ROOT (X (NP (CD 13) (NNS children))))
+
+(ROOT (PP (IN With) (NP (JJR Higher) (NN Glaucoma) (NN Risk))))
+
+(ROOT (NP (NN glaucoma) (NN risk)))
+
+(ROOT (NP (NNP Birth) (NNP Control)))
+
+(ROOT (NP (JJ Contraceptive) (NN pill)))
+
+(ROOT (S (VP (VBN Linked))))
+
+(ROOT (FRAG (VP (VBZ doubles))))
+
+(ROOT (NP (JJ Iraqi) (NN president)))
+
+(ROOT (NP (JJ Iraqi) (NN president)))
+
+(ROOT (NP (NN health) (NN problem)))
+
+(ROOT (NP (NN stroke)))
+
+(ROOT (PP (IN in) (NP (NN hospital))))
+
+(ROOT (PP (IN in) (NP (NN hospital))))
+
+(ROOT (ADJP (JJ due) (TO to)))
+
+(ROOT (PP (IN after) (S (VP (VBG suffering)))))
+
+(ROOT (PP (IN Near) (NP (DT the) (JJ Iranian) (NNP Embassy))))
+
+(ROOT (PP (IN near) (NP (JJ Iranian) (NN embassy))))
+
+(ROOT (PP (IN in) (NP (NNP Beirut))))
+
+(ROOT (PP (IN in) (NP (NNP Beirut))))
+
+(ROOT (NP (NNS Explosions)))
+
+(ROOT (X (NP (CD Two) (NNS blasts))))
+
+(ROOT (PP (IN on) (NP (NNS flights))))
+
+(ROOT (PP (IN on) (NP (JJ direct) (NNS flights))))
+
+(ROOT (NP (NNP U.S.)))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (JJ carry-on) (NNS liquids)))
+
+(ROOT (NP (JJ carry-on) (NNS liquids)))
+
+(ROOT (NP (NNS bans)))
+
+(ROOT (NP (NNS bans)))
+
+(ROOT (PP (TO to) (NP (NNP Russia))))
+
+(ROOT (PP (TO to) (NP (NNP Russia))))
+
+(ROOT (NP (NNP Nato) (NNS troops)))
+
+(ROOT (NP (NP (NNP NATO)) (NP (NN strike))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NP (CD two)) (NP (NNP Afghan)) (NP (NNS children))))
+
+(ROOT (NP (NP (CD 11)) (NP (NNP Afghan)) (NP (NNS children))))
+
+(ROOT (PP (IN in) (NP (JJ east) (NNP China))))
+
+(ROOT (PP (IN into) (NP (JJ southeastern) (NNP China))))
+
+(ROOT (NP (NN landfall)))
+
+(ROOT (NP (NNS slams)))
+
+(ROOT (NP (NNP Typhoon) (NNP Fitow)))
+
+(ROOT (NP (NNP Typhoon) (NNP Fitow)))
+
+(ROOT (PP (IN for) (NP (NNP James) (NNP Holmes))))
+
+(ROOT (PP (IN for) (NP (NNP James) (NNP Holmes))))
+
+(ROOT (FRAG (RB not) (NP (JJ guilty) (NN plea))))
+
+(ROOT (FRAG (RB Not) (NP (JJ guilty) (NN plea))))
+
+(ROOT (NP (NP (NNP Apple)) (NP (NN app))))
+
+(ROOT (NP (NP (NNP Apple)) (NP (NN app))))
+
+(ROOT (FRAG (VP (VBZ directs))))
+
+(ROOT (FRAG (VP (VBZ sends))))
+
+(ROOT (NP (NNS drivers)))
+
+(ROOT (NP (NNS drivers)))
+
+(ROOT (PP (TO to) (NP (NNP Alaska) (NN airport) (NN runway))))
+
+(ROOT (PP (TO to) (NP (NN airport))))
+
+(ROOT (NP (NNS postpones)))
+
+(ROOT (NP (NNS postpones)))
+
+(ROOT (NP (NN family) (NNS reunions)))
+
+(ROOT (NP (JJ war-torn) (NN family) (NNS unions)))
+
+(ROOT (NP (NNP N) (NNP Korea)))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (PP (IN of) (NP (JJ fiscal) (NN impasse))))
+
+(ROOT (PP (IN Amid) (NP (JJ Fiscal) (NNP Impasse))))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (S (VP (POS 's) (NP (JJ nuclear) (NN deal)))))
+
+(ROOT (NP (NP (NN breakthrough)) (NP (JJ nuclear) (NN deal))))
+
+(ROOT (FRAG (NP (PRP it))))
+
+(ROOT (FRAG (NP (PRP it))))
+
+(ROOT (NP (NNP U.S.)))
+
+(ROOT (NP (NNP U.S.)))
+
+(ROOT (FRAG (VP (VBZ says))))
+
+(ROOT (FRAG (VP (VBZ says))))
+
+(ROOT (FRAG (VP (VBZ denies))))
+
+(ROOT (FRAG (VP (VBZ says))))
+
+(ROOT (NP (NN drone)))
+
+(ROOT (NP (NP (NNP U.S.)) (NP (NN drone))))
+
+(ROOT (S (VP (VBG losing))))
+
+(ROOT (FRAG (NP (PRP it))))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NNP Iran)))
+
+(ROOT (NP (NNS captures)))
+
+(ROOT (FRAG (VP (VBZ has) (VP (VBN seized)))))
+
+(ROOT (NP (NN escape)))
+
+(ROOT (NP (NN escape)))
+
+(ROOT (S (NP (POS 's)) (VP (NN al-Kweifiya) (NP (NN prison)))))
+
+(ROOT (PP (IN from) (NP (JJ Libyan) (NN jail))))
+
+(ROOT
+  (NP (NP (JJR More)) (PP (IN than) (NP (CD 1,000) (NNS inmates)))))
+
+(ROOT (X (NP (CD 1000) (NNS prisoners))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (S (VP (VB die))))
+
+(ROOT (PP (IN in) (NP (NNP Cairo) (NN clash))))
+
+(ROOT (PP (IN in) (NP (NNP Egypt) (NNS clashes))))
+
+(ROOT (NP (NP (JJ Muslim) (NNP Brotherhood)) (NP (NN supporter))))
+
+(ROOT (NP (NP (JJ Muslim) (NNP Brotherhood)) (NP (NNS supporters))))
+
+(ROOT
+  (PP (IN In) (NP (NNP Italy) (NNP Tour) (NNP Bus) (NNP Plunge))))
+
+(ROOT (PP (IN In) (NP (JJ Italian) (NN Bus) (NN Plunge))))
+
+(ROOT (ADJP (NP (CD Thirty-Seven)) (JJ Dead)))
+
+(ROOT (ADJP (NP (CD Thirty)) (JJ Dead)))
+
+(ROOT (NP (NN end)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (NP (NNP China) (NNS stocks)))
+
+(ROOT (NP (NNP Thursday)))
+
+(ROOT (PP (IN on) (NP (NNP Thursday))))
+
+(ROOT
+  (FRAG
+    (PP (IN within) (NP (NN Â) (NN ż)))
+    (NP (CD three) (NN monthsÂ))))
+
+(ROOT (PP (IN in) (NP (NNS months))))
+
+(ROOT (NP (NP (NNP Iran)) (NP (NN leader)) (NP (NNP Rouhani))))
+
+(ROOT (NP (NNP Iran) (NNP President) (NNP Hassan) (NNP Rouhani)))
+
+(ROOT (NP (JJ nuclear) (NN deal)))
+
+(ROOT (NP (JJ nuclear) (NN deal)))
+
+(ROOT (NP (JJ fresh) (NN election)))
+
+(ROOT (FRAG (NP (JJ fresh) (JJ presidential) (NN election))))
+
+(ROOT (NP (NNS Maldives)))
+
+(ROOT (NP (NNS Maldives)))
+
+(ROOT (FRAG (VP (VBZ holds))))
+
+(ROOT (FRAG (VP (VBZ holds))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNS green-lights)))
+
+(ROOT (FRAG (VP (VBZ unveils))))
+
+(ROOT (NP (NP (CD 1500)) (NP (JJ settler) (NNS homes))))
+
+(ROOT (X (NP (QP (CD 1,800) (JJR more)) (JJ settler) (NNS homes))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (SINV (NP (CD five)) (VP (VBN accused))))
+
+(ROOT (S (NP (DT All) (CD five)) (VP (VBN accused))))
+
+(ROOT
+  (NP
+    (NP (NNP Mumbai))
+    (NP (NN photojournalist) (NN gangrape) (NN case))))
+
+(ROOT
+  (NP
+    (NP (NNP Mumbai))
+    (NP (NN journalist) (NN gang-rape) (NN case))))
+
+(ROOT (PP (IN from) (NP (NN judge))))
+
+(ROOT (PP (IN by) (NP (NN judge))))
+
+(ROOT (PP (IN in) (NP (JJ Spanish) (NN train) (NN crash))))
+
+(ROOT (PP (IN in) (NP (NNP Spain) (NN crash))))
+
+(ROOT (NP (NNS questions)))
+
+(ROOT (S (VP (VBN questioned))))
+
+(ROOT (NP (NN Driver)))
+
+(ROOT (NP (NN Train) (NN driver)))
+
+(ROOT (NP (NN airstrike)))
+
+(ROOT (NP (NN air) (NNS strikes)))
+
+(ROOT (PP (IN in) (NP (NNP Gaza))))
+
+(ROOT (PP (IN near) (NP (NNP Damascus))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNS launches)))
+
+(ROOT (NP (NNS launches)))
+
+(ROOT
+  (S
+    (VP
+      (VBG Trailblazing)
+      (NP (JJ Israeli) (JJ electric) (NN car) (NN company)))))
+
+(ROOT
+  (S
+    (VP
+      (VBG Trailblazing)
+      (NP (JJ Israeli) (JJ electric) (NN car) (NN company)))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB fold))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB fold))))))
+
+(ROOT (NP (JJ conditional) (NN bail)))
+
+(ROOT (NP (NN bail)))
+
+(ROOT (PP (IN for) (NP (NN marriage))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB get) (ADJP (VBN married)))))))
+
+(ROOT (ADJP (VBN granted)))
+
+(ROOT (ADJP (VBN granted)))
+
+(ROOT (NP (NNP Ankeet) (NNP Chavan)))
+
+(ROOT (NP (NNP Ankeet) (NNP Chavan)))
+
+(ROOT (PP (IN in) (NP (JJ Spanish) (NN train) (NN crash))))
+
+(ROOT
+  (PP
+    (IN in)
+    (NP (JJ Spanish) (JJ high-speed) (NN train) (NN crash))))
+
+(ROOT (FRAG (S (ADJP (NP (QP (IN Up) (TO to) (CD 50))) (JJ dead)))))
+
+(ROOT (PP (IN Over) (NP (CD 70) (JJ dead))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (NP (NP (NNP Former)) (NP (NN spokesman))))
+
+(ROOT
+  (NP
+    (NP (NNP Former) (NNP Reagan))
+    (NP (NN spokesman))
+    (NP (NNP Larry) (NNP Speakes))))
+
+(ROOT (NP (NN drag)))
+
+(ROOT (NP (NN drag)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (NP (NNP US) (NNS stocks)))
+
+(ROOT (NP (NNS stocks)))
+
+(ROOT (NP (JJ Weak) (NNS earnings)))
+
+(ROOT (NP (JJ Weak) (NNS earnings)))
+
+(ROOT (SINV (NP (CD Three)) (VP (VBN feared) (S (ADJP (JJ dead))))))
+
+(ROOT (SINV (NP (CD Three)) (VP (VBN feared) (S (ADJP (JJ dead))))))
+
+(ROOT (PP (IN after) (NP (NN helicopter))))
+
+(ROOT (PP (IN after) (NP (NN helicopter) (NN pub) (NN crash))))
+
+(ROOT (FRAG (VP (VBZ urges))))
+
+(ROOT (NP (NNS calls)))
+
+(ROOT (NP (NN return)))
+
+(ROOT (PP (IN for) (NP (NN return))))
+
+(ROOT (PP (TO to) (NP (NN peace) (NNS talks))))
+
+(ROOT (PP (TO to) (NP (NN peace) (NNS talks))))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Peres))))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Peres))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (PP (IN against) (NP (NNP Syria))))
+
+(ROOT (PP (IN against) (NP (NNP Syria))))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NNS readies)))
+
+(ROOT (NP (NNS makes)))
+
+(ROOT (FRAG (NP (JJ possible) (NN solo) (NN action))))
+
+(ROOT (PP (IN for) (NP (NN action))))
+
+(ROOT (S (VP (VBN found))))
+
+(ROOT (S (VP (VBN found))))
+
+(ROOT (X (NP (CD 25) (NNS bodies))))
+
+(ROOT (NP (NP (CD 25)) (NP (JJR more) (NNS bodies))))
+
+(ROOT
+  (VP
+    (ADVP (IN at))
+    (VBN raided)
+    (NP (NNP Algerian) (NN gas) (NN plant))))
+
+(ROOT (PP (IN at) (NP (NNP Algerian) (NN gas) (NN plant))))
+
+(ROOT (PP (TO to) (NP (NNPS Cardinals))))
+
+(ROOT (NP (NNP Vatican)))
+
+(ROOT (SINV (VP (VBZ Says)) (NP (NNP Goodbye))))
+
+(ROOT (NP (NNS departs)))
+
+(ROOT (NP (NNP Pope) (NNP Benedict) (NNP XVI)))
+
+(ROOT (NP (NNP Pope) (NNP Benedict) (NNP XVI)))
+
+(ROOT (NP (DT the) (NNP East) (NNP Coast)))
+
+(ROOT (NP (NNP East) (NNP Coast)))
+
+(ROOT (S (VP (VBG zipping) (PRT (RP up)))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB slide) (PRT (RP up)))))))
+
+(ROOT (NP (NP (JJ Tropical) (NN Storm)) (NP (NNP Andrea))))
+
+(ROOT (NP (NP (JJ Tropical) (NN Storm)) (NP (NNP Andrea))))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NNP Israel)))
+
+(ROOT (NP (NN plan)))
+
+(ROOT (NP (NNS plans)))
+
+(ROOT (NP (NP (CD 900) (NN settlement)) (NP (NNS homes))))
+
+(ROOT (PP (IN for) (NP (JJ new) (JJ settler) (NNS homes))))
+
+(ROOT (NP (JJ nasty) (NNS comments)))
+
+(ROOT (NP (JJ nasty) (NNS comments)))
+
+(ROOT (NP (NN battle)))
+
+(ROOT (NP (NN fight)))
+
+(ROOT (NP (NNS Websites)))
+
+(ROOT (NP (NNS Websites)))
+
+(ROOT (NP (NN anonymity)))
+
+(ROOT (NP (NN anonymity)))
+
+(ROOT (NP (NNS sets)))
+
+(ROOT (NP (NNS sets)))
+
+(ROOT (PP (IN on) (NP (NN fire))))
+
+(ROOT (PP (IN on) (NP (NN fire))))
+
+(ROOT (NP (NN Man)))
+
+(ROOT (NP (NN Man)))
+
+(ROOT (FRAG (NP (PRP himself))))
+
+(ROOT (FRAG (NP (PRP himself))))
+
+(ROOT (PP (IN on) (NP (DT the) (NNP National) (NN Mall))))
+
+(ROOT (FRAG (NP (POS 's) (NNP National) (NN Mall))))
+
+(ROOT (S (VP (VBN fired))))
+
+(ROOT (S (VP (VBN fired))))
+
+(ROOT (PP (IN after) (NP (NNS shots))))
+
+(ROOT (PP (IN after) (NP (NNS reports))))
+
+(ROOT (NP (NNP US) (NNP Capitol) (NNP Hill)))
+
+(ROOT (NP (NNP US) (NNP Capitol)))
+
+(ROOT (PP (IN on) (NP (NN lockdown))))
+
+(ROOT (PP (IN on) (NP (NN lockdown))))
+
+(ROOT (PP (IN for) (NP (NNP Mekong) (NNS murderers))))
+
+(ROOT (PP (IN for) (NP (NNP Mekong) (NNS murderers))))
+
+(ROOT (NP (NN death) (NNS penalties)))
+
+(ROOT (NP (NN death) (NNS sentences)))
+
+(ROOT (NP (JJ Chinese) (NN court)))
+
+(ROOT (NP (NNP Court)))
+
+(ROOT (NP (NNS upholds)))
+
+(ROOT (NP (NNS upholds)))
+
+(ROOT (PP (IN in) (NP (NNP West) (NNP Bank))))
+
+(ROOT (PP (IN across) (NP (NNP West) (NNP Bank))))
+
+(ROOT (S (VP (VB detain))))
+
+(ROOT (NP (NN Arrest)))
+
+(ROOT (NP (JJ Israeli) (NNS forces)))
+
+(ROOT (NP (JJ Israeli) (NNS Forces)))
+
+(ROOT (NP (ADJP (CD 5)) (NNPS Palestinians)))
+
+(ROOT (NP (NP (CD Five)) (NP (NNPS Palestinians))))
+
+(ROOT (NP (NNS wins)))
+
+(ROOT (FRAG (VP (VBZ Wins))))
+
+(ROOT (NP (NNP Angela) (NNP Merkel)))
+
+(ROOT (NP (NNP Merkel)))
+
+(ROOT (PP (IN in) (NP (JJ German) (NNS elections))))
+
+(ROOT (PP (IN in) (NP (NNP Germany) (NNP Election))))
+
+(ROOT (FRAG (NP (CD 15))))
+
+(ROOT (FRAG (NP (CD 14))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (PP (IN at) (NP (JJ Russian) (NN train) (NN station))))
+
+(ROOT (PP (IN at) (NP (JJ Russian) (NN train) (NN station))))
+
+(ROOT (PP (IN in) (NP (NN suicide) (NN bombing))))
+
+(ROOT (NP (NN Suicide) (NN bomber)))
+
+(ROOT
+  (NP
+    (NP (JJ Cambodian) (NN opposition) (NN leader))
+    (NP (NNP Sam) (NNP Rainsy))))
+
+(ROOT (NP (NP (NNP Cambodia)) (NP (NN opposition) (NN head))))
+
+(ROOT (NP (NNS returns)))
+
+(ROOT (NP (NNS turns)))
+
+(ROOT (NP (NN election)))
+
+(ROOT (PP (IN in) (NP (NN poll) (NN bid))))
+
+(ROOT (NP (NNS calls)))
+
+(ROOT (NP (NNS calls)))
+
+(ROOT (NP (NNP Biden)))
+
+(ROOT (NP (NNP Biden)))
+
+(ROOT (PP (IN for) (NP (NN trust))))
+
+(ROOT (PP (IN for) (NP (NN trust))))
+
+(ROOT (NP (NN call)))
+
+(ROOT (NP (NN call)))
+
+(ROOT (PP (IN for) (NP (NN strike))))
+
+(ROOT (PP (IN for) (NP (NN strike))))
+
+(ROOT (PP (IN in) (NP (NN protest))))
+
+(ROOT (NP (NP (NNP Turkey)) (NP (NN unrest))))
+
+(ROOT (PP (IN over) (NP (NN police) (NN violence))))
+
+(ROOT (PP (IN over) (NP (NN police) (NN crackdown))))
+
+(ROOT (NP (NP (CD 2)) (NP (JJ Turkish) (NNS unions))))
+
+(ROOT (NP (NNS Unions)))
+
+(ROOT
+  (NP
+    (NP (JJ South) (JJ African) (NN icon))
+    (NP (NNP Nelson) (NNP Mandela))))
+
+(ROOT (NP (POS 's) (NNP Nelson) (NNP Mandela)))
+
+(ROOT (S (VP (VBN hospitalized))))
+
+(ROOT (S (VP (VBN Hospitalized))))
+
+(ROOT (NP (NNP UBS)))
+
+(ROOT (NP (NNP UBS)))
+
+(ROOT (FRAG (VP (VBZ settles))))
+
+(ROOT (FRAG (VP (VBZ settles))))
+
+(ROOT (NP (NP (NNP US)) (NP (NN mortgage) (NN lawsuit))))
+
+(ROOT (NP (NP (NNP US)) (NP (NN mortgage) (NN lawsuit))))
+
+(ROOT (NP (NP (NNP North)) (, ,) (NP (NNP South) (NNP Korea))))
+
+(ROOT (NP (NP (NNP North)) (, ,) (NP (NNP South) (NNP Korea))))
+
+(ROOT (PP (TO to) (NP (NNS talks))))
+
+(ROOT (NP (JJ rare) (NNS talks)))
+
+(ROOT (NP (NP (NN gun)) (NP (NN control) (NNS plans))))
+
+(ROOT (NP (NP (NN gun)) (NP (NN control) (NNS plans))))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB announce))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB set) (PRT (RP out)))))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (NP (NP (CD Six)) (NP (NNPS Australians))))
+
+(ROOT (NP (NNS Dozens)))
+
+(ROOT (PP (IN in) (NP (NNP Laos) (NN plane) (NN crash))))
+
+(ROOT (PP (IN in) (NP (NNP Laos) (NN plane) (NN crash))))
+
+(ROOT (NP (NN sarin)))
+
+(ROOT (NP (NN sarin)))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (NP (NNS finds)))
+
+(ROOT (PP (IN in) (NP (NNP Syria) (NN attack))))
+
+(ROOT
+  (FRAG
+    (PP (IN in) (NP (NNP Syria) (NN chemical) (NNS weapons)))
+    (NP (NN attack))))
+
+(ROOT (NP (NNP UN)))
+
+(ROOT (NP (NNP U.N.)))
+
+(ROOT (S (VP (VBN used))))
+
+(ROOT (S (VP (VBN used))))
+
+(ROOT (X (NP ($ $) (CD 53m))))
+
+(ROOT (X (NP (QP ($ $) (CD 53) (CD million)) (NN worth))))
+
+(ROOT (FRAG (VP (VBZ steals))))
+
+(ROOT (FRAG (VP (VBZ steals))))
+
+(ROOT (PP (IN of) (NP (NNS jewels))))
+
+(ROOT (PP (IN of) (NP (NNS jewels))))
+
+(ROOT (NP (NP (NNP Cannes)) (NP (NN thief))))
+
+(ROOT (NP (NNP Robber)))
+
+(ROOT
+  (NP
+    (NP (NNP Ex-Virginia))
+    (NP (NN governor))
+    (NP (NNP Bob) (NNP McDonnell))))
+
+(ROOT (S (NP (POS 's)) (VP (NN ex-Gov)) (. .)))
+
+(ROOT (PP (IN with) (NP (NN corruption))))
+
+(ROOT (PP (IN with) (NP (NN corruption))))
+
+(ROOT (S (VP (VBN charged))))
+
+(ROOT (S (VP (VBN charged))))
+
+(ROOT (NP (NNP Pakistan)))
+
+(ROOT (NP (NNP Pakistan)))
+
+(ROOT
+  (NP
+    (NP (RBS most) (JJ senior))
+    (NP (NNP Afghan) (NNP Taliban))
+    (NP (NN prisoner))))
+
+(ROOT (NP (NP (JJ senior) (NNP Taliban)) (NP (NN commander))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB release))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB release))))))
+
+(ROOT (FRAG (VP (VBZ bites))))
+
+(ROOT (FRAG (VP (VBZ bites))))
+
+(ROOT (NP (NNS costs)))
+
+(ROOT (NP (NNS costs)))
+
+(ROOT (NP (NNP Bollywood)))
+
+(ROOT (NP (NNP Bollywood)))
+
+(ROOT (NP (NNS cuts)))
+
+(ROOT (NP (NNS cuts)))
+
+(ROOT (PP (IN as) (NP (NN rupee) (NN collapse))))
+
+(ROOT (PP (IN as) (NP (NN rupee) (NN crisis))))
+
+(ROOT (S (VP (VBG killing))))
+
+(ROOT (S (VP (VBG killing))))
+
+(ROOT (NP (NNS Tornadoes)))
+
+(ROOT (NP (NNS Tornadoes)))
+
+(ROOT (NP (NN rip)))
+
+(ROOT (NP (NN hit)))
+
+(ROOT (FRAG (NP (CD 6))))
+
+(ROOT (FRAG (NP (CD 5))))
+
+(ROOT (PP (IN through) (NP (NNP Midwest))))
+
+(ROOT (NP (NNP U.S.) (NNP Midwest)))
+
+(ROOT (FRAG (VP (VBZ rejects))))
+
+(ROOT (FRAG (VP (VBZ rejects))))
+
+(ROOT (NP (NP (NNP US)) (NP (NN hacking) (NNS claims))))
+
+(ROOT
+  (NP
+    (NP (`` `) (JJ groundless) ('' ') (NNP US))
+    (NP (NN hacking) (NNS accusations))))
+
+(ROOT (PP (POS 's) (NP (JJ new) (NNP PM))))
+
+(ROOT (NP (NNP China) (NNP Premier) (NNP Li)))
+
+(ROOT (NP (NNP New) (NNP Zealand)))
+
+(ROOT (NP (NNP New) (NNP Zealand)))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB legalise))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB legalise))))))
+
+(ROOT (NP (JJ gay) (NN marriage)))
+
+(ROOT (NP (JJ same-sex) (NN marriage)))
+
+(ROOT (NP (NN set)))
+
+(ROOT (NP (NNS votes)))
+
+(ROOT (NP (NNP East) (NNP Timor)))
+
+(ROOT (NP (NNP East) (NNP Timor)))
+
+(ROOT (PP (IN amid) (NP (NNS killings))))
+
+(ROOT (PP (IN Amid) (NP (NNS Killings))))
+
+(ROOT (NP (NP (JJ martial) (NNS arts)) (NP (NNS clubs))))
+
+(ROOT (NP (NNP Martial) (NNP Arts) (NNP Schools)))
+
+(ROOT (NP (NNS bans)))
+
+(ROOT (NP (NNS Bans)))
+
+(ROOT (PP (IN at) (NP (NNP Boston) (NNP Marathon))))
+
+(ROOT (PP (IN of) (NP (NNP Boston) (NNP Marathon))))
+
+(ROOT (NP (JJ loud) (NNS booms)))
+
+(ROOT (X (NP (CD two) (NNS explosions))))
+
+(ROOT (NP (NN election) (NN result)))
+
+(ROOT (NP (NN election) (NN result)))
+
+(ROOT (NP (NNP Kenya) (NNP Supreme) (NNP Court)))
+
+(ROOT (NP (NNP Kenya) (NNP SC)))
+
+(ROOT (NP (NNS upholds)))
+
+(ROOT (NP (NNS upholds)))
+
+(ROOT (PP (IN for) (NP (NNP Wednesday))))
+
+(ROOT (PP (IN for) (NP (NN Today))))
+
+(ROOT (X (NP (CD 10) (NNS Things))))
+
+(ROOT (X (NP (CD 10) (NNS Things))))
+
+(ROOT (PP (TO to) (NP (NNP Know))))
+
+(ROOT (PP (TO to) (NP (NNP Know))))
+
+(ROOT (NP (POS 's) (NNP Hugo) (NNP Chavez)))
+
+(ROOT
+  (FRAG (NP (JJ Venezuelan) (NNP President) (NNP Hugo) (NNP Chavez))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (PP (IN of) (NP (NN cancer))))
+
+(ROOT (PP (IN of) (NP (NN cancer))))
+
+(ROOT (S (VP (POS 's) (NP (JJ next) (NN chair)))))
+
+(ROOT
+  (PP (IN as) (NP (NNP New) (NNP Central) (NNP Bank) (NNP Chief))))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNP Yellen)))
+
+(ROOT (NP (NNP Janet) (NNP Yellen)))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (FRAG (VP (VBZ Confirms))))
+
+(ROOT (PP (IN in) (NP (NNP India) (JJ anti-rape) (NNS protests))))
+
+(ROOT (PP (IN in) (NP (JJ gang-rape) (NN protest))))
+
+(ROOT (NP (NNP Officer)))
+
+(ROOT (NP (JJ Indian) (NN policeman)))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NNP U.S.)))
+
+(ROOT (PP (IN in) (NP (NNP Syria))))
+
+(ROOT (PP (IN by) (NP (NNP Syria))))
+
+(ROOT (NP (NN Determine)))
+
+(ROOT (FRAG (NP (DT No) (JJ Conclusive) (NN Evidence))))
+
+(ROOT (NP (NNP Chemical) (NNP Weapons) (NNP Use)))
+
+(ROOT
+  (S (PP (IN of) (NP (NNP Chemical))) (NP (NNS Arms)) (VP (VBP Use))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Nobel) (NNP Prize))
+    (S (VP (VBG winning) (NP (NN author) (NNP Doris) (NNP Lessing))))))
+
+(ROOT
+  (NP
+    (NP (NNP Nobel))
+    (NP (NN laureate))
+    (NP (NNP Doris) (NNP Lessing))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (FRAG (VP (VBZ dies))))
+
+(ROOT (NP (NNP Yellen)))
+
+(ROOT (NP (NNP Yellen)))
+
+(ROOT (PP (IN as) (NP (NNP Fed) (NN head))))
+
+(ROOT (S (VP (POS 's) (NP (JJ next) (NN chair)))))
+
+(ROOT (NP (NNP Senate)))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (S (VP (VBN buried))))
+
+(ROOT (S (VP (VBN buried))))
+
+(ROOT (NP (NP (NNP Boston)) (NP (NN bombing) (NN suspect))))
+
+(ROOT (NP (NP (NNP Boston)) (NP (NN bomb) (NN suspect))))
+
+(ROOT (PP (IN in) (NP (NNP Virginia))))
+
+(ROOT (PP (IN in) (NP (NNP Virginia) (NN cemetery))))
+
+(ROOT (S (VP (VBN restored))))
+
+(ROOT (NP (NNS resumes)))
+
+(ROOT (NP (NP (NN Internet)) (, ,) (NP (NN phone) (NN service))))
+
+(ROOT (NP (NN Internet) (NN service)))
+
+(ROOT (PP (IN in) (NP (JJ Syrian) (NN capital))))
+
+(ROOT (PP (IN in) (NP (NNP Syria))))
+
+(ROOT (NP (JJ Syrian) (NN PM)))
+
+(ROOT (NP (JJ Syrian) (NN PM)))
+
+(ROOT (NP (NN Bomb) (NN Attack)))
+
+(ROOT (NP (NN bomb) (NN attack)))
+
+(ROOT (FRAG (VP (VBZ Survives))))
+
+(ROOT (FRAG (VP (VBZ survives))))
+
+(ROOT (PP (IN for) (NP (NNP Nelson) (NNP Mandela))))
+
+(ROOT (PP (IN for) (NP (NNP Nelson) (NNP Mandela))))
+
+(ROOT (NP (NNS prays)))
+
+(ROOT (PP (IN in) (NP (NN prayer) (CC and) (NN song))))
+
+(ROOT (NP (NNP South) (NNP Africa)))
+
+(ROOT (NP (NNP South) (NNP Africa)))
+
+(ROOT
+  (NP
+    (NP (NP (QP (IN At) (JJS least) (CD 38))) (NP (NNP Morsi)))
+    (NP (NNS supporters))))
+
+(ROOT (PP (IN of) (NP (NNP Morsi) (NNS supporters))))
+
+(ROOT (S (VP (VB die))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNS clashes))))
+
+(ROOT (PP (IN in) (NP (NNP Egypt) (NNS clashes))))
+
+(ROOT (PP (IN on) (NP (NNP iPhone) (NN disappointment))))
+
+(ROOT (PP (IN after) (NP (NNS earnings) (NN disappointment))))
+
+(ROOT (NP (NNP Apple) (NNS shares)))
+
+(ROOT (NP (NP (NNP Apple)) (NP (NN stock))))
+
+(ROOT
+  (FRAG
+    (S (VP (TO to) (VP (VB lure) (NP (NNP Gulf) (NNS investors)))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB lure) (NP (NNS investors)))))))
+
+(ROOT (NP (NN set)))
+
+(ROOT (FRAG (VP (VBZ seeks))))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NP (NNP Miss) (NNP America)) (NP (CD 2013))))
+
+(ROOT (NP (NNP Miss) (NNP America)))
+
+(ROOT (NP (NNP Miss) (NNP New) (NNP York)))
+
+(ROOT (NP (NNP Miss) (NNP New) (NNP York)))
+
+(ROOT (S (VP (VBN Crowned))))
+
+(ROOT (FRAG (VP (VBZ is) (VP (VBN crowned)))))
+
+(ROOT (PP (IN at) (ADJP (JJ mid-day))))
+
+(ROOT (PP (IN at) (ADJP (JJ mid-day))))
+
+(ROOT (NP (NNP KLCI) (NNPS Futures)))
+
+(ROOT (NP (NNP KL) (NNS shares)))
+
+(ROOT (ADJP (JJ mixed)))
+
+(ROOT (ADJP (JJ mixed)))
+
+(ROOT (NP (JJ Iranian) (NNS exiles)))
+
+(ROOT
+  (X (NP (QP (IN At) (JJS least) (CD 47)) (JJ Iranian) (NNS exiles))))
+
+(ROOT (PP (IN in) (NP (NNP Iraq) (NN camp))))
+
+(ROOT (NP (POS 's) (NNP Camp) (NNP Ashraf)))
+
+(ROOT (NP (NNS deaths)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNP London))))
+
+(ROOT (PP (IN in) (NP (NNP London))))
+
+(ROOT (NP (NN Helicopter)))
+
+(ROOT (NP (NN Helicopter)))
+
+(ROOT (NP (NNS crashes)))
+
+(ROOT (NP (NNS crashes)))
+
+(ROOT (NP (NNP China)))
+
+(ROOT (NP (NNP China)))
+
+(ROOT (S (VP (POS 's) (NP (JJ new) (NN defense) (NN zone)))))
+
+(ROOT (S (VP (POS 's) (NP (JJ new) (NN defense) (NN zone)))))
+
+(ROOT (NP (JJ Japanese) (NNS planes)))
+
+(ROOT
+  (NP
+    (NP (NP (NNP Japan)) (, ,) (NP (NN S)))
+    (NP (JJ Korean) (JJ military) (NNS planes))))
+
+(ROOT (FRAG (VP (VBD flew) (PP (IN into)))))
+
+(ROOT (S (VP (VB defy))))
+
+(ROOT (NP (NNP Janet) (NNP Yellen)))
+
+(ROOT (NP (NNP Janet) (NNP Yellen)))
+
+(ROOT
+  (PP (IN as) (NP (NNP US) (NNP Federal) (NNP Reserve) (NN chief))))
+
+(ROOT
+  (PP (IN as) (NP (JJ next) (NNP Federal) (NNP Reserve) (NNP Chair))))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNP Senate)))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (FRAG (VP (VBZ confirms))))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (PP (IN as) (NP (NN Storm) (NN Xaver))))
+
+(ROOT (PP (IN as) (NP (NP (NN wind)) (, ,) (NP (NN rain)))))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (NP (NP (NN Storm)) (NP (NN death) (NN toll))))
+
+(ROOT (NP (NNS batters)))
+
+(ROOT (NP (NNS batters)))
+
+(ROOT (NP (JJ northern) (NNP Europe)))
+
+(ROOT (ADVP (RB north) (. .)))
+
+(ROOT (PP (IN in) (NP (NNP Lebanon))))
+
+(ROOT (PP (IN in) (NP (NNP Lebanon))))
+
+(ROOT (S (VP (VB kidnap))))
+
+(ROOT (S (VP (VB kidnap))))
+
+(ROOT (NP (NN airline) (NNS pilots)))
+
+(ROOT (NP (NP (CD 2) (JJ Turkish) (NNS Airlines)) (NP (NNS pilots))))
+
+(ROOT (NP (NNS Gunmen)))
+
+(ROOT (NP (NNS Gunmen)))
+
+(ROOT (NP (NP (NNP U.S.)) (NP (NN drone) (NN strike))))
+
+(ROOT (NP (NP (NNP Pakistan)) (NP (NN drone) (NN strike))))
+
+(ROOT (FRAG (NP (CD 5))))
+
+(ROOT (ADVP (RB up) (PP (TO to) (NP (CD six)))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NN push)))
+
+(ROOT (FRAG (VP (VBZ pushes))))
+
+(ROOT (PP (IN into) (NP (JJ strategic) (JJ rebelheld) (NN town))))
+
+(ROOT (PP (IN on) (NP (JJ rebel-held) (NN town))))
+
+(ROOT (NP (JJ Syrian) (NNS troops)))
+
+(ROOT (NP (JJ Syrian) (NN army)))
+
+(ROOT (NP (NP (NNP Thai)) (NP (NN opposition) (NNS protesters))))
+
+(ROOT (NP (NNP Thai) (NNS protesters)))
+
+(ROOT (NP (NP (NNP Bangkok)) (NP (NN shutdown))))
+
+(ROOT (NP (NP (NNP Bangkok)) (NP (`` `) (NN shutdown) ('' '))))
+
+(ROOT (S (VP (VB begin))))
+
+(ROOT (NP (NN launch)))
+
+(ROOT (PP (IN on) (NP (NNP Syria) (NNP Weapons))))
+
+(ROOT (PP (IN on) (NP (NNP Syria))))
+
+(ROOT (NP (NNP France)))
+
+(ROOT (NP (NNP France)))
+
+(ROOT (PP (IN after) (NP (NNP U.S.-Russia) (NNP Deal))))
+
+(ROOT (NP (NNP US-Russia) (NNP Deal)))
+
+(ROOT (FRAG (VP (VBZ Hails))))
+
+(ROOT (FRAG (VP (VBZ Welcomes))))
+
+(ROOT (FRAG (NP (RB About) (CD 60))))
+
+(ROOT (FRAG (NP (CD 61))))
+
+(ROOT (S (VP (VBN Crushed))))
+
+(ROOT (ADJP (JJ dead)))
+
+(ROOT (PP (IN in) (NP (NNP Ivory) (NNP Coast) (NNP Stampede))))
+
+(ROOT (PP (IN in) (NP (NNP Ivory) (NNP Coast) (NN stampede))))
+
+(ROOT (NP (NN Discipline)))
+
+(ROOT (NP (NN Discipline)))
+
+(ROOT (PP (IN against) (NP (NN student) (NN gunman))))
+
+(ROOT (PP (IN against) (NP (NN student))))
+
+(ROOT (NP (NN thought)))
+
+(ROOT (NP (NN thought)))
+
+(ROOT (PP (IN on) (NP (NNP Benghazi) (NN attack))))
+
+(ROOT (PP (IN on) (NP (NNP Benghazi) (NN attack))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB testify))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB testify))))))
+
+(ROOT (NP (NNP Clinton)))
+
+(ROOT (NP (NNP Clinton)))
+
+(ROOT (S (NP (POS 's)) (VP (JJ custom-made) (NP (NN wheelchair)))))
+
+(ROOT (S (NP (POS 's)) (VP (NN wheelchair))))
+
+(ROOT (NP (NP (NNP English) (NNP Channel)) (NP (NN swimmer))))
+
+(ROOT (NP (NP (NNP Channel)) (NP (NN swimmer))))
+
+(ROOT (NP (NNS Thieves)))
+
+(ROOT (NP (NNS Thieves)))
+
+(ROOT (S (VP (VB snatch))))
+
+(ROOT (S (VP (VB steal))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB withdraw))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB withdraw))))))
+
+(ROOT (NP (JJ Kurdish) (NNS rebels)))
+
+(ROOT (NP (JJ Kurdish) (NNS rebels)))
+
+(ROOT (PP (IN from) (NP (NNP Turkey))))
+
+(ROOT (PP (IN from) (NP (NNP Turkey))))
+
+(ROOT (NP (JJ Iranian) (NN president)))
+
+(ROOT (NP (JJ Iranian) (NN minister)))
+
+(ROOT (PP (IN for) (NP (JJ new) (JJ nuclear) (NNS talks))))
+
+(ROOT (PP (IN for) (NP (VBN failed) (JJ nuke) (NNS talks))))
+
+(ROOT (NP (NNP Mandela)))
+
+(ROOT (NP (NP (NNP Mandela)) (NP (NN movie))))
+
+(ROOT (NP (NNP Queen)))
+
+(ROOT (NP (NNP US) (NNS presidents)))
+
+(ROOT (PP (TO to) (NP (NNP Nelson) (NNP Mandela))))
+
+(ROOT (PP (TO to) (NP (NNP Mandela))))
+
+(ROOT (SINV (VP (VBZ pays)) (NP (NN tribute))))
+
+(ROOT (NP (NN pay) (NN tribute)))
+
+(ROOT (NP (NP (NNP Iraq)) (NP (NN violence))))
+
+(ROOT (NP (NP (NNP Iraq)) (NP (NN violence))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (NP (CD 11))))
+
+(ROOT (FRAG (NP (CD seven))))
+
+(ROOT
+  (NP
+    (NP (NNP US) (, ,) (NNP UK))
+    (NP (NN chemical) (NNS arms))
+    (NP (NNS claims))))
+
+(ROOT (NP (NN chemical) (NNS weapons)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (NNP Syria)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNS jokes)))
+
+(ROOT (SINV (VP (VBZ pokes)) (NP (NP (NN fun)) (ADVP (IN at)))))
+
+(ROOT (NP ('' ') (NN dinner)))
+
+(ROOT (PP (IN during) (NP (NN press) (NN dinner))))
+
+(ROOT (FRAG (NP (CD 21))))
+
+(ROOT (FRAG (NP (CD 20))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (PP (IN in) (NP (NN suicide) (NNS attacks))))
+
+(ROOT (NP (NN Car) (NNS bombs)))
+
+(ROOT (PP (IN in) (NP (NNP Niger))))
+
+(ROOT (PP (IN near) (NP (JJ Syrian) (NN border))))
+
+(ROOT (S (VP (POS 's) (NP (JJ nuclear) (NN plant)))))
+
+(ROOT (PP (IN into) (NP (NNP Iran) (JJ nuclear) (NN deal))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (NP (JJ Pakistani) (NNS police)))
+
+(ROOT (PP (IN for) (NP (NNP March) (CD 11))))
+
+(ROOT (PP (IN for) (NP (NNP January) (CD 14))))
+
+(ROOT (NP (NP (NNP News)) (NP (NN summary))))
+
+(ROOT (NP (NP (NNP News)) (NP (NN summary))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (ADJP (NP (CD Six)) (JJ dead)))
+
+(ROOT (PP (IN by) (NP (NNP Indonesia) (NN volcano) (NN eruption))))
+
+(ROOT (PP (IN in) (NP (JJ Indonesian) (JJ volcanic) (NN eruption))))
+
+(ROOT (NP (NNP Indonesia)))
+
+(ROOT (NP (NNP Indonesia)))
+
+(ROOT (FRAG (NP (JJ gay) (NN marriage) (NN bill))))
+
+(ROOT (NP (NP (JJ gay) (NNS workers)) (NP (NN bill))))
+
+(ROOT (NP (NNP Hawaii)))
+
+(ROOT (NP (NNP US) (NNP Senate)))
+
+(ROOT (NP (NNS passes)))
+
+(ROOT (NP (NNS passes)))
+
+(ROOT (NP (NNP Singapore) (NNS stocks)))
+
+(ROOT (NP (JJ Indian) (NNS stocks)))
+
+(ROOT (FRAG (ADJP (CD 0.4) (NN %)) (ADJP (JJR higher))))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (ADJP (JJ open)))
+
+(ROOT (S (VP (VB Say))))
+
+(ROOT (S (VP (VB Say))))
+
+(ROOT (NP (NP (NNP Mar.) (CD 12)) (, ,) (NP (CD 2013))))
+
+(ROOT (NP (NP (NNP June) (CD 25)) (, ,) (NP (CD 2013))))
+
+(ROOT (FRAG (WHNP (WDT What))))
+
+(ROOT (FRAG (WHNP (WDT What))))
+
+(ROOT (NP (DT the) (NNP Papers)))
+
+(ROOT (NP (DT the) (NNP Papers)))
+
+(ROOT (S (VP (VB end) (PRT (RP up)))))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (NP (NNP Singapore) (NNS stocks)))
+
+(ROOT (NP (NNP Singapore) (NNS stocks)))
+
+(ROOT (NP (CD 0.11) (NN pct)))
+
+(ROOT (NP (NP (CD 0.54) (NN pct)) (NP (JJR higher))))
+
+(ROOT (NP (JJ Pakistani) (NNS girls)))
+
+(ROOT (NP (JJ Pakistani) (NN girl)))
+
+(ROOT (PP (IN of) (NP (NNP Oscar) (NNP Pistorius))))
+
+(ROOT (NP (NNP Oscar) (NNP Pistorius)))
+
+(ROOT
+  (SINV
+    (VP (POS '))
+    (NP (NN girlfriend) (NNP Reeva) (NNP Steenkamp))))
+
+(ROOT (NP (NNP Steenkamp)))
+
+(ROOT (PP (IN over) (NP (NNP Syria))))
+
+(ROOT (PP (IN for) (NP (NNP Syria))))
+
+(ROOT (NP (POS 's) (NN chemical) (NNS weapons)))
+
+(ROOT (NP (POS 's) (NN chemical) (NNS weapons)))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (NN army))))
+
+(ROOT (FRAG (NP (CD Ten))))
+
+(ROOT (FRAG (NP (CD Six))))
+
+(ROOT (FRAG (VP (VBD rescued))))
+
+(ROOT (FRAG (VP (VBD rescued))))
+
+(ROOT
+  (PP
+    (IN off)
+    (NP (NP (NNP Waterford)) (, ,) (NP (NNP Dublin) (NNS coasts)))))
+
+(ROOT (PP (IN in) (NP (NNP Dublin) (NNP Bay))))
+
+(ROOT
+  (NP
+    (NP (JJ Senior) (NNP Pakistani) (NNP Taliban))
+    (NP (NN commander))))
+
+(ROOT (NP (NNP Pakistan) (NNPS Shi'ites)))
+
+(ROOT (PP (IN from) (NP (JJ west) (NNP Chinas) (NN violence))))
+
+(ROOT (FRAG (PP (IN from) (NP (NN NE) (NNP China))) (NP (NN fire))))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (NP (NN Death) (NN toll)))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (PP (TO to) (NP (CD 35))))
+
+(ROOT (PP (TO to) (NP (CD 112))))
+
+(ROOT (NP (NP (JJ South)) (NP (JJ Korean) (NNS soldiers))))
+
+(ROOT (PP (TO to) (NP (NNP South))))
+
+(ROOT (PP (IN into) (NP (NNP North))))
+
+(ROOT (NP (NNP North) (NNP Korea)))
+
+(ROOT (NP (NP (NNP Mandela)) (NP (NN family))))
+
+(ROOT (NP (NP (NNP Mandela)) (NP (NN family))))
+
+(ROOT (FRAG (VP (VBZ meets))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB meet))))))
+
+(ROOT (NP (NNP Obama)))
+
+(ROOT (NP (NNPS Obamas)))
+
+(ROOT (PP (IN in) (NP (NN hospital))))
+
+(ROOT (NP (NN hospital)))
+
+(ROOT (NP (CC vs)))
+
+(ROOT (PP (IN against)))
+
+(ROOT (PP (IN in) (NP (JJ early) (NN trade))))
+
+(ROOT (PP (IN in) (NP (JJ early) (NN trade))))
+
+(ROOT (NP (CD 8) (NN paise)))
+
+(ROOT (NP (CD 22) (NN paise)))
+
+(ROOT (NP (NN Rupee)))
+
+(ROOT (NP (NN Rupee)))
+
+(ROOT (ADVP (RB down)))
+
+(ROOT (ADVP (RB up)))
+
+(ROOT (NP (NN dollar)))
+
+(ROOT (NP (NN dollar)))
+
+(ROOT (ADJP (JJ open)))
+
+(ROOT (ADVP (RB close)))
+
+(ROOT (NP (JJ Indian) (NNS stocks)))
+
+(ROOT (NP (JJ Indian) (NNS stocks)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (FRAG (NP (CD Four))))
+
+(ROOT (NP (NNP Owner)))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (S (VP (VBN arrested))))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (NP (NNS reaches)))
+
+(ROOT (PP (TO to) (NP (CD 352))))
+
+(ROOT (FRAG (NP (CD 372))))
+
+(ROOT (PP (IN as) (NP (NNP Bangladesh) (NN building) (NN toll))))
+
+(ROOT (PP (IN as) (NP (NNP Bangladesh) (NN building) (NN toll))))
+
+(ROOT (NP (JJ Indian) (NNS troops)))
+
+(ROOT (NP (JJ Indian) (NNS troops)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN raid)))
+
+(ROOT (NP (JJ Pakistani) (NN soldier)))
+
+(ROOT (FRAG (NP (JJ Pakistani) (JJ military) (NN post))))
+
+(ROOT (NP (JJ Brazilian) (NN leader)))
+
+(ROOT (NP (NP (NNP Brazil)) (NP (NN leader))))
+
+(ROOT (NP (NN crisis) (NNS talks)))
+
+(ROOT (NP (NN reform) (NN vote)))
+
+(ROOT (NP (NNP US)))
+
+(ROOT (NP (NNP US) (NNP House)))
+
+(ROOT (PP (IN in) (NP (NNP Iraq))))
+
+(ROOT (PP (IN across) (NP (NNP Iraq))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNS attacks))))
+
+(ROOT (PP (IN in) (NP (NNS attacks))))
+
+(ROOT (FRAG (NP (CD 7))))
+
+(ROOT (FRAG (NP (CD 27))))
+
+(ROOT (PP (IN in) (NP (NNP NW) (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP NW) (NNP Pakista))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (FRAG (NP (CD 12))))
+
+(ROOT (FRAG (NP (CD 6))))
+
+(ROOT (FRAG (NP (CD 25))))
+
+(ROOT (FRAG (NP (CD 12))))
+
+(ROOT (PP (IN in) (NP (NN bomb) (NN blast))))
+
+(ROOT (PP (IN in) (NP (NN blast))))
+
+(ROOT (NP (JJ Turkish) (NNS police)))
+
+(ROOT (NP (JJ British) (NNS police)))
+
+(ROOT (NP (NP (NNP Syria)) (NP (NN opposition) (NN vote))))
+
+(ROOT (NP (JJ Syrian) (NN opposition)))
+
+(ROOT (NP (NN peace) (NNS talks)))
+
+(ROOT (PP (IN for) (NP (NNS talks))))
+
+(ROOT (NP (NP (NNP Syria)) (NP (NN car) (NN bomb))))
+
+(ROOT (NP (NP (NNP Sinai)) (NP (NN car) (NN bomb))))
+
+(ROOT (FRAG (ADVP (IN at) (JJS least)) (NP (CD 12))))
+
+(ROOT
+  (X
+    (NP
+      (QP (IN at) (JJS least) (CD 10))
+      (JJ Egyptian)
+      (NNS soldiers))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT
+  (NP
+    (NP (JJ Bangladesh) (NN building) (NN collapse))
+    (NP (NN death) (NN toll))))
+
+(ROOT
+  (NP
+    (NP (JJ Indian) (NN building) (NN collapse))
+    (NP (NN death) (NN toll))))
+
+(ROOT (NP (NNS hits)))
+
+(ROOT (NP (NNS rises)))
+
+(ROOT (FRAG (NP (CD 359))))
+
+(ROOT (PP (TO to) (NP (CD 72))))
+
+(ROOT (PP (IN in) (NP (`` ``) (NN insider) ('' '') (NN attack))))
+
+(ROOT (PP (IN in) (NP (NN bomb) (NN attack))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (PP (IN in) (NP (NNP Afghanistan))))
+
+(ROOT (PP (IN in) (NP (NNP NW) (NNP Pakistan))))
+
+(ROOT (NP (NP (CD Two)) (NP (NNP U.S.)) (NP (NNS soldiers))))
+
+(ROOT (X (NP (CD 8) (NNS soldiers))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (NP (NP (CD 10)) (NP (JJ young) (NNS girls))))
+
+(ROOT (FRAG (NP (CD nine))))
+
+(ROOT (NP (NN Blast)))
+
+(ROOT (NP (NN Blast)))
+
+(ROOT (PP (IN in) (NP (JJ eastern) (NNP Afghanistan))))
+
+(ROOT (PP (IN in) (NP (JJ southern) (NNP Afghanistan))))
+
+(ROOT (PP (IN at) (NP (NN sea))))
+
+(ROOT (PP (IN at) (NP (NN sea))))
+
+(ROOT (NP (POS 's) (NN chemical) (NNS weapons)))
+
+(ROOT
+  (NP (NP (NNP Syria)) (NP (NN chemical) (NN weapon) (NN stockpile))))
+
+(ROOT (FRAG (VP (MD could) (VP (VB end) (PRT (RP up))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB destroy))))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (NP (JJ female) (NN politician)))
+
+(ROOT (NP (NP (CD 5)) (NP (JJ female) (NNS teachers))))
+
+(ROOT (NP (NNS Gunmen)))
+
+(ROOT (NP (NNS Gunmen)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (ADJP (JJ Ready)))
+
+(ROOT (ADJP (JJ ready)))
+
+(ROOT (NP (NNP China)))
+
+(ROOT (NP (NNP China)))
+
+(ROOT (NP (NNP Dzhokhar) (NNP Tsarnaev)))
+
+(ROOT (NP (NNP Dzhokhar) (NNP Tsarnaev)))
+
+(ROOT (FRAG (RB not) (ADJP (JJ guilty))))
+
+(ROOT (S (VP (VBN charged))))
+
+(ROOT (PP (TO to) (NP (NNP Boston) (NN bombing) (NNS charges))))
+
+(ROOT (PP (IN in) (NP (NNP Boston) (NNP Marathon) (NN bombing))))
+
+(ROOT (NP (NNP P.G.) (NNS police)))
+
+(ROOT (NP (NNS Police)))
+
+(ROOT (S (VP (VBG seeking))))
+
+(ROOT (S (VP (VB seek))))
+
+(ROOT (NP (JJ Egyptian) (NN army)))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Morsi))))
+
+(ROOT (NP (JJ Cryptic) (NN crossword)))
+
+(ROOT (NP (NN Quiz) (NN crossword)))
+
+(ROOT (NP (NP (NNP Saturday)) (NP (JJ 27th) (NNP April))))
+
+(ROOT (NP (NP (NNP Saturday)) (NP (JJ 27th) (NNP April))))
+
+(ROOT (NP (NNP Angelina) (NNP Jolie)))
+
+(ROOT
+  (NP
+    (NP (NNP Angelina) (NNP Jolie))
+    (CC and)
+    (NP (DT the) (NN complex) (NN truth))))
+
+(ROOT (PP (IN of) (NP (NN breast) (NN cancer))))
+
+(ROOT (PP (IN about) (NP (NN breast) (NN cancer))))
+
+(ROOT (PP (IN from) (NP (JJ Israeli) (NN prison))))
+
+(ROOT (PP (IN in) (NP (NNP Israel) (NNS jails))))
+
+(ROOT (NP (NP (CD 26)) (NP (JJ Palestinian) (NNS prisoners))))
+
+(ROOT (NP (JJ Palestinian) (NN prisoner)))
+
+(ROOT (NP (NP (NNP Syria)) (NP (NN regime))))
+
+(ROOT (NP (NP (NNP Syria)) (NP (NN army))))
+
+(ROOT (NP (NN evacuation)))
+
+(ROOT (NP (JJ mop-up) (NNS operations)))
+
+(ROOT (PP (IN near) (NP (NNP Damascus))))
+
+(ROOT (PP (IN near) (NP (NNP Damascus))))
+
+(ROOT (FRAG (NP (CD Twelve))))
+
+(ROOT (FRAG (NP (CD Five))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN Killed))))
+
+(ROOT (NP (NN raid)))
+
+(ROOT (PP (IN in) (NP (NNS Blasts))))
+
+(ROOT (NP (NP (NNP Nicaragua)) (, ,) (NP (NNP Venezuela))))
+
+(ROOT (NP (NNP Bolivia)))
+
+(ROOT (NP (NN asylum)))
+
+(ROOT (NP (NN asylum)))
+
+(ROOT (PP (TO to) (NP (NNP Snowden))))
+
+(ROOT (PP (TO to) (NP (NNP Snowden))))
+
+(ROOT (NP (NN offer)))
+
+(ROOT (FRAG (VP (MD would) (VP (VB grant)))))
+
+(ROOT
+  (FRAG
+    (PP (IN after) (NP (NNP Alabama) (NN school) (NN bus)))
+    (NP (NN shooting))))
+
+(ROOT (PP (IN in) (NP (JJ middle) (NN school) (NN shooting))))
+
+(ROOT (FRAG (NP (CD 5))))
+
+(ROOT (FRAG (NP (CD 3))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan) (NN blast))))
+
+(ROOT (PP (IN in) (NP (NNP Boston) (NNS blasts))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (ADJP (VBN injured)))
+
+(ROOT (FRAG (NP (CD 50))))
+
+(ROOT (FRAG (NP (CD 138))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB strengthen))))))
+
+(ROOT (FRAG (S (VP (TO to) (VP (VB strengthen))))))
+
+(ROOT (VP (VBN occupied) (NP (JJ Palestinian) (NN territory))))
+
+(ROOT (VP (VBN occupied) (NP (JJ Palestinian) (NN territory))))
+
+(ROOT (NP (NNPS Palestinians)))
+
+(ROOT (NP (NNPS Palestinians)))
+
+(ROOT (NP (NN coordinate)))
+
+(ROOT (S (VP (VBN coordinated))))
+
+(ROOT (PP (IN on) (NP (NN peace) (NNS talks))))
+
+(ROOT (PP (IN on) (NP (NN peace) (NNS talks))))
+
+(ROOT (NP (NP (NNPS Palestinians)) (, ,) (NP (NNP Jordan))))
+
+(ROOT (NP (NN PA)))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (VP (VBZ kills))))
+
+(ROOT (FRAG (NP (CD 5))))
+
+(ROOT (FRAG (ADVP (IN at) (JJS least)) (NP (CD ten))))
+
+(ROOT
+  (NP (NP (JJ Suspected) (NNP U.S.)) (NP (NN drone) (NN strike))))
+
+(ROOT (NP (NP (NNP US)) (NP (NN drone) (NN strike))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (IN in) (NP (NNP Pakistan))))
+
+(ROOT (PP (TO to) (NP (NN dispute))))
+
+(ROOT (FRAG (NP (NN cop)) (PP (IN on))))
+
+(ROOT
+  (NP
+    (NP (`` `) (NNP Blade))
+    (NP (NP (NNP Runner) (POS ')) (NP (NNP Pistorius)))))
+
+(ROOT (NP (NNP Pistorius)))
+
+(ROOT (NP (NN murder) (NN charge)))
+
+(ROOT
+  (SINV
+    (NP (CD seven))
+    (VP (VBN attempted) (NP (NN murder) (NNS charges)))))
+
+(ROOT (NP (NN president)))
+
+(ROOT
+  (FRAG
+    (NP
+      (JJ Former)
+      (NNP New)
+      (NNP Mexico)
+      (NNP Gov.)
+      (NNP Richardson))))
+
+(ROOT (PP (IN across) (NP (NNP Egypt))))
+
+(ROOT (PP (IN at) (NP (NNP Cairo))))
+
+(ROOT (FRAG (NP (CD Four))))
+
+(ROOT (NP (NN Student)))
+
+(ROOT (PP (IN in) (NP (NNS clashes))))
+
+(ROOT (PP (IN in) (NP (NNS clashes))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (NP (NNP Afghan) (NNS police)))
+
+(ROOT
+  (NP
+    (NP (CD 5) (NNP Taliban))
+    (, ,)
+    (NP (CD 5) (NNP Afghan) (NNS police))))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT
+  (PP
+    (IN of)
+    (NP (PRP$ Its) (NNP Chemical) (NNP Weapons) (NNP Stockpile))))
+
+(ROOT (NP (NNP Chemical) (NNP Weapons)))
+
+(ROOT (NP (JJ Mixed) (NNS reactions)))
+
+(ROOT (FRAG (VP (VBZ legalizes))))
+
+(ROOT (PP (TO to) (NP (NNP NZ) (JJ same-sex) (NN marriage))))
+
+(ROOT (NP (JJ same-sex) (NN marriage)))
+
+(ROOT (S (NP (POS 's)) (VP (NNP Shebab))))
+
+(ROOT (NP (JJ Syrian) (NNS rebels)))
+
+(ROOT (NP (NN responsibility)))
+
+(ROOT (NP (NN responsibility)))
+
+(ROOT (NP (NNS claims)))
+
+(ROOT (NP (NN claim)))
+
+(ROOT (NP (NNP Glasgow) (NNP Helicopter) (NNP Crash)))
+
+(ROOT (NP (NNP Glasgow) (NNP Helicopter) (NNP Crash)))
+
+(ROOT (NP (NNP India)))
+
+(ROOT (NP (NNP India)))
+
+(ROOT (NP (NNS Braces)))
+
+(ROOT (NP (JJ red) (NN alert)))
+
+(ROOT (PP (IN for) (NP (JJ Massive) (NN Cyclone))))
+
+(ROOT (PP (IN for) (NP (NN cyclone) (NN Phailin))))
+
+(ROOT (X (NP (JJ Many))))
+
+(ROOT (X (NP (JJ Many))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (S (VP (VBN killed))))
+
+(ROOT (NP (NNP Singapore) (NNS shares)))
+
+(ROOT (NP (NNP Singapore) (NNS shares)))
+
+(ROOT (ADJP (JJR lower)))
+
+(ROOT (ADJP (JJR higher)))
+
+(ROOT (ADJP (JJ open)))
+
+(ROOT (ADJP (JJ open)))
+
+(ROOT (PP (IN on) (NP (NNP Friday))))
+
+(ROOT (PP (IN on) (NP (NNP Thursday))))
+
+(ROOT (ADJP (NP (CD 11)) (JJ Dead)))
+
+(ROOT (NP (NN kill)))
+
+(ROOT (X (NP (CD Two) (NNS Earthquakes))))
+
+(ROOT (NP (JJ Twin) (NNS quakes)))
+
+(ROOT (NP (NNP Northwest) (NNP China)))
+
+(ROOT (PP (IN in) (NP (NNP China))))
+
+(ROOT (NP (NP (NNP Egypt)) (NP (NN ministry))))
+
+(ROOT (NP (NNP Egypt)))
+
+(ROOT (PP (TO to) (NP (JJ pro-Morsi) (NNS protests))))
+
+(ROOT (PP (IN after) (NP (JJ pro-Morsi) (NN protest))))
+
