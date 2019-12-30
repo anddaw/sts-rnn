@@ -2,6 +2,8 @@ import argparse
 import re
 from typing import Optional, Tuple
 
+NOT_ALIGNED = '-not aligned-'
+
 
 def parse_line(l: str) -> Tuple[Optional[str], Optional[str]]:
 
@@ -26,6 +28,6 @@ with open(args.input) as ifp, open(args.utterances_output, 'w') as ufp, open(arg
     for line in ifp:
         utterances, score = parse_line(line)
 
-        if utterances and score:
+        if utterances and score and NOT_ALIGNED not in utterances:
             ufp.write(f'{utterances}\n')
             sfp.write(f'{score}\n')

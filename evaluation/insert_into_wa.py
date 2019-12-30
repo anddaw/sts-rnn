@@ -9,12 +9,14 @@ parser.add_argument('scores_input')
 
 args = parser.parse_args()
 
+NOT_ALIGNED = '-not aligned-'
+
 with open(args.wa_input) as wfp, open(args.scores_input) as sfp:
     scores = list(reversed([int(l.strip()) for l in sfp]))
 
     for line in wfp:
         m = re.search(r'(//\s*)[0-9](\s*//\s*.*\s*<==>\s*.*\s*$)', line)
-        if m:
+        if m and NOT_ALIGNED not in m.group(2):
             try:
                 line = re.sub(r'(//\s*)[0-9](\s*//\s*.*\s*<==>\s*.*\s*$)', rf'\g<1>{scores.pop()}\2', line)
             except IndexError:

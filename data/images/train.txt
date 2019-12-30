@@ -1,0 +1,969 @@
+standing 	is 
+on tree branches 	on tree branches 
+A cat 	A black and white cat 
+A large boat 	A large boat 
+in the water 	on the sea 
+A passenger train 	A passenger train 
+waiting 	sits 
+in a station 	in the station 
+on the floor 	on the floor 
+sitting 	sitting 
+An Apple computer 	A Macintosh computer 
+A jockey 	A jockey 
+a horse 	a horse 
+riding 	riding 
+A woman 	A young girl 
+a brown horse 	a brown horse 
+riding 	riding 
+sleeps 	asleep 
+A man 	A man 
+with a baby 	holding a baby 
+in front of yellow flowers 	in a field 
+standing 	standing 
+A black dog 	A black dog 
+in afield 	in a field 
+standing 	grazing 
+sheep 	A sheep 
+standing 	stands 
+A dark brown horse 	A brown horse 
+in a field 	in a lush green field 
+with food 	with food and beer 
+of people 	of people 
+around a table 	around a table 
+A group 	A group 
+sitting 	sit 
+A brown horse 	A brown horse 
+in a lush green field 	in a green field 
+with two cats 	with two cats 
+at her feet 	at her feet 
+in a kitchen 	in the kitchen 
+stands 	is standing 
+An elderly woman 	The old lady 
+Red double decker bus 	Double decker passenger bus 
+through the streets 	with traffic 
+driving 	driving 
+in a cluttered room 	in a cluttered room 
+sitting 	lies 
+A man 	A man 
+walking 	walking 
+under trees 	under the tree 
+Black cow 	Cow 
+in pasture 	in a pasture 
+A smiling woman 	Two women 
+with another smiling woman 	laughing 
+sitting 	sitting 
+outside 	outside 
+with a big necklace 	with a black top and a necklace 
+a woman 	A young woman 
+in grass 	in a grassy area 
+standing 	standing 
+Brown and white cow 	A brown and white cow 
+a horse 	a horse 
+riding 	rides 
+A jockey 	A jockey 
+rides 	rides 
+A person 	A person 
+a bike 	a bike 
+a helmet 	a bike helmet 
+wearing 	wearing 
+of horses 	of horses 
+grazing 	grazing 
+Group 	A group 
+in grassy field 	in a field 
+a helmet 	a bike helmet 
+A young blonde girl 	A young girl 
+behind her 	in the background 
+with a red bicycle 	with a bicycle 
+wearing 	wearing 
+A striped cat 	Domestic cat 
+laying down 	laying 
+of cat litter 	of cat litter 
+Five birds 	Several cardinals 
+on the snow 	in the snow 
+stand 	stand 
+posing 	is standing 
+by a pillar 	by a pillar 
+A woman 	a woman 
+with a U2 sign 	where `` u2 '' is written 
+A red moped 	The red scooter 
+parked 	is sitting 
+on a sidewalk 	on the street 
+in front of graffiti 	in front of the building 
+on couch 	on a couch 
+Two dogs and one cat 	Two dogs and a cat 
+sitting 	resting 
+with their thumbs up 	the thumbs up sign 
+One Asian and one occasion woman 	Two women 
+smiling 	are posing 
+in front of an alpine lake 	next to a mountain , and a body 
+grazing 	grazing 
+Two mountain goats 	Two animals 
+in a station 	at the city train station 
+waiting 	waiting 
+A passenger train 	A passenger train 
+A bicycle 	A bicycle 
+is parked 	is parked 
+by a shop 	outside a bookstore 
+in a black leather chair 	on a leather chair 
+A orange and white cat 	A ginger and white cat 
+laying 	asleep 
+on train tracks 	on the train tracks 
+Black train 	A train 
+on a black couch 	on couch 
+Young couple 	Young couple 
+sitting 	sitting 
+on a couch 	on couch 
+A couple 	Young couple 
+posing 	sitting 
+Red double decker bus 	Red double decker bus 
+A group 	A group 
+sitting 	sitting 
+at a restaurant table 	around a table 
+of people 	of people 
+napping 	sleeping 
+under a small table 	under a table 
+a dog 	A dog 
+on water 	on the water 
+A boat 	Sail boat 
+is sailing 	sailing 
+a small baby 	a baby 
+holding 	holding 
+A smiling woman 	Two smiling women 
+Red double decker bus 	A red double decker bus 
+of street 	on a city street 
+the window 	of a window 
+looking out 	looking out 
+Gray cat 	A cat 
+on the tracks 	on the train track 
+sitting 	are sitting 
+Two green and white trains 	Two green and white trains 
+the camera 	the camera 
+A cat 	A gray , black , and white cat 
+looking at 	looking at 
+A gray cat 	A gray cat 
+on a wooden table 	on a dining table 
+lying 	laying 
+in a chair 	on chair 
+with a baby 	with infant 
+A father 	Man 
+napping 	sleeping 
+on tree branch 	on a tree branch 
+perched 	perched 
+Green and white bird 	Bird 
+A red and white plane 	Red and white plane 
+flying 	flying 
+with a viking hat 	a viking hat 
+a woman 	Smiling woman 
+on 	wearing 
+standing 	stands 
+underneath a chair 	on the floor 
+A small white cat 	A white cat 
+at a table 	around a table 
+of people 	of elderly people 
+A group 	Group 
+eat 	sitting 
+standing 	stands 
+A bull 	A brown horse 
+in the field 	in a lush green field 
+jumping 	playing 
+at a table 	around a dining table 
+A group 	A group 
+of people 	of elderly people 
+are looking at 	looking out 
+Two cats 	A white cat 
+a window 	of a window 
+in the background 	in the background 
+with a horse 	with other lambs 
+perched 	is perched 
+A small red and gray bird 	A red and brown bird 
+amongst the bare branches 	on branches 
+on a rural road 	along a dirt road 
+is driving 	driving 
+Three young women 	Two Indian women 
+in a field 	in a field 
+of sheep 	of horses 
+A group 	A group 
+in a green pasture 	in the pasture 
+Two white cows 	The tan horse 
+at a table 	at a table 
+Two people 	four people 
+sitting 	sitting 
+A women 	A man and two women 
+sitting 	sitting 
+on a sofa 	on a blue sofa 
+Black and white cat 	The black and white cat 
+lying 	lounges 
+under bush 	in the dirt 
+at the camera 	at the camera 
+is looking 	looking 
+The lamb 	A cat 
+A black and white photo 	A black and white photo 
+A black and white cat 	Black and white lamb 
+posing 	are posing 
+for the camera 	for the camera 
+A man and small child 	A man and woman 
+A black vehicle 	A black car 
+parked 	parked 
+The black and white bull 	A black and white dog 
+at the camera 	at the camera 
+is looking 	looking 
+in the background 	in the background 
+of sheep 	A white cat 
+beside the road 	in the field 
+are grazing 	grazing 
+Five cows 	Several sheep 
+in a living room 	in a dining room 
+A silver bicycle 	A bicycle 
+sleeping 	sitting 
+on the sofa 	on a green couch 
+The men 	a young boy 
+sits 	relaxes 
+A brown and white dog 	A small orange and white dog 
+on a floral-patterned chair 	on a flower print pillow 
+looking 	looking 
+Two sheep 	Two sheep 
+at the camera 	at the camera 
+in a field 	in a field 
+in the background 	in the background 
+laying 	lying 
+at the camera 	at the camera 
+A cat 	A tan dog 
+looking 	looking up 
+on a red cushion 	on a moggie bed 
+a boat 	on a boat 
+near the shore 	on green water 
+Four people 	four people 
+are rowing 	are 
+in the sky 	in the sky 
+Two airplanes 	A plane 
+in front of the laundry room 	with tan walls and a washer and dryer 
+on the porch 	on acouch 
+People 	People 
+sitting 	sitting 
+sitting 	riding 
+A man 	A man 
+near two tiny animals 	near her children 
+stands 	standing 
+A lamb 	A sheep 
+on a grassy field 	on a green hill 
+Tan cow 	Many sheep 
+in front of some ruins 	in front of a building 
+A bicycle 	A pink bicycle 
+of black faced sheep 	A black faced sheep 
+walking 	flying 
+standing 	standing 
+in a grassy field 	in a grassy field 
+A black and white cow 	A blue jay 
+sitting 	sitting 
+A young woman 	Two young kids 
+dressed 	dressed up 
+on side 	on a crowded street 
+Red double decker bus 	A red double decker bus 
+A bus 	A green bus 
+drives down 	drives down 
+a busy road 	a road 
+A young woman 	A women 
+is wearing 	wearing 
+a bikini top and jeans 	a bikini top and jeans 
+A yellow and blue airplane 	The white airplane 
+is flying 	is flying 
+in the sky 	in the blue sky 
+near the water 	on a beach 
+with two Indian girls 	with two Indian girls 
+Two Indian women 	Two Indian woman 
+A living room 	A living room 
+in the background 	in the background 
+with a dining table 	with large sofas and a dining table 
+with trees 	with trees 
+paddling 	padding 
+Two people 	Two people 
+in the background 	in the background 
+in a red canoe 	in a yellow canoe 
+at sunset 	near the sunset 
+Plane 	A plane 
+in mid-flight 	flying 
+to the side 	to the side 
+A yellow parrot 	A yellow and orange bird 
+of its cage 	of a cage 
+clings 	hold on 
+sailing 	sailing 
+in a small sailboat 	in a small sailboat 
+Couple 	Two men 
+Red double decker bus 	A red , double-decker bus 
+A close-up 	Close up image 
+with its tongue 	with it 's tongue 
+hanging out 	hanging out 
+of a sheep 	of a sheep 
+sitting 	perched 
+on a branch 	on an icy branch 
+a small bird 	A small bird 
+stand 	walking 
+A brown duck and white duck 	Brown and white ducks 
+on the grass 	on green grass 
+Cows 	Five cows 
+grazing 	grazing 
+in a snow covered field 	in a snow covered field 
+with blue shirt 	in a blue shirt and tan pants 
+in front of a fountain 	in front of a statue 
+standing 	is standing 
+Man 	A man 
+on the floor 	on on the floor 
+Several televisions 	Three televisions 
+in front of a bookcase 	in front of book shelves 
+A clear plastic chair 	a clear plastic chair 
+stands 	standing 
+A sheep 	A large sheep 
+on a hillside 	on a hill 
+Blue and red plane 	a blue and red airplane 
+in mid-air flight 	while in flight 
+on the floor 	on the floor 
+A flat screen TV 	A flat-screen TV 
+with several computer monitors 	with four computer monitors 
+Room 	A room 
+of a stop sign 	of a sign 
+on it 	on 
+the back 	The back 
+with many stickers 	with stickers 
+Living room or den 	Living room 
+with large screen television 	with tan furniture and flat screen television 
+driving down 	driving down 
+A doubly decker red bus 	A red double decker bus 
+the road 	a street 
+for camera 	for the camera 
+stand 	are posing 
+A man and woman 	A man and woman 
+A white bird 	Large white bird 
+with long orange legs 	with long orange beak 
+by a lake 	on the shoreline 
+standing 	standing 
+driving 	is riding 
+through a snow covered city 	in the snow 
+A red train 	The train 
+on the runway 	on a runway 
+sits 	parked 
+A Das Air Cargo plane 	A passenger plane 
+on purple sheet 	on a purple blanket 
+A cat 	A black and white cat 
+sleeps 	sleeps 
+an England street 	the street 
+A red and white bus 	A red and white England bus 
+drives down 	drives down 
+a jockey 	A jockey 
+riding 	riding 
+a horse 	a horse 
+A kitchen 	A kitchen 
+with wood cabinets and dining table 	with wooden cabinets and furniture 
+of a cityscape 	of a city 
+with a graffiti scene 	by a mural 
+A motorcycles 	A motorcycle 
+is parked 	is parked 
+in the water 	in the water 
+A bird 	A large black bird 
+in a fenced area 	in a gated yard 
+pets 	pets 
+a dog 	a dog 
+A woman 	A woman 
+reclines 	sitting 
+on an office chair 	on an office chair 
+A cat 	A ginger cat 
+sits 	is 
+at the train station 	at the station 
+The train 	The blue train 
+of horses 	of horses 
+A group 	Group 
+grazing 	grazing 
+in a field 	in grassy field 
+on an icy branch 	on a branch 
+A small bird 	A yellow bird 
+perched 	perched 
+Boy 	A boy 
+typing 	looking 
+on a computer 	at a computer screen 
+their tires 	tires 
+spins 	spinning 
+A red truck 	Red truck 
+Four blue and yellow planes 	Four blue and yellow planes 
+flying 	in flight 
+A train 	A train 
+is 	parked 
+at a train station 	at a train station 
+through water 	towards a the shore 
+in yellow canoe 	a yellow canoe 
+Man 	Man 
+paddling 	paddling 
+on the floor 	on the floor 
+Beer bottles -LRB- -LRB- Harp Lager -RRB- -RRB- 	A row 
+giving 	giving 
+the thumbs up sign 	the thumbs up sign 
+Two women 	Two smiling young women 
+on a city street 	the road 
+A double decker red United bus 	A doubly decker red bus 
+at table 	at a table 
+of restaurant 	at a restaurant 
+Group 	Two people 
+sitting 	sitting 
+drinking 	are drinking 
+Two dairy cows 	Two cows 
+from a pond 	from a pond 
+in an urban setting 	in a fenced area 
+ride 	riding 
+People 	People 
+standing 	talking 
+Two women 	Two men 
+in front of tour bus 	in front of a plane 
+Large silver locomotive engine 	The silver train 
+in a shed 	in a station 
+is parked 	stand 
+outside a bookstore 	outside a bookstore 
+standing 	standing 
+in background 	in the background 
+is eating 	eating 
+fruit 	fruit 
+on a wire grate 	on a bird feeder 
+A yellow bird 	A yellow bird 
+on the tracks 	down the tracks 
+sitting 	traveling 
+A train 	A train 
+sits 	standing 
+A man 	A woman 
+a white horse 	a brown horse 
+riding 	riding 
+is standing 	hold on 
+riding 	riding 
+a brown horse 	a brown horse 
+A girl 	The jockey 
+A man 	The man 
+sitting 	is standing 
+on the grass 	on the sidewalk 
+standing 	standing 
+A white cat 	A sheep 
+on a street 	on the street 
+A passenger jet 	A large passenger jet 
+on a runway 	close to the ground 
+sits 	flying 
+on a table 	at a table 
+sitting 	sitting 
+A white cat 	A pretty white striped cat 
+on a carpet 	the table 
+in front of an apartment building 	in front of building 
+on the ground 	under a tree 
+The black bird 	with a cow 
+of a cat 	of a horse 
+A close-up 	A close-up 
+are swimming 	fly 
+The birds 	Birds 
+in the water 	over water 
+on a crowded street 	on a public street 
+A red double decker bus 	A white bus 
+in a field 	in a field 
+grazing 	grazing 
+A group 	A brown horse 
+near a field 	in the grass 
+sitting 	is sitting 
+Two women 	Two women 
+in the kitchen 	in kitchen 
+toward the camera 	towards the camera 
+moving 	flying 
+with table , chair and sofa 	with a blue sofa , camp bed , wooden bench and dresser 
+A living room 	A living room 
+in the background 	in the background 
+A steam engine 	A train 
+a train track 	at a train station 
+sitting 	sitting 
+Two women 	Two women 
+outside 	outside 
+sitting 	standing 
+toward the camera 	at the camera 
+The bird 	The sheep 
+on the branch 	under the trees 
+is sitting 	is standing 
+looking 	is looking up 
+A brown and white cow 	The black and white cat 
+into the camera 	at the camera 
+along the beach 	's shore 
+walking 	walk 
+A man and a woman 	A man 
+A black and white dog 	A small black and white goat 
+at the camera 	at the camera 
+looking 	looking up 
+Red double decker bus 	A red double decker bus 
+A young boy 	A young blonde girl 
+A group 	A group 
+of people 	of four people 
+The cat 	Than horse 
+in front of a door 	in front of a fence 
+is sitting 	standing 
+A man 	A runner 
+in a riding hat 	riding 
+on a horse 	a brown horse 
+A girl 	A girl 
+A group 	A group 
+of peoples 	of cyclists 
+A car 	A silver car 
+of the road 	of the road 
+the side 	on the side 
+is lying 	lies 
+The black dog 	A black dog 
+in the grass 	on the grass 
+Large white cruise ship 	Large cruise ship 
+floating 	floating 
+on water 	on the water 
+with a motorcycle 	with a classic motorcycle 
+a car 	in a classic car 
+A black and white photo 	A black and white photo 
+of a man 	of a man 
+someone 	a man 
+on the gloved hand 	's gloved hand 
+of a person 	on a person 
+perches 	is perched 
+A blue bird 	A bird 
+riding on 	riding 
+a brown and white horse 	a brown horse 
+A girl 	A girl 
+in a riding hat 	riding 
+A girl 	A girl 
+on a horse 	a tan horse 
+is sitting 	is perched 
+The bird 	A red and brown bird 
+on the branch 	on branches 
+at a black sheep 	at a brown sheep 
+looks 	looking 
+A black and tan dog 	A black dog 
+jumping 	jumping 
+a man 	A man 
+very high 	with the sky 
+on a dirt bike 	on a motorbike 
+The man 	A man 
+at a messy table 	on a messy table 
+a laptop 	a laptop computer 
+is sitting 	sits 
+Four children 	Children 
+at barn animals 	a sheep 
+looking 	looking 
+is standing 	standing 
+next to a car 	next to a small red vehicle 
+A scantily clad woman 	A scantily clad woman 
+A red and blue plane 	A WWII fighter plane 
+down 	down 
+with its landing gears 	with its landing gear 
+in a restaurant 	in an Italian restaurant 
+Four women and two men 	A group 
+at a long table 	at a table 
+sit 	sit 
+with a blue halter 	a blue halter 
+Close up 	A close up 
+of a brown horse 	of a horse 
+in a rural area 	in a field 
+A yellow school bus 	A yellow school bus 
+is parked 	parked 
+A sheep 	Woolly sheep 
+at auction 	at auction house 
+a train 	The train 
+on his tracks 	the track 
+rides 	comes down 
+on a city street 	on a city street 
+A double decker red United bus 	A double decker bus 
+on a carpeted floor 	on white carpeting 
+A tan puppy 	Tan puppy 
+A young girl 	A woman 
+riding 	in riding 
+a brown horse 	a brown horse 
+in a station 	in a station 
+Train 	a train 
+standing 	standing 
+A blue bird 	Blue bird 
+on a lawn 	on green grass 
+a horse 	on the brown horse 
+A woman equestrian 	The woman 
+riding 	is riding 
+going down 	traveling 
+Train 	A black steam train 
+the tracks 	on the railroad tracks 
+A large cruise ship 	A cruise ship 
+in harbor 	at a coast 
+a road intersection 	a paved street 
+crossing 	cross 
+Two cows 	Two cows 
+in a plain 	in a field 
+stands 	standing 
+A black cow and a brown cow 	A black cow and a brown cow 
+in front of an uprooted tree 	in front of a small copse 
+at a table 	at a restaurant table 
+of people 	of people 
+eat 	sitting 
+A group 	A group 
+sitting 	sitting 
+at a restaurant table 	at table 
+A group 	Group 
+of people 	of people 
+the window 	at a window 
+looking out 	are looking 
+Two cats 	Two cats 
+cutting 	cuts 
+into food 	a cake 
+in blue shift dress 	in a blue dress 
+Woman 	A woman 
+atop a red an yellow motorcycle 	on a red and yellow motorcycle 
+Two brunette girls 	A couple 
+sit 	posing 
+A man 	A man 
+of a red tandem bicycle 	of a tandem bicycle 
+on the back seat 	on the back 
+A computer 	A computer 
+on a desk 	on a desk 
+Home office space 	Small office space 
+with bright green walls and artwork 	with bright green walls 
+on a beach 	on shore 
+Yellow boat 	A yellow boat 
+on the blue clothed dining table 	with a blue table cloth 
+A kitchendiner 	A small kitchen and a cluttered table 
+is sitting 	is standing 
+on the window ledge 	on the window sill 
+looking 	looking 
+A gray cat 	The cat 
+at the camera 	at the camera 
+taking of 	taking off 
+A green and white cargo plane 	White and green commercial airliner 
+from an airport 	of runway 
+inside and black and white furry enclosure 	inside a cow-schemed , fur-covered dome 
+are 	are sitting 
+Two cats 	Two baby kittens 
+A close-up view 	A side view 
+of a horse 	of a horse 
+'s head 	's head 
+An old fashioned wooden sailing ship 	A wooden yacht 
+in the ocean 	on the ocean 
+A white plane 	A white airplane 
+on the runway 	on a runway 
+Elegant dining room 	An elegant pink dining room 
+with wood furniture 	with wooden furniture 
+jumping 	jumping 
+A man 	A man 
+his dirt bike 	on a bike 
+with green eyes 	with green eyes 
+at the camera 	into the camera 
+A gray cat 	A gray cat 
+looks 	looking 
+is sitting 	sitting 
+A black and white cat 	Black and white cat 
+looking up 	looking up 
+on a brown chair 	on wood chair 
+A man 	A man and woman 
+with a wine bottle 	with a bottle 
+Boy 	A boy 
+a sheep 	a sheep hay 
+feeding 	feeding 
+is standing 	stands 
+on the green hill 	on a hillside 
+The white sheep 	A sheep 
+of a dilapidated wooden fence 	of an old wooden fence 
+A black and white photo 	A black and white photo 
+taxing 	sitting 
+along a runway 	on the tarmac 
+An AeroMexico jet 	A silver AreoMexico Jet Liner 
+of people 	of people 
+A group 	A group 
+sitting 	sitting 
+around a table 	around a table 
+is parked 	parked 
+A bicycle 	A green bike 
+outside a bookstore 	outside a book store 
+window 	of a window 
+looking out 	looking out 
+Domestic cat 	A white cat 
+in a living room 	in a living room 
+with a black dog 	with a black dog 
+Two women 	Two women 
+stand 	standing 
+a red canoe 	in a red canoe 
+Two people 	Two people 
+paddling 	paddling 
+push 	walking 
+A woman and child 	A women and a young girl 
+down the sidewalk 	along the sidewalk 
+strollers 	pushchairs 
+around a table 	around a table 
+of people 	of people 
+sitting 	sitting 
+A group 	A group 
+on a blanket 	on a purple blanket 
+A black and white cat 	A black and white cat 
+lying 	sleeping 
+A red and gray train 	A red and gray train 
+is going 	travels 
+through a tunnel 	through a tunnel 
+of a living room 	A living room 
+in the background 	in the background 
+with a dining room 	with large sofas and a dining table 
+a bike helmet 	a helmet 
+A person 	A person 
+wearing 	wearing 
+by a shop 	outside a book store 
+A bicycle 	A green bike 
+is parked 	parked 
+driving 	driving 
+Red double decker bus 	Red double decker bus 
+through the streets 	down a street 
+laying 	lying 
+on a brown table 	on a wooden table 
+A gray cat 	A gray cat 
+A close-up 	A close-up 
+of a brown horse 	of a horse 
+A black and white image 	Black and white picture 
+laying 	laying 
+on a rug 	on a rug 
+of a cat 	of a cat 
+A pile 	Pile 
+with a chair 	with chair 
+of used wooden building materials 	of wooden debris 
+on top 	on top 
+with multiple desks and green walls 	with bright green walls 
+An office 	Small office space 
+on a flowerpot 	on a flowerpot 
+A bird 	Bird 
+perched 	perched 
+on top 	on a horse 
+Young woman 	Young girl 
+in riding gear 	in riding gear 
+A small bird 	A small bird 
+on a tiny branch 	on an icy branch 
+a wheelie 	a wheelie 
+performing 	performing 
+A man 	Motorcyclist 
+on the brown horse 	on a brown horse 
+The young rider 	A young female rider 
+to wood 	against a wooden box 
+with nose 	with its nose 
+Little white lamb 	A white lamb 
+riding 	is riding 
+a white and gray horse 	a white and gray horse 
+A young girl 	a little girl 
+in the water 	on the water 
+is flapping 	flapping 
+A bird 	A black swan 
+its wings 	its wings 
+Young woman 	The woman 
+on top 	on the brown horse 
+in riding gear 	is riding 
+rowing 	row 
+down a river 	in water 
+Four people 	Four people 
+A kitchen 	Kitchen 
+with wooden cabinets and furniture 	with wooden table and cabinets 
+from a bird feeder 	on a bird feeder 
+A bird 	A yellow bird 
+eating 	eating 
+talking 	talking 
+in front of a plane 	in front of a small plane 
+Two men 	Two men 
+wearing 	wearing 
+A young blonde girl 	A young girl 
+a smile and a bicycle helmet 	a bike helmet 
+at the train station 	at a train station 
+The train 	A train 
+sits 	parked 
+eating 	eating 
+A small bird 	Bird 
+from the feeder 	from a bird feeder 
+Two brown horses 	Brown horse 
+in grassy field 	in middle 
+standing 	standing 
+is perched 	perched 
+A red bird 	A small red and gray bird 
+in a tree 	in a tree 
+on couch 	on a sofa 
+Boy 	A small boy 
+lying 	laying 
+with small white dog 	with a dog 
+traveling 	traveling 
+on the railroad tracks 	on the railroad tracks 
+A green steam engine 	A black steam train 
+The man 	A man 
+in front of the train 	in front of a silver train 
+poses 	stands 
+A kitchen sink and countertop 	A small kitchen 
+on shelves 	on the shelves and on the counter 
+with bowls 	with items 
+a bicycle 	a mountain bike 
+riding 	riding 
+A woman 	A women 
+on a large concrete area 	on a large concrete area 
+A man 	A man 
+next to a yellow sports car 	next to a yellow Corvette 
+is standing 	stands 
+with a white horse 	a white horse 
+A woman 	A woman 
+Older gentleman 	A man 
+at red motorcycle 	at a red motorcycle 
+looking 	looking 
+in front of a train 	in front of a silver train 
+stands 	stands 
+A man 	A man 
+near a small plane 	a small airplane 
+A boat 	A boat 
+on the water 	in the water 
+is 	is 
+sitting 	pose 
+around a table 	around a dining table 
+Group 	A group 
+of elderly people 	of elderly people 
+The brown and white cows 	Brown and white cows 
+in the trough 	from a trough 
+are eating 	are eating 
+towards a wooden telephone pole 	above the telephone wires 
+Two green birds 	Two green birds 
+fly 	flying 
+stands 	is standing 
+in front of a `` Going Places '' bus 	in front of the open door 
+A young woman 	TThe girl 
+perched 	is perched 
+on a gloved hand 	's gloved hand 
+A blue bird 	A bird 
+A baby 	A baby 
+a ketchup packet 	a ketchup packet 
+holds 	holds 
+on the sofa 	on the back 
+sitting 	sit 
+looking out 	looking out 
+the window 	the window 
+Two cats 	Two cats 
+standing 	standing 
+in a field 	in a field 
+A dark brown horse 	Horse 
+on a sidewalk 	on the sidewalk 
+parked 	parked 
+A blue scooter 	A blue moped 
+A black and white cat 	A black and white cat 
+Three people 	Two elderly women 
+sitting 	sit 
+at dinner table 	at a dinner table 
+traveling 	is 
+on the street 	on the street 
+A white and red bus 	The red bus 
+in the water 	in the water 
+A large black bird 	The birds 
+is sitting 	are swimming 
+is sitting 	is standing 
+on boat 	A wooden yacht 
+on the water 	on the ocean 
+The television and desk 	A television and a laptop computer 
+of hotel room 	on in a hotel room 
+A woman 	A person 
+wearing 	wearing 
+A close-up picture 	A close-up picture 
+Two women 	A woman 
+with a baby 	with a baby 
+posing 	poses 
+inside a train station 	at the train station 
+Two trains 	The train 
+A man and two women 	A man and women 
+at the camera 	at the camera 
+while sitting 	while standing 
+smiling 	smiling 
+in a bright room 	in a living room 
+A television , upholstered chair , and coffee stable 	A leather couch and wooden table 
+Tan cow 	sheep 
+on a grassy field 	in grassy field 
+A close-up 	A close-up 
+A bay foal 	of young horse 
+is walking 	walking 
+next to its mother 	next to a larger horse 
+A small child 	A small child 
+in front of a building 	in front of a dining room 
+A woman 	Two women and a baby 
+stands 	pose 
+on table 	on the table 
+sitting 	sitting 
+Young baby girl 	with a smiling baby 
+A black and white cow 	Black and white cows 
+in a pen 	behind a fence 
+for the camera 	at the camera 
+standing 	sitting 
+A black and white horned cow 	of a cat 
+at a restaurant table 	around a table 
+of people 	of people 
+A group 	A group 
+sitting 	sitting 
+in a field 	in a green field 
+is sitting 	sitting 
+The cat 	Two eagles 
+is looking up 	looking 
+at the camera 	at the camera 
+The black and white cat 	A black and white dog 
+sitting 	sitting 
+of a bottle 	A bottle 
+atop a rock carving 	on a stone 
+of the yard 	in the field 
+sits 	standing 
+A lone cow 	a black and white cow 
+A girl 	A girl 
+in the background 	in the background 
+standing 	stands 
+Two brown horses 	A brown horse 
+in a green meadow 	in tall grass 
+in the snow 	on the snow 
+sitting 	stand 
+A red bird and four other birds 	Five birds 
+at the dinner table 	around a dining table 
+poses 	pose 
+An older Asian couple 	A group 
+with a pillow 	on an animal print blanket 
+A cat 	The cat 
+sleeping 	is laying 
+driving 	driving 
+Cars 	Vehicles 
+near a model building 	infant of an ornate building 
+A young woman 	A man 
+a Bay hose 	at a horse 
+A woman 	Four women and two men 
+at the dining table 	at a long table 
+A man 	A woman 
+a white horse 	a white horse 
+riding 	leading 
+laying 	laying 
+A white cat 	A white cat 
+Two men 	Two women 
+standing 	standing 
+A woman 	A man 
+a white horse 	on a white horse 
+a brown horse 	brown horse 
+riding 	riding 
+A woman 	Person 
+A passenger train 	A passenger train 
+the tracks 	on train tracks 
+A black train 	A long train 
+in a living room 	in a living room 
+Blue couch and twin bed 	A leather couch and wooden table 
+A white leather couch 	A television 
+Two buses 	Yellow scooter 
+on a street 	in an alley way 
+parked 	parked 
+sitting 	is sitting 
+A woman 	A man 
+up 	up 
+a baby 	a baby 
+above her 	above him 
+holding 	holding 
+on the floor 	on the floor 
+is laying down 	is laying 
+sleeping 	laying 
+A black and white cat 	A black and white cat 
+Two women 	Two women 
+A yellow and black bird 	A flock 
+in afield 	in a field 
+sheep 	next to a sheep 
+standing 	stands 
+A black and white photo 	A black and white photo 
+standing 	standing 
+Black bird 	Blue bird 
+Several people 	People 
+on motorcycles 	mopeds 
+in a market square 	in an urban setting 
+Domestic cat 	Tan domestic cat 
+standing 	standing 
+looking up 	looking up 
+at the camera 	at the camera 
+A small cat 	The small dog 
+look 	looking 
+at the camera 	at the camera 
+Tan cows 	A white and gray cat 
