@@ -5,19 +5,17 @@ from nltk.parse import corenlp
 import pathlib
 
 stanford_path = pathlib.Path('stanford/stanford-corenlp-full-2018-10-05')
+url='http://localhost:9001'
 
-
+sentences = []
 with open(sys.argv[1]) as infile:
-    sentences = [l.strip() for l in infile]
+    for line in infile:
+        sentences.extend([s.strip() for s in line.split('\t')])
 
-with corenlp.CoreNLPServer(
-        path_to_jar=str(stanford_path / 'stanford-corenlp-3.9.2.jar'),
-        path_to_models_jar=str(stanford_path / 'stanford-corenlp-3.9.2-models.jar')
-        ) as server:
 
-    parser = corenlp.CoreNLPParser()
-    parsed_sentences = next(parser.raw_parse_sents(sentences))
-
-for sentence in parsed_sentences:
-    print(sentence)
+parser = corenlp.CoreNLPParser(url=url)
+for sentence in sentences:
+    parsed_sentence = parser.raw_parse(sentence)
+    print(next(parsed_sentence))
+    print()
 
