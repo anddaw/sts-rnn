@@ -1,3 +1,5 @@
+*.pdf
+*.tsv
 .idea
 __pycache__
 data/collobert

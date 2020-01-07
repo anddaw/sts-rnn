@@ -11,7 +11,7 @@ from models.vrnn_tree import VRNNTree
 
 
 def pick_model(config, output_size=6) -> Optional[BaseModel]:
-    num_layers = config['num_rnn_layers'] if 'num_rnn_layers' in config else 1
+    num_layers = config.get('num_rnn_layers', 1)
 
     if config['embeddings'] == 'dict':
         embeddings = DictEmbeddings(config['embeddings_path'])
@@ -33,10 +33,22 @@ def pick_model(config, output_size=6) -> Optional[BaseModel]:
                             num_layers=num_layers)
 
     elif config['model'] == 'cnn_1d':
+
         return CNN1d(embeddings=embeddings, output_size=output_size,
                      sentence_length=config['sentence_length'])
 
     elif config['model'] == 'cnn_2d':
+        channels_layer_1 = int(config.get('channels_layer_1', 100))
+        channels_layer_2 = int(config.get('channels_layer_2', 100))
 
-        return CNN2d(embeddings=embeddings, output_size=output_size, sentence_length=config['sentence_length'])
+        kernel_size_layer_1 = int(config.get('kernel_size_layer_1', 3))
+        kernel_size_layer_2 = int(config.get('kernel_size_layer_2', 3))
+
+        return CNN2d(embeddings=embeddings,
+                     output_size=output_size,
+                     sentence_length=int(config['sentence_length']),
+                     channels_layer_1=channels_layer_1,
+                     channels_layer_2=channels_layer_2,
+                     kernel_size_layer_1=kernel_size_layer_1,
+                     kernel_size_layer_2=kernel_size_layer_2)
 

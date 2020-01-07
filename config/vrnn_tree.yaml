@@ -5,7 +5,7 @@ embeddings: dict
 embeddings_path: data/collobert/embeddings50.txt
 
 # Path to train and test sentence pairs and labels
-dataset: data/task1/MSRvid
+dataset: data/images
 
 # Max number of epochs
 epochs: 15

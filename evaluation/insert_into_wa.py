@@ -12,7 +12,7 @@ args = parser.parse_args()
 NOT_ALIGNED = '-not aligned-'
 
 with open(args.wa_input) as wfp, open(args.scores_input) as sfp:
-    scores = list(reversed([int(l.strip()) for l in sfp]))
+    scores = list(reversed([int(round(float(l.strip()))) for l in sfp]))
 
     for line in wfp:
         m = re.search(r'(//\s*)[0-9](\s*//\s*.*\s*<==>\s*.*\s*$)', line)

@@ -9,24 +9,32 @@ from models.base import BaseModel
 
 class CNN2d(BaseModel):
 
-    def __init__(self, embeddings: Embeddings, output_size: int, sentence_length: int = 32):
+    def __init__(self,
+                 embeddings: Embeddings,
+                 output_size: int,
+                 sentence_length: int = 32,
+                 channels_layer_1: int = 100,
+                 channels_layer_2: int = 100,
+                 kernel_size_layer_1: int = 3,
+                 kernel_size_layer_2: int = 3,
+                 ):
         super(CNN2d, self).__init__(output_size)
 
         self.embeddings = embeddings
 
         self.sentence_length = sentence_length
 
-        self.out_channels_layer_1 = 100
-        self.out_channels_layer_2 = 100
+        self.channels_layer_1 = channels_layer_1
+        self.channels_layer_2 = channels_layer_2
 
-        self.cnn_1 = nn.Conv2d(in_channels=embeddings.embedding_size*2, out_channels=self.out_channels_layer_1,
-                               padding=1, kernel_size=3)
+        self.cnn_1 = nn.Conv2d(in_channels=embeddings.embedding_size*2, out_channels=self.channels_layer_1,
+                               padding=1, kernel_size=kernel_size_layer_1)
         self.max_pool_1 = nn.MaxPool2d(kernel_size=4)
 
-        self.cnn_2 = nn.Conv2d(in_channels=self.out_channels_layer_1, out_channels=self.out_channels_layer_2,
-                               padding=1, kernel_size=3)
+        self.cnn_2 = nn.Conv2d(in_channels=self.channels_layer_1, out_channels=self.channels_layer_2,
+                               padding=1, kernel_size=kernel_size_layer_2)
 
-        self.classifier = nn.Linear(in_features=self.out_channels_layer_2, out_features=output_size)
+        self.classifier = nn.Linear(in_features=self.channels_layer_2, out_features=output_size)
 
     def forward(self, sentence_pair: Tuple[List[str], List[str]]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
@@ -51,7 +59,7 @@ class CNN2d(BaseModel):
 
         x = F.max_pool2d(x, kernel_size=x.shape[3])
 
-        x = x.view(-1, self.out_channels_layer_2)
+        x = x.view(-1, self.channels_layer_2)
 
         x = F.softmax(self.classifier(x))
 
