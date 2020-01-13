@@ -1,0 +1,1 @@
+MSRpar-activation_relu	cnn_2d.yaml -o sentence_length 35 -o channels_layer_1 80 -o channels_layer_2 0 -o kernel_size_layer_1 3 -o activation_function relu	data/MSRpar	44.34	-

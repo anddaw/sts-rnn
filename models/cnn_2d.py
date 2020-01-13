@@ -17,6 +17,8 @@ class CNN2d(BaseModel):
                  channels_layer_2: int = 100,
                  kernel_size_layer_1: int = 3,
                  kernel_size_layer_2: int = 3,
+                 pool_1_kernel: int = 4,
+                 activation_function: str = 'relu'
                  ):
         super(CNN2d, self).__init__(output_size)
 
@@ -29,12 +31,28 @@ class CNN2d(BaseModel):
 
         self.cnn_1 = nn.Conv2d(in_channels=embeddings.embedding_size*2, out_channels=self.channels_layer_1,
                                padding=1, kernel_size=kernel_size_layer_1)
-        self.max_pool_1 = nn.MaxPool2d(kernel_size=4)
 
-        self.cnn_2 = nn.Conv2d(in_channels=self.channels_layer_1, out_channels=self.channels_layer_2,
-                               padding=1, kernel_size=kernel_size_layer_2)
+        self.cnn_out_size = self.channels_layer_1
 
-        self.classifier = nn.Linear(in_features=self.channels_layer_2, out_features=output_size)
+        if channels_layer_2 and kernel_size_layer_2:
+            self.max_pool_1 = nn.MaxPool2d(kernel_size=pool_1_kernel)
+
+            self.cnn_2 = nn.Conv2d(in_channels=self.channels_layer_1, out_channels=self.channels_layer_2,
+                                   padding=1, kernel_size=kernel_size_layer_2)
+            self.cnn_out_size = self.channels_layer_2
+        else:
+            self.max_pool_1 = None
+            self.cnn_2 = None
+
+        if activation_function == 'relu':
+            self.activation_function = F.relu
+        elif activation_function == 'tanh':
+            self.activation_function = F.tanh
+        else:
+            # Identity
+            self.activation_function = lambda x: x
+
+        self.classifier = nn.Linear(in_features=self.cnn_out_size, out_features=output_size)
 
     def forward(self, sentence_pair: Tuple[List[str], List[str]]) -> torch.Tensor:
         sentence_l, sentence_r = sentence_pair
@@ -53,13 +71,16 @@ class CNN2d(BaseModel):
 
         x = torch.cat((x_l, x_r), 0).view(1, -1, self.sentence_length, self.sentence_length)
 
-        x = F.relu(self.cnn_1(x))
-        x = self.max_pool_1(x)
-        x = F.relu(self.cnn_2(x))
+        x = self.activation_function(self.cnn_1(x))
+
+        if self.max_pool_1:
+            x = self.max_pool_1(x)
+        if self.cnn_2:
+            x = self.activation_function(self.cnn_2(x))
 
         x = F.max_pool2d(x, kernel_size=x.shape[3])
 
-        x = x.view(-1, self.channels_layer_2)
+        x = x.view(-1, self.cnn_out_size)
 
         x = F.softmax(self.classifier(x))
 

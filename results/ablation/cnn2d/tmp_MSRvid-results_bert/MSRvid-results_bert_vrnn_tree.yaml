@@ -1,0 +1,1 @@
+MSRvid-results_bert_vrnn_tree.yaml	vrnn_tree.yaml -c config/vrnn_tree.yaml -o embeddings bert	data/MSRvid	32.89	-

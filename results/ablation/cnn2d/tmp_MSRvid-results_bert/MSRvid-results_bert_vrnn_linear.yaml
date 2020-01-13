@@ -1,0 +1,1 @@
+MSRvid-results_bert_vrnn_linear.yaml	vrnn_linear.yaml -c config/vrnn_linear.yaml -o embeddings bert	data/MSRvid	33.67	-

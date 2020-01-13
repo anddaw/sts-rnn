@@ -15,7 +15,7 @@ def plot_scores(outfile, x_values, pearson, fscore, title='Tytuł'):
     plt.grid(linestyle='-')
     # if fscore[0] != '-':
     #     plt.plot(x_values, fscore * 10**2)
-    plt.savefig(outfile)
+    plt.savefig(outfile, bbox_inches='tight')
 
 
 if __name__ == '__main__':
@@ -27,5 +27,5 @@ if __name__ == '__main__':
 
     df = pandas.read_csv(args.infile, sep='\t')
 
-    plot_scores(args.outfile, df['param'], df['pearson'], df['fscore'])
+    plot_scores(args.outfile, df['param'], df['pearson'], df['fscore'], args.title)
 

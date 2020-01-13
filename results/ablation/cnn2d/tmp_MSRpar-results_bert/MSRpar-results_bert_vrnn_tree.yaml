@@ -1,0 +1,1 @@
+MSRpar-results_bert_vrnn_tree.yaml	vrnn_tree.yaml -c config/vrnn_tree.yaml -o embeddings bert	data/MSRpar	31.23	-

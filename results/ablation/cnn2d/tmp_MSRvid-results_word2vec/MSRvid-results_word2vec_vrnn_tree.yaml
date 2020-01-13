@@ -1,0 +1,1 @@
+MSRvid-results_word2vec_vrnn_tree.yaml	vrnn_tree.yaml -c config/vrnn_tree.yaml	data/MSRvid	30.85	-

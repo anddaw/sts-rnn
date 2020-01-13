@@ -1,0 +1,1 @@
+images-sent_length_8	cnn_2d.yaml -o sentence_length 8	data/images	34.74	0.8711

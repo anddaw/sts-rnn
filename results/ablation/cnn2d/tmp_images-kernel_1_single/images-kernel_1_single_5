@@ -1,0 +1,1 @@
+images-kernel_1_single_5	cnn_2d.yaml -o sentence_length 4 -o channels_layer_1 80 -o channels_layer_2 0 -o kernel_size_layer_1 5	data/images	30.24	0.8639

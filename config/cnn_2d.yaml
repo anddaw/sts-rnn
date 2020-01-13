@@ -20,4 +20,6 @@ label_rounding: approx
 model: cnn_2d
 sentence_length: 32
 
+# channels_layer_2: 0
+
 input_type: sentence

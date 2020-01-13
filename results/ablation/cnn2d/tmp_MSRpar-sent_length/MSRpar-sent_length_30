@@ -1,0 +1,1 @@
+MSRpar-sent_length_30	cnn_2d.yaml -o sentence_length 30	data/MSRpar	41.37	-

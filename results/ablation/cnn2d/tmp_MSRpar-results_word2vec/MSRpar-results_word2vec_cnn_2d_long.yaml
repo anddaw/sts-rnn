@@ -1,0 +1,1 @@
+MSRpar-results_word2vec_cnn_2d_long.yaml	cnn_2d_long.yaml -c config/cnn_2d_long.yaml	data/MSRpar	43.85	-

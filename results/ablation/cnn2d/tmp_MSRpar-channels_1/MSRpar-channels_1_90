@@ -1,0 +1,1 @@
+MSRpar-channels_1_90	cnn_2d.yaml -o sentence_length 35 -o channels_layer_1 90	data/MSRpar	43.93	-

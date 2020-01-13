@@ -1,0 +1,1 @@
+headlines-results_word2vec_vrnn_linear.yaml	vrnn_linear.yaml -c config/vrnn_linear.yaml	data/headlines	36.77	0.8580

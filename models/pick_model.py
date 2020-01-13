@@ -44,11 +44,14 @@ def pick_model(config, output_size=6) -> Optional[BaseModel]:
         kernel_size_layer_1 = int(config.get('kernel_size_layer_1', 3))
         kernel_size_layer_2 = int(config.get('kernel_size_layer_2', 3))
 
+        activation = config.get('activation_function', 'relu')
+
         return CNN2d(embeddings=embeddings,
                      output_size=output_size,
                      sentence_length=int(config['sentence_length']),
                      channels_layer_1=channels_layer_1,
                      channels_layer_2=channels_layer_2,
                      kernel_size_layer_1=kernel_size_layer_1,
-                     kernel_size_layer_2=kernel_size_layer_2)
+                     kernel_size_layer_2=kernel_size_layer_2,
+                     activation_function=activation)
 

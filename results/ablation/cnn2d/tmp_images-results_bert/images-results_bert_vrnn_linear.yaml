@@ -1,0 +1,1 @@
+images-results_bert_vrnn_linear.yaml	vrnn_linear.yaml -c config/vrnn_linear.yaml -o embeddings bert	data/images	36.25	0.8769

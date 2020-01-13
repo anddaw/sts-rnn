@@ -1,0 +1,1 @@
+headlines-results_bert_vrnn_tree.yaml	vrnn_tree.yaml -c config/vrnn_tree.yaml -o embeddings bert	data/headlines	35.33	0.8461

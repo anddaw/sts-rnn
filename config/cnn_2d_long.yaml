@@ -1,0 +1,28 @@
+# Embeddings type
+embeddings: dict
+
+# Path to word embeddings
+embeddings_path: data/collobert/embeddings50.txt
+
+# Path to train and test sentence pairs and labels
+dataset: data/images
+
+# Max number of epochs
+epochs: 15
+
+# Word labels type:
+#  - int - labels are one-hot (rounded to closest integer)
+#  - approx - labels are approximated between two closest integers
+
+label_rounding: approx
+
+# Model specification:
+model: cnn_2d
+
+sentence_length: 35
+channels_layer_1: 80
+channels_layer_2: 0
+kernel_size_layer_1: 3
+activation_function: ''
+
+input_type: sentence

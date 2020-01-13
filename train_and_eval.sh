@@ -1,18 +1,20 @@
-#!/usr/bin/bash -e
+#!/usr/bin/bash -ex
 
 export PYTHONPATH=$(dirname $(readlink -f $0))
 
 
 outfile="$1"
-config_file="$2"
-dataset="$3"
-options="$4"
+dataset="$2"
+options="$3"
+
+
+config_file=$(sed 's/-c *\([^ ]*\).*/\1/' <<< "$options")
 
 if [ -f "$outfile" ]; then
    exit 1
 fi
 
-python train.py -c $config_file $options -o dataset $dataset
+python train.py $options -o dataset $dataset
 pred_file=best_model_preds.tsv
 
 tmp_wa=$(mktemp)

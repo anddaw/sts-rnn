@@ -1,0 +1,1 @@
+MSRpar-results_bert_cnn_2d_long.yaml	cnn_2d_long.yaml -c config/cnn_2d_long.yaml -o embeddings bert	data/MSRpar	3.71	-

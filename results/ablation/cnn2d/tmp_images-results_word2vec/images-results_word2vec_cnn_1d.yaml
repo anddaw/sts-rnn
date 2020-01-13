@@ -1,0 +1,1 @@
+images-results_word2vec_cnn_1d.yaml	cnn_1d.yaml -c config/cnn_1d.yaml	data/images	43.20	0.8692

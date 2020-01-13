@@ -1,0 +1,1 @@
+MSRvid-results_word2vec_vrnn_linear.yaml	vrnn_linear.yaml -c config/vrnn_linear.yaml	data/MSRvid	25.27	-

@@ -1,0 +1,1 @@
+images-results_bert_cnn_2d_short.yaml	cnn_2d_short.yaml -c config/cnn_2d_short.yaml -o embeddings bert	data/images	33.95	0.8752

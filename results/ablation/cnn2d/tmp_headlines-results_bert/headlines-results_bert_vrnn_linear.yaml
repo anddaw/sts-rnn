@@ -1,0 +1,1 @@
+headlines-results_bert_vrnn_linear.yaml	vrnn_linear.yaml -c config/vrnn_linear.yaml -o embeddings bert	data/headlines	33.39	0.8536

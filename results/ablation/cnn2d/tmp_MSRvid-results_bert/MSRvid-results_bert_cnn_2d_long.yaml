@@ -1,0 +1,1 @@
+MSRvid-results_bert_cnn_2d_long.yaml	cnn_2d_long.yaml -c config/cnn_2d_long.yaml -o embeddings bert	data/MSRvid	2.00	-

@@ -1,0 +1,1 @@
+images-results_bert_vrnn_tree.yaml	vrnn_tree.yaml -c config/vrnn_tree.yaml -o embeddings bert	data/images	29.31	0.8492

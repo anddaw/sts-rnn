@@ -1,0 +1,1 @@
+headlines-results_bert_cnn_2d_short.yaml	cnn_2d_short.yaml -c config/cnn_2d_short.yaml -o embeddings bert	data/headlines	30.25	0.8552

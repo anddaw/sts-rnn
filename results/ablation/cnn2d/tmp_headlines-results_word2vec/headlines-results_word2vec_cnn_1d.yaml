@@ -1,0 +1,1 @@
+headlines-results_word2vec_cnn_1d.yaml	cnn_1d.yaml -c config/cnn_1d.yaml	data/headlines	36.11	0.8570

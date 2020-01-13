@@ -1,0 +1,1 @@
+images-channels_2_55	cnn_2d.yaml -o sentence_length 4 -o channels_layer_1 20 -o channels_layer_2 55	data/images	28.92	0.8631

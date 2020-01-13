@@ -1,0 +1,1 @@
+MSRpar-results_bert_cnn_1d.yaml	cnn_1d.yaml -c config/cnn_1d.yaml -o embeddings bert	data/MSRpar	3.71	-
